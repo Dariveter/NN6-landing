@@ -18,7 +18,7 @@ const server=http.createServer((req,res)=>{
   }
   if(name==='/')name='/index.html';
   const file=path.resolve(site,'.'+name);
-  if(!file.startsWith(site+path.sep)||!(name.startsWith('/assets/')||['/index.html','/reviews.html'].includes(name))||!types[path.extname(file)]){res.writeHead(404);res.end();return;}
+  if(!file.startsWith(site+path.sep)||!(name.startsWith('/assets/')||['/index.html'].includes(name))||!types[path.extname(file)]){res.writeHead(404);res.end();return;}
   try{
     const bytes=fs.readFileSync(file);
     res.writeHead(200,{'Content-Type':types[path.extname(file)],'Cache-Control':'no-store'});

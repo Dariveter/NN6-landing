@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import { spawnSync } from 'node:child_process';
 import { root, site } from './paths.mjs';
 
-const pages = ['index.html', 'reviews.html'];
+const pages = ['index.html'];
 const ids = {};
 let checkedLinks = 0;
 for (const name of pages) {

@@ -170,3 +170,25 @@
  prev.addEventListener('click',()=>step(-1));next.addEventListener('click',()=>step(1));
  rail.addEventListener('scroll',update,{passive:true});addEventListener('resize',update);update();
 })();
+
+
+/* All reviews under the cut: filters only affect the library, not the stories rail. */
+(() => {
+ const box=document.getElementById('all-reviews');
+ if(!box)return;
+ const buttons=Array.from(box.querySelectorAll('[data-review-filter]'));
+ const cards=Array.from(box.querySelectorAll('.review-library [data-review-type]'));
+ const status=box.querySelector('.review-status');
+ const choose=filter=>{
+  buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.reviewFilter===filter)));
+  cards.forEach(card=>{card.hidden=filter!=='all'&&card.dataset.reviewType!==filter;});
+  status.textContent='Материалов: '+cards.filter(x=>!x.hidden).length;
+ };
+ buttons.forEach(b=>b.addEventListener('click',()=>choose(b.dataset.reviewFilter)));
+ const reveal=()=>{
+  const card=document.getElementById(decodeURIComponent(location.hash.slice(1)));
+  if(!card||!box.contains(card))return;
+  box.open=true;choose('all');card.scrollIntoView({block:'start',behavior:'instant'});
+ };
+ addEventListener('hashchange',reveal);reveal();
+})();

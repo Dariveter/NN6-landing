@@ -15,7 +15,7 @@ const abs=(value,base=origin)=>{
 const target=path.join(root,'tilda');
 fs.mkdirSync(path.join(target,'zero-block'),{recursive:true});
 fs.mkdirSync(path.join(target,'t123'),{recursive:true});
-const pages=['index.html','reviews.html'];
+const pages=['index.html'];
 const manifest={generatedFrom:'FIELD v4.6',assetsBase:origin.href,pages:[],note:'Zero Block exports are visual HTML/CSS references; JavaScript interactions are not imported.'};
 for(const name of pages){
   let html=fs.readFileSync(path.join(site,name),'utf8');

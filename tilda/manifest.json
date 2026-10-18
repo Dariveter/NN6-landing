@@ -6,11 +6,6 @@
       "source": "site/index.html",
       "zeroBlock": "tilda/zero-block/index-inline-css.html",
       "t123": "tilda/t123/index.html"
-    },
-    {
-      "source": "site/reviews.html",
-      "zeroBlock": "tilda/zero-block/reviews-inline-css.html",
-      "t123": "tilda/t123/reviews.html"
     }
   ],
   "note": "Zero Block exports are visual HTML/CSS references; JavaScript interactions are not imported."

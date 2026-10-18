@@ -26,7 +26,7 @@ git push -u origin main
 3. Добавьте блок **T123 (HTML-код)** и вставьте содержимое файла `tilda/t123/index.html`:
 
 ```html
-<iframe src="https://dariveter.github.io/NN6-landing/index.html" title="Зимний интенсив НИИ Нейросетей" style="display:block;width:100%;height:100vh;height:100dvh;border:0" loading="eager"></iframe>
+<iframe src="https://dariveter.github.io/NN6-landing/index.html" title="Зимний интенсив НИИ Нейросетей" style="display:block;width:100%;height:100vh;height:100dvh;border:0" loading="eager" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
 ```
 
 4. В настройках страницы впишите заголовок и описание для поисковиков и соцсетей (iframe их не передаёт) и опубликуйте.
@@ -41,3 +41,5 @@ git push -u origin main
 
 - Поисковики индексируют страницу GitHub Pages, а не текст на ne-institute.com. Для рекламного лендинга это обычно не критично.
 - Если позже понадобится отказаться от iframe, в `tilda/zero-block/` лежит полный HTML со встроенными стилями (`npm run tilda`), картинки в нём берутся с GitHub Pages.
+
+Атрибуты `allow` и `allowfullscreen` в iframe нужны, чтобы видеоотзывы открывались во всплывающем окне и разворачивались на весь экран.

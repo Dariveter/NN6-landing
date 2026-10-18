@@ -192,3 +192,23 @@
  };
  addEventListener('hashchange',reveal);reveal();
 })();
+
+/* Video reviews play in a popup on the page; without JS the links still open YouTube. */
+(() => {
+ const dialog=document.getElementById('video-dialog');
+ if(!dialog||typeof dialog.showModal!=='function')return;
+ const frame=document.getElementById('video-dialog-frame'),title=document.getElementById('video-dialog-title'),yt=document.getElementById('video-dialog-youtube');
+ document.querySelectorAll('[data-video-open]').forEach(link=>link.addEventListener('click',evt=>{
+  const id=new URL(link.href).searchParams.get('v');
+  if(!id)return;
+  evt.preventDefault();
+  const card=link.closest('.review-card');
+  title.textContent=[card?.querySelector('h3')?.textContent,card?.querySelector('footer strong')?.textContent].filter(Boolean).join(' — ');
+  frame.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(id)+'?autoplay=1&rel=0';
+  yt.href=link.href;
+  document.documentElement.classList.add('expert-dialog-open');
+  dialog.showModal();
+ }));
+ dialog.addEventListener('close',()=>{frame.src='about:blank';document.documentElement.classList.remove('expert-dialog-open');});
+ dialog.addEventListener('click',evt=>{if(evt.target===dialog)dialog.close();});
+})();

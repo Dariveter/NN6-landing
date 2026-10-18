@@ -38,7 +38,7 @@ for(const name of pages){
   fs.writeFileSync(path.join(target,'zero-block',out),html);
   const heading=html.match(/<title>([\s\S]*?)<\/title>/i)?.[1]||'FIELD';
   const embed='<!-- Paste into one T123 block on a dedicated page. Remove default Tilda header/footer for this page. -->\n'+
-    '<iframe src="'+new URL(name,origin).href+'" title="'+heading.replaceAll('"','&quot;')+'" style="display:block;width:100%;height:100vh;height:100dvh;border:0" loading="eager" referrerpolicy="strict-origin-when-cross-origin"></iframe>\n';
+    '<iframe src="'+new URL(name,origin).href+'" title="'+heading.replaceAll('"','&quot;')+'" style="display:block;width:100%;height:100vh;height:100dvh;border:0" loading="eager" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>\n';
   fs.writeFileSync(path.join(target,'t123',name),embed);
   manifest.pages.push({source:'site/'+name,zeroBlock:'tilda/zero-block/'+out,t123:'tilda/t123/'+name});
 }

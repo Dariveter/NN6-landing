@@ -451,3 +451,11 @@ a.company-logo:hover{border-color:#83b9a9;background:#f3f8f5}
 @media(max-width:1000px){.review-library{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){.review-library{grid-template-columns:1fr}.more-reviews>summary{flex-direction:column;align-items:flex-start;padding:18px}.more-reviews-body{padding:4px 16px 20px}}
 .more-reviews .cta-close,.more-reviews[open] .cta-open{display:none}.more-reviews[open] .cta-close{display:inline}
+.video-dialog{width:min(980px,calc(100% - 32px))}
+.video-dialog-content{padding:30px 32px 26px}
+.video-dialog-content .eyebrow{font-size:10px;letter-spacing:.07em;margin:0 0 8px}
+#video-dialog-title{font:600 24px/1.2 var(--body);letter-spacing:-.03em;margin:0 56px 18px 0}
+.video-frame{position:relative;aspect-ratio:16/9;border-radius:14px;overflow:hidden;background:#061b27}
+.video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+#video-dialog-youtube{display:inline-block;margin-top:14px;font-size:13px}
+@media(max-width:620px){.video-dialog-content{padding:22px 16px 18px}#video-dialog-title{font-size:19px}}

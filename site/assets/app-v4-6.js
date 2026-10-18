@@ -212,3 +212,17 @@
  dialog.addEventListener('close',()=>{frame.src='about:blank';document.documentElement.classList.remove('expert-dialog-open');});
  dialog.addEventListener('click',evt=>{if(evt.target===dialog)dialog.close();});
 })();
+
+/* Euro payment: when the landing is embedded on ne-institute.com/aicamp6-1,
+   add the product to that page's Tilda cart (Allpay) instead of opening a new tab. */
+(() => {
+ const PARENT='https://ne-institute.com';
+ if(window.parent===window)return;
+ let embedded=false;
+ try{embedded=document.referrer.startsWith(PARENT)||(location.ancestorOrigins&&location.ancestorOrigins[0]===PARENT);}catch(_){}
+ if(!embedded)return;
+ document.querySelectorAll('a[href^="'+PARENT+'/aicamp6-1#order:"]').forEach(link=>link.addEventListener('click',evt=>{
+  evt.preventDefault();
+  window.parent.postMessage({type:'nn6-order',hash:new URL(link.href).hash},PARENT);
+ }));
+})();

@@ -1,0 +1,53 @@
+{
+  "checked": "2026-10-09",
+  "source": "https://ne-institute.com/aicamp6",
+  "payments": {
+    "participant": {
+      "eur": "https://ne-institute.com/aicamp6#order:%D0%9A%D1%8D%D0%BC%D0%BF%20%D0%9D%D0%9D6=350",
+      "rub": "https://pay.ne-institute.com/aicamp6#order:%D0%9A%D1%8D%D0%BC%D0%BF%20%D0%9D%D0%9D6=35000"
+    },
+    "vip": {
+      "eur": "https://ne-institute.com/aicamp6#order:%D0%9A%D1%8D%D0%BC%D0%BF%20%D0%9D%D0%9D6=1000",
+      "rub": "https://pay.ne-institute.com/aicamp6#order:%D0%9A%D1%8D%D0%BC%D0%BF%20%D0%9D%D0%9D6=100000"
+    },
+    "alumni": {
+      "eur": "https://allpay.to/~eygenson/0e132bee51",
+      "rub": "https://auth.robokassa.ru/merchant/Invoice/zsvU4K-XrU6vDPws1PCE7Q"
+    }
+  },
+  "legal": [
+    {
+      "url": "https://ne-institute.com/oferta",
+      "title": "Договор публичной оферты"
+    },
+    {
+      "url": "https://ne-institute.com/privacy",
+      "title": "Обработка персональных данных"
+    },
+    {
+      "url": "https://ne-institute.com/termsandconditions",
+      "title": "Terms and Conditions"
+    },
+    {
+      "url": "https://ne-institute.com/privacyeng",
+      "title": "Privacy Policy"
+    }
+  ],
+  "verified": [
+    "Participant RUB checkout opens with 35000 RUB and contact fields",
+    "Participant EUR checkout opens with 350 EUR and contact fields",
+    "VIP links and amounts are present on the source landing",
+    "All four legal pages load",
+    "Alumni Robokassa 17500 RUB and Allpay 175 EUR amounts verified"
+  ],
+  "not_verified": [
+    "Payment submission",
+    "Order completion",
+    "Invitation email delivery"
+  ],
+  "upstream_findings": [
+    "Repeated #order opening adds another item to the existing Tilda cart: 2 x 350 EUR observed",
+    "English privacy policy references UAE, EU and Russian rules; international offer references Israel. No legal rewrite performed.",
+    "Existing Allpay product name is NN-6 Basic. No payment settings changed."
+  ]
+}

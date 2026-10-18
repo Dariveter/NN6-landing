@@ -1,0 +1,15 @@
+{
+  "version": "v4.1",
+  "date": "2026-10-08",
+  "id": "dpl_2Vq8cR73ZJ8hnAbvBiVSCK6AHaCT",
+  "url": "https://nii-field-winter-v3-epu2wyghk-dmitriis-projects-8673976b.vercel.app",
+  "readyState": "READY",
+  "target": "preview",
+  "projectName": "nii-field-winter-v3",
+  "authentication": "Vercel Authentication retained per explicit user choice",
+  "browser_observed": "Log in to Vercel",
+  "local_visual_qa": "Passed on widths 320, 390, 1440; main, alumni and reviews checked",
+  "remote_content_visual_qa": "Not performed after authentication gate; no sharing bypass used",
+  "archive": "/Users/bigd/Obsidian Vault/Сообщество/Артефакты/FIELD-дизайн-v4/готовое/FIELD-лендинг-v4.1.zip",
+  "release_directory": "/private/tmp/field-winter-v4-1-release-20261008"
+}

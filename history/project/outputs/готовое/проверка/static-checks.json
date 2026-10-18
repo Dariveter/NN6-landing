@@ -1,0 +1,37 @@
+{
+  "checks": [
+    {
+      "page": "index.html",
+      "unique_ids": 29,
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "weeks": 7,
+      "community_events": 19
+    },
+    {
+      "page": "alumni.html",
+      "unique_ids": 29,
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "weeks": 7,
+      "community_events": 19
+    }
+  ],
+  "sizes": {
+    "core_uncompressed_bytes": 293056,
+    "with_all_portraits_uncompressed_bytes": 352276,
+    "javascript_uncompressed_bytes": 13296,
+    "pdf_bytes": 249108,
+    "core_files": {
+      "index.html": 45346,
+      "assets/style.css": 35989,
+      "assets/app.js": 7105,
+      "assets/field-gl.js": 6191,
+      "assets/machina.otf": 59148,
+      "assets/onest.ttf": 64272,
+      "assets/onest-semibold.ttf": 64444,
+      "assets/logo.png": 10384,
+      "assets/favicon.svg": 177
+    }
+  }
+}

@@ -1,0 +1,6 @@
+history/
+docs/
+tilda/
+artifacts/
+.git/
+*.zip

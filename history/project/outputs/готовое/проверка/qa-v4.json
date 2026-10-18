@@ -1,0 +1,71 @@
+{
+  "mobile320": {
+    "overflow": 0,
+    "width": 320
+  },
+  "december": {
+    "count": "Показано событий: 7",
+    "months": [
+      "dec",
+      "dec",
+      "dec",
+      "dec",
+      "dec",
+      "dec",
+      "dec"
+    ]
+  },
+  "january": {
+    "count": "Показано событий: 7",
+    "months": [
+      "jan",
+      "jan",
+      "jan",
+      "jan",
+      "jan",
+      "jan",
+      "jan"
+    ]
+  },
+  "strategy": {
+    "count": "Показано событий: 1",
+    "tracks": [
+      "Стратегия"
+    ]
+  },
+  "eventOpen": true,
+  "demo": {
+    "label": "true",
+    "visible": [
+      "content"
+    ]
+  },
+  "weekPointerClosed": true,
+  "weekKeyboardOpened": true,
+  "pause": {
+    "artTransform": "none",
+    "button": "true",
+    "paused": true
+  },
+  "reducedMotion": {
+    "artTransform": "none",
+    "matches": true,
+    "paused": true
+  },
+  "alumni": {
+    "h1": "Зимний\nинтенсив\nНИИ Нейросетей",
+    "overflow": 0,
+    "price": "175 евро\nили\n17,5 тысячи рублей"
+  },
+  "reviewVideos": {
+    "count": 14,
+    "overflow": 0
+  },
+  "reviewsAll": 29,
+  "desktop": {
+    "brokenImages": [],
+    "overflow": 0,
+    "width": 1440
+  },
+  "console": []
+}

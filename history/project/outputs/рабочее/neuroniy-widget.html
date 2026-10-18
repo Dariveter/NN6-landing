@@ -1,0 +1,17 @@
+<aside class="neuroniy-pet js-only" id="neuroniy-pet" aria-label="Помощник FIELD">
+  <button class="neuroniy-launch" type="button" aria-haspopup="dialog" aria-controls="neuroniy-dialog" aria-expanded="false">
+    <span class="neuroniy-label"><strong>Я Нейроний</strong><span>Ваш помощник FIELD</span><small>Есть вопрос? Давайте разберёмся.</small></span>
+    <span class="neuroniy-character"><img src="assets/neuroniy-pet-v4-2.webp" alt="" width="280" height="280"><span class="neuroniy-shadow"></span></span>
+  </button>
+</aside>
+<dialog class="neuroniy-dialog" id="neuroniy-dialog" aria-labelledby="neuroniy-title">
+  <div class="neuroniy-panel">
+    <header class="neuroniy-header"><img src="assets/neuroniy-pet-v4-2.webp" alt="" width="72" height="72"><div><h2 id="neuroniy-title">Нейроний</h2><p>Ваш помощник FIELD</p></div><button class="neuroniy-close" type="button" aria-label="Закрыть диалог с Нейронием">×</button></header>
+    <div class="neuroniy-conversation" role="log" aria-live="polite" aria-relevant="additions" aria-label="Диалог с Нейронием">
+      <div class="neuroniy-message from-neuroniy"><p>Я Нейроний, ваш помощник FIELD. Помогу разобраться в программе и условиях. Что хотите узнать?</p></div>
+    </div>
+    <div class="neuroniy-suggestions" aria-label="Частые вопросы"><button type="button" data-neuroniy-question="Сколько стоит участие?">Сколько стоит?</button><button type="button" data-neuroniy-question="Какие инструменты понадобятся? Подписки на них входят в стоимость?">Какие инструменты?</button><button type="button" data-neuroniy-question="Я совсем новичок. Подойдёт ли мне программа?">А если я новичок?</button><button type="button" data-neuroniy-question="Как совмещать программу с работой и сколько времени нужно?">Сколько времени нужно?</button></div>
+    <form class="neuroniy-form"><label for="neuroniy-question" class="neuroniy-sr">Ваш вопрос о FIELD</label><textarea id="neuroniy-question" rows="1" maxlength="700" placeholder="Спросите о FIELD…" required></textarea><button class="neuroniy-send" type="submit" aria-label="Отправить вопрос">↑</button></form>
+    <div class="neuroniy-foot"><p class="neuroniy-mode">Ответы по программе FIELD</p><a href="https://t.me/stonerized" target="_blank" rel="noopener">Сразу к Юре ↗</a><details class="neuroniy-privacy"><summary>Как обрабатывается вопрос</summary><p>При включённых ИИ-ответах ваш вопрос и несколько предыдущих реплик передаются сервису модели через Vercel. Не присылайте пароли и конфиденциальные документы. Сайт не сохраняет историю после закрытия страницы.</p></details></div>
+  </div>
+</dialog>

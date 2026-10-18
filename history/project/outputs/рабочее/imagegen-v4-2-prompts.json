@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-08",
+  "tool": "image_gen.imagegen",
+  "transparent_background": true,
+  "assets": [
+    {
+      "name": "podcast",
+      "prompt": "Use case: stylized-concept. Create ONE isolated premium small 3D editorial illustration for the FIELD website. The attached first image is a STYLE REFERENCE ONLY: tactile paper, matte colored ceramic, dark navy stone, warm ivory details, architectural miniature with soft studio lighting and realistic depth. Transparent background, no environment or floor extending beyond the subject. Square composition with 12% transparent margin. Crisp large simple shapes readable at 90px. Saturated but tasteful mint, coral and cobalt accents. No text, words, logos, numbers, frames, extra UI, generic glass blobs or neon. Subject: A beautiful freestanding cobalt-and-ivory broadcast microphone, a sweeping blue paper sound ribbon and a small empty sculptural chair in warm coral, on one compact dark stone base. A visual metaphor for a podcast about the world and the future of work.",
+      "original": "podcast-v4-2-original.png"
+    },
+    {
+      "name": "memory",
+      "prompt": "Use case: stylized-concept. Create ONE isolated premium small 3D editorial illustration for the FIELD website. The attached first image is a STYLE REFERENCE ONLY: tactile paper, matte colored ceramic, dark navy stone, warm ivory details, architectural miniature with soft studio lighting and realistic depth. Transparent background, no environment or floor extending beyond the subject. Square composition with 12% transparent margin. Crisp large simple shapes readable at 90px. Saturated but tasteful mint, coral and cobalt accents. No text, words, logos, numbers, frames, extra UI, generic glass blobs or neon. Subject: A miniature second memory: open mint archive drawers with upright ivory note cards and a connected arching mint paper ribbon holding three round colored knowledge nodes. Compact, tactile, coherent, no labels or letters.",
+      "original": "memory-v4-2-original.png"
+    },
+    {
+      "name": "case",
+      "prompt": "Use case: stylized-concept. Create ONE isolated premium small 3D editorial illustration for the FIELD website. The attached first image is a STYLE REFERENCE ONLY: tactile paper, matte colored ceramic, dark navy stone, warm ivory details, architectural miniature with soft studio lighting and realistic depth. Transparent background, no environment or floor extending beyond the subject. Square composition with 12% transparent margin. Crisp large simple shapes readable at 90px. Saturated but tasteful mint, coral and cobalt accents. No text, words, logos, numbers, frames, extra UI, generic glass blobs or neon. Subject: A beautiful large coral-handled magnifying lens leaning over an ivory report card with a simple three-bar mint chart, placed on a dark navy stone wedge. Compact analytic case-study sculpture, no writing.",
+      "original": "case-v4-2-original.png"
+    },
+    {
+      "name": "masterclass",
+      "prompt": "Use case: stylized-concept. Create ONE isolated premium small 3D editorial illustration for the FIELD website. The attached first image is a STYLE REFERENCE ONLY: tactile paper, matte colored ceramic, dark navy stone, warm ivory details, architectural miniature with soft studio lighting and realistic depth. Transparent background, no environment or floor extending beyond the subject. Square composition with 12% transparent margin. Crisp large simple shapes readable at 90px. Saturated but tasteful mint, coral and cobalt accents. No text, words, logos, numbers, frames, extra UI, generic glass blobs or neon. Subject: A small ivory presentation easel with mint and coral physical graphic shapes, a tiny cobalt pointer and sweeping coral paper ribbon around its base. A beautiful hands-on masterclass visual, no writing.",
+      "original": "masterclass-v4-2-original.png"
+    },
+    {
+      "name": "orders",
+      "prompt": "Use case: stylized-concept. Create ONE isolated premium small 3D editorial illustration for the FIELD website. The attached first image is a STYLE REFERENCE ONLY: tactile paper, matte colored ceramic, dark navy stone, warm ivory details, architectural miniature with soft studio lighting and realistic depth. Transparent background, no environment or floor extending beyond the subject. Square composition with 12% transparent margin. Crisp large simple shapes readable at 90px. Saturated but tasteful mint, coral and cobalt accents. No text, words, logos, numbers, frames, extra UI, generic glass blobs or neon. Subject: Three beautifully interlocking matte mint, coral and cobalt geometric building blocks forming a working mechanism on a dark stone step with one ivory paper task card. A metaphor for solving a participant task together, no text.",
+      "original": "orders-v4-2-original.png"
+    },
+    {
+      "name": "neuroniy",
+      "prompt": "Use case: identity-preserve / stylized-concept. Image 1 is the exact identity reference for Neuroniy, the NII FIELD mascot. Image 2 is the STYLE reference for the website. Create a single friendly 3D pet-like character as a transparent cut-out. Preserve the core identity: round turquoise/cyan body, two large round WHITE eyes with small navy pupils looking slightly upward, a simple white open smiling mouth. Translate the flat circle into a soft matte turquoise spherical character, add only two tiny rounded arms and two tiny feet of the same turquoise material. One little arm is raised in a friendly greeting. The character should feel curious, intelligent, calm and charming, suitable for a serious adult learning community. Tactile smooth soft ceramic/paper texture, premium studio-rendered depth matching the site, no plastic shine. Front three-quarter view, whole character fully visible, centered with 15% transparent margin all around, square image. No separate scene, floor, furniture, clothes, text, letters, badge, props, speech bubble, watermark. Keep the original simple face recognizable and avoid resemblance to an animal.",
+      "original": "neuroniy-v4-2-original.png"
+    }
+  ]
+}

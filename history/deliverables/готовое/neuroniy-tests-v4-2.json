@@ -1,0 +1,74 @@
+{
+  "version": "v4.2",
+  "live_model_requested": false,
+  "tests": [
+    {
+      "name": "Price is for entire cycle",
+      "passed": true
+    },
+    {
+      "name": "Alumni amount",
+      "passed": true
+    },
+    {
+      "name": "Tools do not include invented subscriptions",
+      "passed": true
+    },
+    {
+      "name": "Unknown refund routes to Yuri",
+      "passed": true
+    },
+    {
+      "name": "Off-topic routes to Yuri",
+      "passed": true
+    },
+    {
+      "name": "Specific event can be found",
+      "passed": true
+    },
+    {
+      "name": "No stale event terminology",
+      "passed": true
+    },
+    {
+      "name": "Source corpus includes team, events and stories",
+      "passed": true
+    },
+    {
+      "name": "Rejects model answer without source",
+      "passed": true
+    },
+    {
+      "name": "Allows verified source only",
+      "passed": true
+    },
+    {
+      "name": "Human handoff action is fixed",
+      "passed": true
+    },
+    {
+      "name": "Conversation roles and length are bounded",
+      "passed": true
+    },
+    {
+      "name": "Rate control rejects excess",
+      "passed": true
+    },
+    {
+      "name": "Disabled AI serves guide without network",
+      "passed": true
+    },
+    {
+      "name": "Invalid input, origin and content type rejected",
+      "passed": true
+    },
+    {
+      "name": "AI path uses public source corpus and server instructions",
+      "passed": true
+    },
+    {
+      "name": "Budget/provider failure falls back to useful answer",
+      "passed": true
+    }
+  ]
+}

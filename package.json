@@ -1,0 +1,15 @@
+{
+  "name": "nn6-landing",
+  "version": "4.6.0",
+  "private": true,
+  "description": "FIELD winter 2026–2027 landing and complete team handoff",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node scripts/check.mjs",
+    "build": "node scripts/build.mjs",
+    "tilda": "node scripts/export-tilda.mjs"
+  }
+}

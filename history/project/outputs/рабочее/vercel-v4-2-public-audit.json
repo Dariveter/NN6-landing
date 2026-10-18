@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-08",
+  "user_request": "Мне нужна публичная ссылка",
+  "version": "v4.2",
+  "public_url": "https://nii-field-winter-v3.vercel.app",
+  "deployment_id": "dpl_HYtQczcZuDf6snFzzhmDW1CDgJYH",
+  "deployment_url": "https://nii-field-winter-v3-g0q8h9cfl-dmitriis-projects-8673976b.vercel.app",
+  "target": "production",
+  "state": "READY",
+  "previous_production": "dpl_3A3Z7RuqPDJVMGdm2gyrGueoh3A2",
+  "same_52_reviewed_public_files": true,
+  "browser_without_vercel_login": true,
+  "price_answer_verified": true,
+  "ai_model_enabled": false,
+  "project_protection_changed": false
+}

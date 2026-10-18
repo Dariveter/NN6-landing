@@ -1,0 +1,19 @@
+{
+  "version": "v4.5",
+  "checked": "2026-10-09",
+  "all_10_experts_opened": true,
+  "name_photo_summary_triggers": true,
+  "keyboard_enter_escape": true,
+  "focus_returns_to_opener": true,
+  "mobile_widths": [
+    320,
+    390
+  ],
+  "horizontal_overflow": false,
+  "public_bios_and_photos_verified": true,
+  "public_discount_verified": true,
+  "public_console_errors": [],
+  "deployment": "dpl_D26o1B8PGjusMccZdw5Y7fjYK8uz",
+  "alias": "https://nii-field-winter-v3.vercel.app",
+  "status": "READY"
+}

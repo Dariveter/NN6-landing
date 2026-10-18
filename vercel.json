@@ -1,0 +1,10 @@
+{
+  "framework": null,
+  "buildCommand": "node scripts/build.mjs",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/neuroniy.js": {
+      "maxDuration": 30
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "version": "v4.3",
+  "release_directory": "/private/tmp/field-winter-v4-3-release-20261009",
+  "not_in_git_repository": true,
+  "public_files": [
+    {
+      "path": "alumni.html",
+      "bytes": 98055,
+      "sha256": "e40469cabed1bab8e9c5dfc38a3ef0fddbae1b74071d123c41224c75a2b2cc7b"
+    },
+    {
+      "path": "api/neuroniy.js",
+      "bytes": 8586,
+      "sha256": "072c76ec2fdcb3bcc51d7f49729f4b2f268b30246d6627ce6fed718649d6b08b"
+    },
+    {
+      "path": "assets/alexander.webp",
+      "bytes": 16348,
+      "sha256": "65a82a012f6753a14f50fdbbaa6d129a1f71a705b5b32db03ec07d2196684824"
+    },
+    {
+      "path": "assets/andrey.webp",
+      "bytes": 13810,
+      "sha256": "7f131d2839a36c6008b6b626a69cf63db53ec5a79b40b7b916893ff17367e71c"
+    },
+    {
+      "path": "assets/app-v4-3.js",
+      "bytes": 4458,
+      "sha256": "5a1066695aba9809f23e5cdc61583775e68d526249815b0e085289e9dcaa1991"
+    },
+    {
+      "path": "assets/askona-logo.svg",
+      "bytes": 5292,
+      "sha256": "21117b91e45796f448996f3ec52156a5ff3b9705502a9153f2b480855ad9e4d5"
+    },
+    {
+      "path": "assets/b2b-dobrograd.webp",
+      "bytes": 3212,
+      "sha256": "fc043aeb3664757a947d8cd7cb58d208d402ccd363a79a48d8c90184a731a2a0"
+    },
+    {
+      "path": "assets/b2b-everia.webp",
+      "bytes": 7680,
+      "sha256": "73dfe35f8d055f3271471ca2d4ff8067a144e3652a8830d24cd9ef8d57e127da"
+    },
+    {
+      "path": "assets/b2b-hart.webp",
+      "bytes": 5190,
+      "sha256": "bf4f8879a83ab6bb4c81924fbeb7eab56d29b08f94c788beeffa73756364e854"
+    },
+    {
+      "path": "assets/b2b-polair.webp",
+      "bytes": 7000,
+      "sha256": "e0a8648ec24920dbe2fac1c6b7b84d9d238e274378c3921c1a284a2f0a9c2010"
+    },
+    {
+      "path": "assets/b2b-samolet-plus.webp",
+      "bytes": 8132,
+      "sha256": "c332a1f2bc9a4e936253d3f535df4e9443216b55d2897a022ff8acc7d1d8e7ea"
+    },
+    {
+      "path": "assets/b2b-unicom.png",
+      "bytes": 4936,
+      "sha256": "aaef2cc0017dafeb5060a0b20a6630b60401c7070b815b79365f1ed82d832019"
+    },
+    {
+      "path": "assets/b2b-zdravservice.webp",
+      "bytes": 7048,
+      "sha256": "ac13a73447f1887c39c3bd040d8c9cd456343f8c7398dba8cbab8009f26fb656"
+    },
+    {
+      "path": "assets/corestone-logo.webp",
+      "bytes": 8496,
+      "sha256": "6267b85f998f136aa9f5a9f978091f2012ddee94cf28c5bd33cb5955b9809052"
+    },
+    {
+      "path": "assets/ddx-logo.svg",
+      "bytes": 3753,
+      "sha256": "3f697644cb8137e42d0c7170204b9ead0a841ed04ba1000497956ac573c1d5ef"
+    },
+    {
+      "path": "assets/denis.webp",
+      "bytes": 18540,
+      "sha256": "f0cf7185f3b22203f65f89d838aff49ddd4039b456165eef6b0c3b46073d5224"
+    },
+    {
+      "path": "assets/dmitry.webp",
+      "bytes": 24536,
+      "sha256": "035c72888dd448aba4c61a549a6a9e672f9ea7688a0586c03aff73229de26c10"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 177,
+      "sha256": "3fae6140df8c3e66771160b5e530863dc05140afa809aac4c6775c2a4d487e21"
+    },
+    {
+      "path": "assets/format-case-v4-2.webp",
+      "bytes": 17536,
+      "sha256": "32157fac80d47ad6f678a53b455bbc16a92e3051c9e5ccda868152a68aac49d2"
+    },
+    {
+      "path": "assets/format-masterclass-v4-2.webp",
+      "bytes": 20560,
+      "sha256": "340e28260790baa8ff5de387ad671b48231f21e496c35b806a1fa7d96bf9b8e8"
+    },
+    {
+      "path": "assets/format-memory-v4-2.webp",
+      "bytes": 21384,
+      "sha256": "d469633445689fd8759a91ed6f021583028403c8cb8a4bbaf80200b470a6064e"
+    },
+    {
+      "path": "assets/format-orders-v4-2.webp",
+      "bytes": 18810,
+      "sha256": "3967c8cea382f9c562e4177b9bf6e781ba016e9c1dd5998cd3dabcc7d78a762f"
+    },
+    {
+      "path": "assets/format-podcast-v4-2.webp",
+      "bytes": 25114,
+      "sha256": "a8dd567962bcc16eefc814b49a71fd09540b3e311089cf9570a79f993d758290"
+    },
+    {
+      "path": "assets/hero-v4-small.webp",
+      "bytes": 30180,
+      "sha256": "133ccda3264eae9bb29a766928b6e65bb6fff3a06d06bc604e495d9df16f4769"
+    },
+    {
+      "path": "assets/hero-v4.webp",
+      "bytes": 97722,
+      "sha256": "0f23d765df1bb4a4523096e7a50efd4fffaaf7376f4d202936fb6aa6f77b7787"
+    },
+    {
+      "path": "assets/machina.otf",
+      "bytes": 59148,
+      "sha256": "d4d248b788352d18165a0480830a1056ca286e397e11cf01be91e7c76163e513"
+    },
+    {
+      "path": "assets/mentor-v3.webp",
+      "bytes": 104662,
+      "sha256": "895ac472ed2b811ee81e03248a9c6f4df37290f63f2f215d1384213a07c35540"
+    },
+    {
+      "path": "assets/motion-v4.js",
+      "bytes": 6540,
+      "sha256": "8577e4fbe8e39491280b6b4427f69b45c8ab0a7dba512e6b3111bb297ac7f779"
+    },
+    {
+      "path": "assets/murom-logo.webp",
+      "bytes": 6526,
+      "sha256": "d635f36df29a2c22b0abd01f6b217b50c067750a69fb8eac3449fa8894556a80"
+    },
+    {
+      "path": "assets/neuroniy-engine-v4-3.js",
+      "bytes": 16595,
+      "sha256": "2e194a0b6d8883cfed8330c2533042eb6cbb13ac983cc117ae9443f10a47e37b"
+    },
+    {
+      "path": "assets/neuroniy-knowledge-v4-3.json",
+      "bytes": 130689,
+      "sha256": "f490fe0a595a1bd2478807782669c4386d2ce0e879ad83d10b626187e7bf21ed"
+    },
+    {
+      "path": "assets/neuroniy-pet-v4-2.webp",
+      "bytes": 9996,
+      "sha256": "edf87dffe23bf1c33ced1f01cfe9ef44da6fe972fc4a5495c5de53de74276d77"
+    },
+    {
+      "path": "assets/neuroniy-v4-2.css",
+      "bytes": 8087,
+      "sha256": "d32502eedf133accfae9431ae1cf6d166e39de0e2ccfe8b3c46b7bf585f9518b"
+    },
+    {
+      "path": "assets/neuroniy-v4-3.js",
+      "bytes": 7047,
+      "sha256": "0c068fae9a4aa167cb2df68530635587869e200b0a00495aa7c41a828b584a7d"
+    },
+    {
+      "path": "assets/nii-logo-light.webp",
+      "bytes": 9954,
+      "sha256": "35f58e31e3082ddf86dabb55501e66c5562153595efd63b3fe0ab0f1a2d7d31d"
+    },
+    {
+      "path": "assets/nii-logo-white.webp",
+      "bytes": 4482,
+      "sha256": "300d46e1068d8f2238702e229de4b0b41dbacd08f123c3a77e5cc57069532cdf"
+    },
+    {
+      "path": "assets/onest-semibold.ttf",
+      "bytes": 64444,
+      "sha256": "a688b7d4988c21529bcf6d68d216a47210e1fd73a43855e23bbb9ca777279209"
+    },
+    {
+      "path": "assets/onest.ttf",
+      "bytes": 64272,
+      "sha256": "e4f3c821cfb8e8e4b77680dca62a9799c5f73e2774e0adbe4d435ec3c1549fb9"
+    },
+    {
+      "path": "assets/reviews-v3.js",
+      "bytes": 487,
+      "sha256": "9ec24ded4f9ec7b2e9e0ecfc037f1ecb86c3e9539af8eb38dc5ec371ca7e5701"
+    },
+    {
+      "path": "assets/route-camp-v4-1.webp",
+      "bytes": 40640,
+      "sha256": "997a4100b8b6e2279ee6ff13c4fba0e6abbfae8f50456a4353e45514337e47ac"
+    },
+    {
+      "path": "assets/route-practice-v4-1.webp",
+      "bytes": 31412,
+      "sha256": "a596e587a11e5ff65535253d348d8dedcf30bb02974610445fedfbadc1be1ba1"
+    },
+    {
+      "path": "assets/route-strategy-v4-1.webp",
+      "bytes": 28732,
+      "sha256": "cb905aaaec7376389058b9f3de2225d064d6b7b3b1d223943a11b963f16b6cd6"
+    },
+    {
+      "path": "assets/samolet-logo.svg",
+      "bytes": 10151,
+      "sha256": "4680a3a0d360b06c0c7f5851013615bffc7fdaf76e4def6c880093ef728de9f6"
+    },
+    {
+      "path": "assets/sergey.webp",
+      "bytes": 16144,
+      "sha256": "45f77cd528522e85d828e7ecf3bbcd01f83b1e239ee759b5991d1bf4065d46ca"
+    },
+    {
+      "path": "assets/style-v4-3.css",
+      "bytes": 132821,
+      "sha256": "c3ba19fce5dd23cc36ef58c2351573aab55b213737bc65907efd13b913c7df5d"
+    },
+    {
+      "path": "assets/valentin.webp",
+      "bytes": 15174,
+      "sha256": "c759df963bff5358ceaa589ecd9346b3839d05bf1c758a17ed277ab3b17c7ad1"
+    },
+    {
+      "path": "assets/vasilyev.webp",
+      "bytes": 11282,
+      "sha256": "49f44eafce3c25c66d5249f2d338ec7b708e5c2f53008bc6ce276a20f3fb1f7b"
+    },
+    {
+      "path": "assets/wrf-logo.webp",
+      "bytes": 9108,
+      "sha256": "a77c9b631979910b67a3e6c792997e59071ae56f41a05520010fcbc394cd2615"
+    },
+    {
+      "path": "assets/yulia.webp",
+      "bytes": 16212,
+      "sha256": "14583ce78a2193ec2a416266610b70fca0802c75fd35216e11909dd481d9a081"
+    },
+    {
+      "path": "index.html",
+      "bytes": 98113,
+      "sha256": "1fbcf12fff478e8a93b00e526739eeaa48e9c0aaf405afaeea5d537a729a5266"
+    },
+    {
+      "path": "reviews.html",
+      "bytes": 32719,
+      "sha256": "083f1f24569abfb6f31b88b9ff84bb1fa933fe772c1537dd64d901fc474597a2"
+    }
+  ],
+  "access": "Public production alias requested by owner; preview authentication unchanged",
+  "static_checks": {
+    "index.html": {
+      "ids": 68,
+      "public_asset_references_valid": true,
+      "documents": 4
+    },
+    "alumni.html": {
+      "ids": 68,
+      "public_asset_references_valid": true,
+      "documents": 4
+    },
+    "reviews.html": {
+      "ids": 35,
+      "public_asset_references_valid": true,
+      "documents": 4
+    }
+  }
+}

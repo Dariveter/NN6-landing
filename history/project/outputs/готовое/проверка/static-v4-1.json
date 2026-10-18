@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "page": "index.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "h1": 1,
+      "events": 19,
+      "team": 9,
+      "review_materials": 6
+    },
+    {
+      "page": "alumni.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "h1": 1,
+      "events": 19,
+      "team": 9,
+      "review_materials": 6
+    },
+    {
+      "page": "reviews.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "h1": 1,
+      "events": 0,
+      "team": 0,
+      "review_materials": 29
+    }
+  ],
+  "core_files_bytes": {
+    "index.html": 82565,
+    "assets/style-v4-1.css": 118801,
+    "assets/app-v4.js": 5116,
+    "assets/motion-v4.js": 6540,
+    "assets/machina.otf": 59148,
+    "assets/onest.ttf": 64272,
+    "assets/onest-semibold.ttf": 64444,
+    "assets/nii-logo-white.webp": 4482,
+    "assets/hero-v4.webp": 97722
+  },
+  "desktop_core_uncompressed_bytes": 503090,
+  "mobile_hero_bytes": 30180,
+  "public_file_count": 41,
+  "note": "File sizes, not a network speed or Core Web Vitals measurement."
+}

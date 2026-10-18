@@ -1,0 +1,137 @@
+{
+  "version": "v4.1",
+  "viewports": [
+    {
+      "overflow": false,
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "checks": {
+    "weekDisclosure": true,
+    "content": {
+      "audience": "Для руководителей, предпринимателей, специалистов и всех любопытных. Приходите с любым уровнем подготовки и своими задачами.\nВместе создаём систему навыков.",
+      "badImages": [],
+      "fullCampName": "КЭМП\nНачальник\nнейросетей\n— 6",
+      "order": [
+        {
+          "id": "top"
+        },
+        {
+          "id": "how",
+          "index": "01"
+        },
+        {
+          "id": "companies"
+        },
+        {
+          "id": "rhythm",
+          "index": "02"
+        },
+        {
+          "id": "program",
+          "index": "03"
+        },
+        {
+          "id": "calendar",
+          "index": "04"
+        },
+        {
+          "id": "people",
+          "index": "05"
+        },
+        {
+          "id": "stories",
+          "index": "06"
+        },
+        {
+          "id": "tasks",
+          "index": "07"
+        },
+        {
+          "id": "price",
+          "index": "08"
+        },
+        {
+          "id": "join",
+          "index": "09"
+        },
+        {
+          "id": "faq",
+          "index": "10"
+        }
+      ],
+      "routeImages": [
+        {
+          "loaded": true,
+          "src": "assets/route-camp-v4-1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/route-practice-v4-1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/route-strategy-v4-1.webp"
+        }
+      ],
+      "support": "Мы рядом, когда вы застряли на задаче.",
+      "timeStyles": [
+        {
+          "size": "19px",
+          "text": "19:00 Москва",
+          "weight": "400"
+        },
+        {
+          "size": "19px",
+          "text": "18:00 Израиль",
+          "weight": "400"
+        },
+        {
+          "size": "19px",
+          "text": "17:00 CET",
+          "weight": "400"
+        }
+      ],
+      "visibleAbbreviations": null
+    },
+    "alumni": {
+      "css": "assets/style-v4-1.css",
+      "order": [
+        "top",
+        "how",
+        "companies",
+        "rhythm",
+        "program",
+        "calendar",
+        "people",
+        "stories",
+        "tasks",
+        "price",
+        "join",
+        "faq"
+      ],
+      "price": "175 евро\nили\n17,5 тысячи рублей",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "reviews": {
+      "scrollWidth": 390,
+      "shown": 14,
+      "status": "Материалов: 14",
+      "total": 29,
+      "width": 390
+    },
+    "consoleErrors": []
+  }
+}

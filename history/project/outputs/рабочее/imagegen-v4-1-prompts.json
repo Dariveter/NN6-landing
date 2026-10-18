@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-08",
+  "tool": "image_gen.imagegen",
+  "purpose": "FIELD v4.1 program-track illustrations",
+  "reference_image": "hero-v4 original",
+  "transparent_background": true,
+  "assets": [
+    {
+      "track": "camp",
+      "prompt": "Create a single isolated premium 3D editorial object for a website program card. Use the attached image ONLY as a visual-style reference: matching tactile paper, deep navy stone, softly lit architectural model, precise believable geometry and shadows. This is a NEW individual cut-out asset, not an edit of the whole reference scene. Transparent background, no floor extending to edges, no surrounding room. All object geometry fully inside the frame with at least 12% generous transparent margins. 1:1 composition. Three-quarter low camera, object fills about 74% of canvas. Polished handcrafted museum installation, physically plausible, vivid colors, lots of dimensional depth, crisp details at small size. No text, letters, numbers, logo, UI, frames, watermark, neon or generic chrome/glass blobs. Subject: an expressive open ivory book with many delicately fanned pages, resting on two small stacked deep navy stone blocks. A wide mint-teal paper ribbon #7DD4C8 curls up into a graceful tall loop behind the book, then folds underneath the pages. A tiny warm coral paper bookmark adds a color accent. Inviting, curious, the sculpture represents building skills through learning. The open book must be instantly recognizable.",
+      "source": "route-camp-v4-1-original.png",
+      "web": "assets/route-camp-v4-1.webp"
+    },
+    {
+      "track": "practice",
+      "prompt": "Create a single isolated premium 3D editorial object for a website program card. Use the attached image ONLY as a visual-style reference: matching tactile paper, deep navy stone, softly lit architectural model, precise believable geometry and shadows. This is a NEW individual cut-out asset, not an edit of the whole reference scene. Transparent background, no floor extending to edges, no surrounding room. All object geometry fully inside the frame with at least 12% generous transparent margins. 1:1 composition. Three-quarter low camera, object fills about 74% of canvas. Polished handcrafted museum installation, physically plausible, vivid colors, lots of dimensional depth, crisp details at small size. No text, letters, numbers, logo, UI, frames, watermark, neon or generic chrome/glass blobs. Subject: a vivid warm coral paper ribbon #E8734A makes a beautifully shaped S-curve over a low deep navy stone arch. Three ivory report sheets travel along the ribbon, with understated readable visual bar charts and tiny mint/cobalt geometric marks (NO lettering). The foreground sheet is neatly complete while the background two sheets overlap. A small mint semicircle supports one edge. Represents transforming work material into a usable result. The chart and documents must be instantly recognizable.",
+      "source": "route-practice-v4-1-original.png",
+      "web": "assets/route-practice-v4-1.webp"
+    },
+    {
+      "track": "strategy",
+      "prompt": "Create a single isolated premium 3D editorial object for a website program card. Use the attached image ONLY as a visual-style reference: matching tactile paper, deep navy stone, softly lit architectural model, precise believable geometry and shadows. This is a NEW individual cut-out asset, not an edit of the whole reference scene. Transparent background, no floor extending to edges, no surrounding room. All object geometry fully inside the frame with at least 12% generous transparent margins. 1:1 composition. Three-quarter low camera, object fills about 74% of canvas. Polished handcrafted museum installation, physically plausible, vivid colors, lots of dimensional depth, crisp details at small size. No text, letters, numbers, logo, UI, frames, watermark, neon or generic chrome/glass blobs. Subject: a rich cobalt-blue #3B82F6 sculptural staircase rises and curls into a broad ribbon spiral. At its top stands a small warm ivory physical planning board, with a minimal fine grid and exactly three connected circular nodes in mint, coral, and blue. Under the stair a small deep navy stone block anchors the composition. A small mint path emerges at the base. Represents seeing a route ahead for a company and career. Stair and planning board must be instantly recognizable.",
+      "source": "route-strategy-v4-1-original.png",
+      "web": "assets/route-strategy-v4-1.webp"
+    }
+  ]
+}

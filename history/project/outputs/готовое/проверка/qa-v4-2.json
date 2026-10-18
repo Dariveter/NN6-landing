@@ -1,0 +1,105 @@
+{
+  "version": "v4.2",
+  "viewports": [
+    {
+      "dialog": {
+        "bottom": 732,
+        "height": 724,
+        "width": 304
+      },
+      "height": 740,
+      "scrollWidth": 320,
+      "textarea": 666.6015625,
+      "width": 320
+    },
+    {
+      "height": 960,
+      "missingImages": [],
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "checks": {
+    "handoff": {
+      "answer": "Кажется, этот ответ пока живёт у Юры, а не в моей нейронной голове 🙂 Не буду фантазировать — у него можно уточнить детали в Telegram.Написать Юре в Telegram ↗Ответ из справки по программе",
+      "url": "https://t.me/stonerized"
+    },
+    "closeAndFocus": {
+      "closed": true,
+      "focusRestored": true,
+      "scrollUnlocked": true
+    },
+    "sourceLink": {
+      "dialogClosed": true,
+      "eventOpen": true,
+      "hash": "#event-nov-01"
+    },
+    "calendar": [
+      {
+        "count": 5,
+        "visible": [
+          "nov",
+          "nov",
+          "nov",
+          "nov",
+          "nov"
+        ]
+      },
+      {
+        "count": 7,
+        "visible": [
+          "dec",
+          "dec",
+          "dec",
+          "dec",
+          "dec",
+          "dec",
+          "dec"
+        ]
+      },
+      {
+        "count": 7,
+        "visible": [
+          "jan",
+          "jan",
+          "jan",
+          "jan",
+          "jan",
+          "jan",
+          "jan"
+        ]
+      }
+    ],
+    "eventReply": "Нашёл подходящий раздел программы:\n\n«Мир без работы» — ср 11 ноября.\nУчастник эфира: Иоганна Алексанян (Австрия).\n\n• Если ИИ делает мою работу, кто тогда я? Идентичность человека, когда её перестаёт определять профессия.\n• Что реально меняется для профессий — без паники и без розовых очков.\n• В гостях — психолог и HR-специалист.\n\n19:00 Москва · 18:00 Израиль · 17:00 CET.\n\nМир без работы\nОтвет из справки по программе",
+    "pause": {
+      "button": "Включить анимацию",
+      "petAnimation": "paused"
+    },
+    "reducedMotion": {
+      "matches": true,
+      "petAnimation": "none"
+    },
+    "alumni": "Если вы выпускник предыдущего кэмпа НИИ, стоимость того же зимнего цикла — 175 евро или 17,5 тысячи рублей. Это скидка 50%.\n\nУсловия для выпускников\nОтвет из справки по программе",
+    "reviews": {
+      "materials": 29,
+      "petPresent": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "companyCopy": "С нами учатся\nи работают\n\nДля C-level и бизнес-команд.",
+    "newCopy": "01\nЧто входит в участие?\n\nКэмп, практика и стратегия.\nТри направления — одна программа.\n\nКэмп «Начальник нейросетей — 6»\n↗\n14\nсобытий\nВсё самое необходимое\nв 2027 году\nАгенты\nChatGPT\nСкиллы\nНавыки\n9 ноября — 21 декабря\nВходит в участие\nПрактика\n↗\n15\nсобытий\nВыбирайте свои темы\n\nБазы знаний, сайты, документы, контент и автоматизация для вашей работы.\n\nНоябрь — январь\nВходит в участие\nСтратегия\n↗\n4\nсобытия\nПонимание пути компании и собственной карьеры\n\nОбсуждаем с экспертами, как ИИ меняет работу, решения и нас самих.\n\nНоябрь — январь\nВходит в участие\nFIELD\n\nВсе 33 события доступны вам. Новичкам достаточно идти по маршруту кэмпа. Остальные встречи выбирайте под свои задачи; записи входят в участие.",
+    "browserErrorsAfterReload": [],
+    "live": {
+      "url": "https://nii-field-winter-v3-o1dx16zvx-dmitriis-projects-8673976b.vercel.app",
+      "status": "READY",
+      "serverFunction": "api/neuroniy",
+      "requiresVercelLogin": true
+    },
+    "model": {
+      "enabled": false,
+      "reason": "Waiting for user choice of API budget",
+      "networkModelTests": 0
+    }
+  },
+  "checkedAt": "2026-10-08T17:48:54.752Z"
+}

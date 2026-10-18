@@ -1,0 +1,24 @@
+{
+  "internal_links": "all valid",
+  "broken_internal_links": [],
+  "pages": {
+    "index.html": {
+      "anchors": 86,
+      "links": 72,
+      "images": 74,
+      "images_missing_alt": 0
+    },
+    "alumni.html": {
+      "anchors": 86,
+      "links": 71,
+      "images": 74,
+      "images_missing_alt": 0
+    },
+    "reviews.html": {
+      "anchors": 35,
+      "links": 25,
+      "images": 3,
+      "images_missing_alt": 0
+    }
+  }
+}

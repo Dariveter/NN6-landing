@@ -1,0 +1,16 @@
+{
+  "url": "https://nii-field-winter-v3.vercel.app",
+  "deployment_url": "https://nii-field-winter-v3-owqntwq9z-dmitriis-projects-8673976b.vercel.app",
+  "deployment_id": "dpl_3A3Z7RuqPDJVMGdm2gyrGueoh3A2",
+  "state": "READY",
+  "target_returned": "production",
+  "requested_target": "preview",
+  "project_id": null,
+  "project_name": "nii-field-winter-v3",
+  "team_id": "team_IHwZNgbL9aCooZyjSyvhzYxV",
+  "team_name": "Dmitrii's projects",
+  "date": "2026-10-08",
+  "payment_live": false,
+  "source_manifest": "site-v3-files.txt",
+  "verification": "Vercel CLI build returned READY and alias; remote browser page not re-tested"
+}

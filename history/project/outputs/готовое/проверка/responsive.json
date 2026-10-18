@@ -1,0 +1,38 @@
+[
+  {
+    "height": 14775,
+    "heroPriceY": 574,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "height": 14165,
+    "heroPriceY": 504,
+    "scrollWidth": 375,
+    "width": 375
+  },
+  {
+    "height": 13890,
+    "heroPriceY": 507,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "height": 10705,
+    "heroPriceY": 541,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "height": 9788,
+    "heroPriceY": 601,
+    "scrollWidth": 1024,
+    "width": 1024
+  },
+  {
+    "height": 10222,
+    "heroPriceY": 678,
+    "scrollWidth": 1440,
+    "width": 1440
+  }
+]

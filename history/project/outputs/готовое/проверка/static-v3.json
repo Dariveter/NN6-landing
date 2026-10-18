@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "page": "index.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "heading_count": 1,
+      "review_materials": 6
+    },
+    {
+      "page": "alumni.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "heading_count": 1,
+      "review_materials": 6
+    },
+    {
+      "page": "reviews.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "heading_count": 1,
+      "review_materials": 29
+    }
+  ],
+  "sizes": {
+    "desktop_core_uncompressed_bytes": 570263,
+    "mobile_core_uncompressed_bytes": 439743,
+    "js_uncompressed_bytes": 11156,
+    "hero_desktop_bytes": 195862,
+    "hero_mobile_bytes": 65342,
+    "mentor_bytes": 104662
+  }
+}

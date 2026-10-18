@@ -1,0 +1,50 @@
+{
+  "checks": [
+    {
+      "page": "index.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "h1": 1,
+      "events": 19,
+      "team": 9,
+      "review_materials": 6
+    },
+    {
+      "page": "alumni.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "h1": 1,
+      "events": 19,
+      "team": 9,
+      "review_materials": 6
+    },
+    {
+      "page": "reviews.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "h1": 1,
+      "events": 0,
+      "team": 0,
+      "review_materials": 29
+    }
+  ],
+  "core_files_bytes": {
+    "index.html": 84335,
+    "assets/style-v4-2.css": 122882,
+    "assets/app-v4-2.js": 5118,
+    "assets/motion-v4.js": 6540,
+    "assets/machina.otf": 59148,
+    "assets/onest.ttf": 64272,
+    "assets/onest-semibold.ttf": 64444,
+    "assets/nii-logo-white.webp": 4482,
+    "assets/hero-v4.webp": 97722,
+    "assets/neuroniy-v4-2.css": 8087,
+    "assets/neuroniy-v4-2.js": 6498,
+    "assets/neuroniy-engine.js": 5165,
+    "assets/neuroniy-pet-v4-2.webp": 9996
+  },
+  "desktop_core_uncompressed_bytes": 538689,
+  "mobile_hero_bytes": 30180,
+  "public_file_count": 52,
+  "note": "File sizes, not a network speed or Core Web Vitals measurement."
+}

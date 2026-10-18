@@ -1,0 +1,3177 @@
+{
+  "source": "FIELD landing project v4.6, 2026-10-09",
+  "files": [
+    {
+      "path": "docs/images/FIELD-v4.6-mobile.jpg",
+      "bytes": 57111,
+      "sha256": "39dadfb5cdcc9e7d1a8687d73abcfae653f8374fd4094dfb33b91fe60cc5de4c"
+    },
+    {
+      "path": "docs/images/FIELD-v4.6.jpg",
+      "bytes": 275588,
+      "sha256": "841ed377eae76b9c401a7655300ece553248fc364b58053ccdd834efddfb4b1e"
+    },
+    {
+      "path": "docs/images/neuroniy-v4-6-mobile.jpg",
+      "bytes": 125768,
+      "sha256": "61dc8e081a8890bd228fabde8f1eea6267b002e95deb8ef9a63ca3f87e9d0361"
+    },
+    {
+      "path": "docs/images/yuri-v4-6-mobile.jpg",
+      "bytes": 38515,
+      "sha256": "0be1a89da5beb4656fe2027e67da983fbbf650beaa52b95605b7ea0061e056ef"
+    },
+    {
+      "path": "docs/sources/alumni-feedback-original.png",
+      "bytes": 466256,
+      "sha256": "134d1049735dd85e1ece34cf3c883618f116d0303208eb7a5be0bdb7cdfc51fb"
+    },
+    {
+      "path": "docs/sources/experts-original.md",
+      "bytes": 6313,
+      "sha256": "7dc3deff5c38ebe61eb4924585777c3fee33f44c860ac9e2350c181f9c1dd725"
+    },
+    {
+      "path": "docs/sources/johanna-original.png",
+      "bytes": 1335710,
+      "sha256": "c18eb468935313a2d799a84420a8ff966e076546074e30795b86c7f57a7121b2"
+    },
+    {
+      "path": "docs/sources/schedule-corrections-2026-10-07.md",
+      "bytes": 7982,
+      "sha256": "640cc164a071eabd43df45a3d020865cf479a386647599e8bae0758fc1e70608"
+    },
+    {
+      "path": "history/deliverables/build_report.py",
+      "bytes": 9350,
+      "sha256": "26941c6f1ad088a277b59b141af4815ae17732fd8e7c0e0d21583675eb30d849"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-v4.3.jpg",
+      "bytes": 210418,
+      "sha256": "9c456dbd61a9cfd61c3b232ee658201d2a8c24cc807d610ac3fedfcca863755b"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-v4.4.jpg",
+      "bytes": 259489,
+      "sha256": "b758224865c203512de651afcc5f464d1d1c403ddab36a3e06ab0e17f5f33fad"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-v4.5-mobile.jpg",
+      "bytes": 48287,
+      "sha256": "5e469c69303561d4cb2316af338b5f9036ab14c02d7be2addce7fb8112587d69"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-v4.5.jpg",
+      "bytes": 200371,
+      "sha256": "b7cbaf911960a27dba9ca973f5bb18d5e1575c12e7af8a2dc077dc6c12c55b2b"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-v4.6-mobile.jpg",
+      "bytes": 57111,
+      "sha256": "39dadfb5cdcc9e7d1a8687d73abcfae653f8374fd4094dfb33b91fe60cc5de4c"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-v4.6.jpg",
+      "bytes": 275588,
+      "sha256": "841ed377eae76b9c401a7655300ece553248fc364b58053ccdd834efddfb4b1e"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-лендинг-v4.1.zip",
+      "bytes": 920359,
+      "sha256": "dcd5b121aa9b512a23d9eb4574bbd4b7d99627efa4306d3ff00628acbcad779a"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-лендинг-v4.2.zip",
+      "bytes": 1065885,
+      "sha256": "f54a1261c9c1d4f57a73116440bbfa348d3827e9974da55ed18a461e0b1aab54"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-лендинг-v4.3.zip",
+      "bytes": 900622,
+      "sha256": "9a42eb45ac6e4458c72b670f29255035ae3b1e71ef743f9f250a99b5a1d8b629"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-лендинг-v4.4.zip",
+      "bytes": 943291,
+      "sha256": "8d61d22395e84ab1f73a35dbaccab908397b7a493c4c124376d50df9f4d93975"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-лендинг-v4.5.zip",
+      "bytes": 1105716,
+      "sha256": "5dd445ee88da33e15793e88dc4eb6062360124e3d63bb2c0870c0c6a7e0990e3"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-лендинг-v4.6.zip",
+      "bytes": 1108766,
+      "sha256": "dbbe4e59796af03a2c5a5341d114dee2a12f56ddfc178125550816910f3e4e32"
+    },
+    {
+      "path": "history/deliverables/готовое/FIELD-лендинг-v4.zip",
+      "bytes": 819501,
+      "sha256": "4c80a0502fca0fb41ba3c19fa31af4ad533e87c9abf71ffefbf1098f9bf54b60"
+    },
+    {
+      "path": "history/deliverables/готовое/assets/aardvark.jpg",
+      "bytes": 224154,
+      "sha256": "2713dde3949580beccb644a781c8a417e7e05cf792a8f07b8865a6fad5a647f3"
+    },
+    {
+      "path": "history/deliverables/готовое/assets/knko.jpg",
+      "bytes": 434240,
+      "sha256": "f8824a454668228b98c7e1c9770a5d03e0298020cca7b232c17c10bc09966f51"
+    },
+    {
+      "path": "history/deliverables/готовое/assets/kokoro.jpg",
+      "bytes": 213829,
+      "sha256": "9041468a4e0a1e1f96cf87f8e10d74c38300e8b398869d8052f41e4d8e6ceab6"
+    },
+    {
+      "path": "history/deliverables/готовое/assets/mersi.jpg",
+      "bytes": 788924,
+      "sha256": "371a32a0ca0fe14fce9226d592dd3d65f02d526187a96d8f9e5dac88d755c7b6"
+    },
+    {
+      "path": "history/deliverables/готовое/assets/onest-semibold.ttf",
+      "bytes": 64444,
+      "sha256": "a688b7d4988c21529bcf6d68d216a47210e1fd73a43855e23bbb9ca777279209"
+    },
+    {
+      "path": "history/deliverables/готовое/assets/onest.ttf",
+      "bytes": 64272,
+      "sha256": "e4f3c821cfb8e8e4b77680dca62a9799c5f73e2774e0adbe4d435ec3c1549fb9"
+    },
+    {
+      "path": "history/deliverables/готовое/assets/trevor.jpg",
+      "bytes": 254701,
+      "sha256": "8a48924953e323e208e930946f4be429825df82543e8a58f8d2e159e4b31eeca"
+    },
+    {
+      "path": "history/deliverables/готовое/calendar-v4-2.jpg",
+      "bytes": 108951,
+      "sha256": "fba2366c4a6d1d8d79375261ce9615c3cf4f469236e0e9026814068e48d16d81"
+    },
+    {
+      "path": "history/deliverables/готовое/camp-v4-1.jpg",
+      "bytes": 44201,
+      "sha256": "c991a48c8a7a222db923f950b4296b1e8bd90617b249ccd2b7db20a5a1e995aa"
+    },
+    {
+      "path": "history/deliverables/готовое/camp-v4.jpg",
+      "bytes": 55089,
+      "sha256": "720a0802e5cba3c2fccbd8c35b017949bf1c40fd9542a68fde0aa54aa6658b86"
+    },
+    {
+      "path": "history/deliverables/готовое/desktop-v4-1.jpg",
+      "bytes": 146518,
+      "sha256": "2dfbde1f1752061f060cf2dfad1fa71cf2c071ce8c473320f46d0f1343e3d2e6"
+    },
+    {
+      "path": "history/deliverables/готовое/desktop-v4.jpg",
+      "bytes": 142393,
+      "sha256": "62b86611946b5017bb76cefa7f0c37c57f0534766995d3d262291768f54246b3"
+    },
+    {
+      "path": "history/deliverables/готовое/field-public-knowledge-v4-1.json",
+      "bytes": 12191,
+      "sha256": "f02a325c4dd6a18196f833b7851bf8a04a14dad664bd35d7515a45745007c5d1"
+    },
+    {
+      "path": "history/deliverables/готовое/hero-v4-6-mobile.jpg",
+      "bytes": 135020,
+      "sha256": "2421738ad49a1ccfdcf3ca1d830ad6980de01ea0797f6be004dae3810e63a330"
+    },
+    {
+      "path": "history/deliverables/готовое/live-v4-2.jpg",
+      "bytes": 275971,
+      "sha256": "f1aeb1871f7533f6c6ef0a638dfea342566f09c5cf06ec7200f5af19480bbf06"
+    },
+    {
+      "path": "history/deliverables/готовое/live-yuri-v4-6.jpg",
+      "bytes": 48596,
+      "sha256": "8fba74e6c52e1e03d64432dfe0f00777f972c8e15930a03ccb13a8e4506694f1"
+    },
+    {
+      "path": "history/deliverables/готовое/mobile-v4-1.jpg",
+      "bytes": 48392,
+      "sha256": "ccf48613d6e167d52c8ad3987e6a3602ddaa3e5b38962a514d98cf4629925e25"
+    },
+    {
+      "path": "history/deliverables/готовое/mobile-v4.jpg",
+      "bytes": 53735,
+      "sha256": "c87022fb648fc45f448cd9e01b96594803876220ec190704e7d0c7a8e25e421a"
+    },
+    {
+      "path": "history/deliverables/готовое/neuroniy-desktop-v4-2.jpg",
+      "bytes": 46980,
+      "sha256": "60265b4d93063968c5040f630119579958e88159825011de4ff81884adb51dee"
+    },
+    {
+      "path": "history/deliverables/готовое/neuroniy-mobile-v4-2.jpg",
+      "bytes": 61338,
+      "sha256": "6145cb0ec40d3023a9e4b08cfa3acde85d9f68bafb65be7e262f957619c354f2"
+    },
+    {
+      "path": "history/deliverables/готовое/neuroniy-tests-v4-2.json",
+      "bytes": 1545,
+      "sha256": "ed4cde04af0bf9eea9fda2befa821f8e1d2448a194230879027683125f6bf58d"
+    },
+    {
+      "path": "history/deliverables/готовое/neuroniy-v4-6-mobile.jpg",
+      "bytes": 125768,
+      "sha256": "61dc8e081a8890bd228fabde8f1eea6267b002e95deb8ef9a63ca3f87e9d0361"
+    },
+    {
+      "path": "history/deliverables/готовое/pet-v4-2.jpg",
+      "bytes": 102395,
+      "sha256": "8a9fa3c168069885e01501c511f8d73e81617dbaa62ea7ce5a3ef4cd6b5d2558"
+    },
+    {
+      "path": "history/deliverables/готовое/price-v4.jpg",
+      "bytes": 98616,
+      "sha256": "9bf87c4a1228ef5948c601f9b833eefc6f7fe5ab62f5bb182397c7f347ce6498"
+    },
+    {
+      "path": "history/deliverables/готовое/qa-v4-2.json",
+      "bytes": 4821,
+      "sha256": "c7a548cfc5bc44127de6d769f842eb793ce031916809cf0b200430132b63188c"
+    },
+    {
+      "path": "history/deliverables/готовое/reviews-v4-6-mobile.jpg",
+      "bytes": 119497,
+      "sha256": "d6565878b58581b0a1f160d037b3415b3e7a64dcd52ae8ada9bede8270e70eaf"
+    },
+    {
+      "path": "history/deliverables/готовое/static-v4-2.json",
+      "bytes": 1232,
+      "sha256": "b28c34540e642fba64741adc6f42dd68ba6cac64c0925b2091b8f002e8214dff"
+    },
+    {
+      "path": "history/deliverables/готовое/tracks-v4-1.jpg",
+      "bytes": 114296,
+      "sha256": "be8111bf0d706aa03dc1ae9e1cac73cf2c690f2bd1de8f6ff0bd870dca4b680a"
+    },
+    {
+      "path": "history/deliverables/готовое/tracks-v4-2.jpg",
+      "bytes": 112467,
+      "sha256": "44557ea69ea507cb1ee6ee6940d75bd071e0d2bee3393390e10e55b7af3400cf"
+    },
+    {
+      "path": "history/deliverables/готовое/tracks-v4.jpg",
+      "bytes": 102819,
+      "sha256": "9f73f9ce0adb4103fb3ba0989425d500509b65678aea0bf6e6b65fd1120ab60f"
+    },
+    {
+      "path": "history/deliverables/готовое/week-v4-1.jpg",
+      "bytes": 102225,
+      "sha256": "f5c43aeebe595552890231702ed80d3f0236fe3c7c7409c37aea113ceed79df8"
+    },
+    {
+      "path": "history/deliverables/готовое/yuri-v4-6-mobile.jpg",
+      "bytes": 38515,
+      "sha256": "0be1a89da5beb4656fe2027e67da983fbbf650beaa52b95605b7ea0061e056ef"
+    },
+    {
+      "path": "history/deliverables/готовое/Аудит-и-правки-v4.6.md",
+      "bytes": 17552,
+      "sha256": "7a48218ab2ecae06bedb3263b6b5fcc5ac99219a74fb0aaef49da35626fa0ca6"
+    },
+    {
+      "path": "history/deliverables/готовое/Исследование.html",
+      "bytes": 43723,
+      "sha256": "51d92f11e291ae4077c1706879e495b266ec8ef3a95ceaa54d3071fa17aec4ea"
+    },
+    {
+      "path": "history/deliverables/готовое/Исследование.md",
+      "bytes": 33572,
+      "sha256": "a2fcc378a032fe407e85b7bf0900704d7f4c36884cb6c19be58bc814e701f980"
+    },
+    {
+      "path": "history/deliverables/готовое/Лендинг-v4 — что изменено.md",
+      "bytes": 7551,
+      "sha256": "5bd441acc8adb5cf2ee9932dcfe43c84964ccbce4741d6d1cd9df41743697d9d"
+    },
+    {
+      "path": "history/deliverables/готовое/Лендинг-v4.1 — что изменено.md",
+      "bytes": 6809,
+      "sha256": "269a6cea3e6b6867d30e3d0b08bca9a61263c6c616b260fb4496acc349e5f078"
+    },
+    {
+      "path": "history/deliverables/готовое/Лендинг-v4.2 — что изменено.md",
+      "bytes": 9746,
+      "sha256": "76dd0532f2d67ac397a373cce9d1ecb7a4f1297773cc2a39ade72f964bf5af02"
+    },
+    {
+      "path": "history/deliverables/готовое/Нейроний — консультант сайта.md",
+      "bytes": 15421,
+      "sha256": "757491a9ee94cb4e2661792cf86904a512cc19cd35bfda914aab2f7dc7b56958"
+    },
+    {
+      "path": "history/deliverables/готовое/Правки-v4.3.md",
+      "bytes": 11180,
+      "sha256": "2ac9e676332cf8b9046231a5a63f64345c2dce966a6bb37dbfa9118d84635e48"
+    },
+    {
+      "path": "history/deliverables/готовое/Правки-v4.4.md",
+      "bytes": 6327,
+      "sha256": "b56db17bceadc21290d9df6d0a7cf0c948b80cc77be69eba28ba48f54591ca19"
+    },
+    {
+      "path": "history/deliverables/готовое/Правки-v4.5.md",
+      "bytes": 4342,
+      "sha256": "b07caf3a376bd31e31ba6f2a94efcc58458b194dacf5a2ed792d1679705290bd"
+    },
+    {
+      "path": "history/handoffs/2026-10-09 — FIELD v4.3 — расписание, оплата и Нейроний.md",
+      "bytes": 3936,
+      "sha256": "e0a26bb90e49f0b71c642a706b8c591fe81734ccfd2b3d3c93f125493d31acca"
+    },
+    {
+      "path": "history/handoffs/2026-10-09 — FIELD v4.4 — международные логотипы и серии событий.md",
+      "bytes": 2173,
+      "sha256": "3351c5bc00793735889d3fe8eed61a7694e5b18a220ee10268b30740bff287e7"
+    },
+    {
+      "path": "history/handoffs/2026-10-09 — FIELD v4.5 — эксперты и фотографии.md",
+      "bytes": 2031,
+      "sha256": "5911882ac87e08080f699b42ee793f45546fbee82d728aed8ae2978e69e9fddd"
+    },
+    {
+      "path": "history/handoffs/2026-10-09 — FIELD v4.6 — аудит и удобство.md",
+      "bytes": 5446,
+      "sha256": "df8526b9c2b7aebe786eccf3f7ea0b237fc5897b0f501f5fb6a35bc34f49b604"
+    },
+    {
+      "path": "history/handoffs/2026-10-09 — Оплата FIELD — форма Leumi остановлена на проверке реквизитов.md",
+      "bytes": 11959,
+      "sha256": "7c82c3ceb6ff456b706600f733facd051fa44343f831b4c99e843a306f28e326"
+    },
+    {
+      "path": "history/handoffs/FIELD — v4.2 иллюстрации и Нейроний — 2026-10-08.md",
+      "bytes": 6991,
+      "sha256": "010c88199600469f0f9e55cec1f92d5b3a708be1ee024a43962fc50e39351471"
+    },
+    {
+      "path": "history/handoffs/FIELD — аудит зимней программы v6 — handoff — 2026-10-07.md",
+      "bytes": 6366,
+      "sha256": "cb3571506133183c729be628cf387fb3eddd6c7b480977a4cd264ddd2c20e36a"
+    },
+    {
+      "path": "history/handoffs/FIELD — внедрение дизайна v4 — 2026-10-08.md",
+      "bytes": 3482,
+      "sha256": "849f55569a6afcd65feb1ff63026ae1d790436abd6b40404094bc80b646ea9e8"
+    },
+    {
+      "path": "history/handoffs/FIELD — исследование дизайна v4 — 2026-10-08.md",
+      "bytes": 3859,
+      "sha256": "9dccef417c904405c3738acbb8bb33b7961b862b4f41fddc246c07a3949fab2a"
+    },
+    {
+      "path": "history/handoffs/FIELD — лендинг v3 — 2026-10-08.md",
+      "bytes": 4550,
+      "sha256": "d76372cf4a06df8b4715f1b70d3aca64b2b716c37f6e37c986bfa07b5061c682"
+    },
+    {
+      "path": "history/handoffs/FIELD — новый лендинг и аналитика — 2026-10-08.md",
+      "bytes": 6885,
+      "sha256": "329caa519c623191a22da6bd19c4ec17a4be118c7b65814edacddf9d36f1e337"
+    },
+    {
+      "path": "history/handoffs/FIELD — правки v4.1 и Нейроний — 2026-10-08.md",
+      "bytes": 7510,
+      "sha256": "845802384ae2f1d4ebab9196a8c9731b61d2b7b04005d36fb77dcf8c2214e3cb"
+    },
+    {
+      "path": "history/handoffs/FIELD — публикация Vercel — 2026-10-08.md",
+      "bytes": 2899,
+      "sha256": "c90f5fc693f5f6edbe58c1d4870e23666ac930d5b3db04f170b108f989fc423d"
+    },
+    {
+      "path": "history/handoffs/FIELD — публичная версия v4.2 — 2026-10-08.md",
+      "bytes": 2453,
+      "sha256": "ee0bd529c485ee477373f6e19e1f8cc369da10ae1d7c4a062bf226c7264ca415"
+    },
+    {
+      "path": "history/handoffs/FIELD — светлый лендинг v2 — 2026-10-08.md",
+      "bytes": 5535,
+      "sha256": "6be2346f05cd84bbad64ddb6d97651ed1e68e70aabcf3dd2ea4b810294ecb638"
+    },
+    {
+      "path": "history/project/00 СТАРТ — промт для нового чата.md",
+      "bytes": 4253,
+      "sha256": "49adca4f41512354087aa37b72baf62727b91dfdbfd9d65c1a81358a8214c5c3"
+    },
+    {
+      "path": "history/project/01 HANDOFF — лендинг aicamp6 — контекст, решения, задача.md",
+      "bytes": 18115,
+      "sha256": "4d65317e1ad5cc7a9f33c13906b40c48076bb393245d31d191f0f63e5e89f285"
+    },
+    {
+      "path": "history/project/02 Программа Зима в FIELD v8 — источник истины.md",
+      "bytes": 37449,
+      "sha256": "cf98a1bb180e8882a468a134339499ce9b804b0bc9e1b56e077a58efd75dfefb"
+    },
+    {
+      "path": "history/project/03 Лендинг aicamp6 — снимок по блокам — 2026-10-08.md",
+      "bytes": 35911,
+      "sha256": "b03bc8afd6e925de562e3460858b00ec76af4bf90de57b650fe1e25c2a1430a3"
+    },
+    {
+      "path": "history/project/04 Аудит лендинга — расхождения, UX, путь к покупке — 2026-10-08.md",
+      "bytes": 17161,
+      "sha256": "8b4a60e6377cb47a2761ea176c5eaee57abc980bc3eb0615e350873e126971a3"
+    },
+    {
+      "path": "history/project/05 Бриф — варианты лендинга для A-B теста.md",
+      "bytes": 21413,
+      "sha256": "90fa51148faf3cace9dfb439fbf6e54229b2c962b94d62b3483978f8aaae8a0c"
+    },
+    {
+      "path": "history/project/06 Реестр фактов, цифр и обещаний.md",
+      "bytes": 9108,
+      "sha256": "6f207a0c8462a2fa7978c34ac7c124ae909fca66a3b2fc27585ddaa3cee22ce4"
+    },
+    {
+      "path": "history/project/07 Банк отзывов и доказательств.md",
+      "bytes": 12016,
+      "sha256": "31491ee4da6296eccebc8c2e2eeb970e9ddcf0be9f2bdb1bfde2049ce7524d9d"
+    },
+    {
+      "path": "history/project/outputs/FIELD — лендинг v3 — 2026-10-08.zip",
+      "bytes": 2810151,
+      "sha256": "5b3668fccf3c604906c9e1fe0e667654a200912e93daccd8e2ddea921c60931f"
+    },
+    {
+      "path": "history/project/outputs/FIELD — лендинг и аналитика — 2026-10-08.zip",
+      "bytes": 677139,
+      "sha256": "96e763a66795ac6de9b39752388c93086aadbdf85419682608a5f54da08a3d81"
+    },
+    {
+      "path": "history/project/outputs/FIELD — светлый лендинг v2 — 2026-10-08.zip",
+      "bytes": 1487270,
+      "sha256": "29ea3e27c7aaa1c054c64375d43a5309099b853e903d8f037dd6edb445c2680e"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/alumni.html",
+      "bytes": 81516,
+      "sha256": "5ae411b4eedf66bc8612ea8d7144f55d9ae6a08d5b7f72fefbb08f0f7dffd33b"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/alexander.webp",
+      "bytes": 16348,
+      "sha256": "65a82a012f6753a14f50fdbbaa6d129a1f71a705b5b32db03ec07d2196684824"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/andrey.webp",
+      "bytes": 13810,
+      "sha256": "7f131d2839a36c6008b6b626a69cf63db53ec5a79b40b7b916893ff17367e71c"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/app-v3.js",
+      "bytes": 5123,
+      "sha256": "46c5164d55e007ab75b1662c2a2c7765f904e82fe1041c82e532c3efe997ffaa"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/askona-logo.svg",
+      "bytes": 5292,
+      "sha256": "21117b91e45796f448996f3ec52156a5ff3b9705502a9153f2b480855ad9e4d5"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/b2b-dobrograd.webp",
+      "bytes": 3212,
+      "sha256": "fc043aeb3664757a947d8cd7cb58d208d402ccd363a79a48d8c90184a731a2a0"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/b2b-everia.webp",
+      "bytes": 7680,
+      "sha256": "73dfe35f8d055f3271471ca2d4ff8067a144e3652a8830d24cd9ef8d57e127da"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/b2b-hart.webp",
+      "bytes": 5190,
+      "sha256": "bf4f8879a83ab6bb4c81924fbeb7eab56d29b08f94c788beeffa73756364e854"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/b2b-polair.webp",
+      "bytes": 7000,
+      "sha256": "e0a8648ec24920dbe2fac1c6b7b84d9d238e274378c3921c1a284a2f0a9c2010"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/b2b-samolet-plus.webp",
+      "bytes": 8132,
+      "sha256": "c332a1f2bc9a4e936253d3f535df4e9443216b55d2897a022ff8acc7d1d8e7ea"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/b2b-unicom.png",
+      "bytes": 4936,
+      "sha256": "aaef2cc0017dafeb5060a0b20a6630b60401c7070b815b79365f1ed82d832019"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/b2b-zdravservice.webp",
+      "bytes": 7048,
+      "sha256": "ac13a73447f1887c39c3bd040d8c9cd456343f8c7398dba8cbab8009f26fb656"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/corestone-logo.webp",
+      "bytes": 8496,
+      "sha256": "6267b85f998f136aa9f5a9f978091f2012ddee94cf28c5bd33cb5955b9809052"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/ddx-logo.svg",
+      "bytes": 3753,
+      "sha256": "3f697644cb8137e42d0c7170204b9ead0a841ed04ba1000497956ac573c1d5ef"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/denis.webp",
+      "bytes": 18540,
+      "sha256": "f0cf7185f3b22203f65f89d838aff49ddd4039b456165eef6b0c3b46073d5224"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/dmitry.webp",
+      "bytes": 24536,
+      "sha256": "035c72888dd448aba4c61a549a6a9e672f9ea7688a0586c03aff73229de26c10"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/favicon.svg",
+      "bytes": 177,
+      "sha256": "3fae6140df8c3e66771160b5e530863dc05140afa809aac4c6775c2a4d487e21"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/hero-v3-small.webp",
+      "bytes": 65342,
+      "sha256": "a6bf0f03376189d59acbd1cf306d199cd00f931825da536d987f74c8788b6299"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/hero-v3.webp",
+      "bytes": 195862,
+      "sha256": "9866d809c1ee7dc2239f604d98df05cbf8facc4521d3c39055d360c1bd588478"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/machina.otf",
+      "bytes": 59148,
+      "sha256": "d4d248b788352d18165a0480830a1056ca286e397e11cf01be91e7c76163e513"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/mentor-v3.webp",
+      "bytes": 104662,
+      "sha256": "895ac472ed2b811ee81e03248a9c6f4df37290f63f2f215d1384213a07c35540"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/motion-v3.js",
+      "bytes": 6033,
+      "sha256": "c41cba22195cb2b6ca6e842c6bccfc277a9893f8a79656e19010d099341f28ef"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/murom-logo.webp",
+      "bytes": 6526,
+      "sha256": "d635f36df29a2c22b0abd01f6b217b50c067750a69fb8eac3449fa8894556a80"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/nii-logo-light.webp",
+      "bytes": 9954,
+      "sha256": "35f58e31e3082ddf86dabb55501e66c5562153595efd63b3fe0ab0f1a2d7d31d"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/onest-semibold.ttf",
+      "bytes": 64444,
+      "sha256": "a688b7d4988c21529bcf6d68d216a47210e1fd73a43855e23bbb9ca777279209"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/onest.ttf",
+      "bytes": 64272,
+      "sha256": "e4f3c821cfb8e8e4b77680dca62a9799c5f73e2774e0adbe4d435ec3c1549fb9"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/reviews-v3.js",
+      "bytes": 487,
+      "sha256": "9ec24ded4f9ec7b2e9e0ecfc037f1ecb86c3e9539af8eb38dc5ec371ca7e5701"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/samolet-logo.svg",
+      "bytes": 10151,
+      "sha256": "4680a3a0d360b06c0c7f5851013615bffc7fdaf76e4def6c880093ef728de9f6"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/sergey.webp",
+      "bytes": 16144,
+      "sha256": "45f77cd528522e85d828e7ecf3bbcd01f83b1e239ee759b5991d1bf4065d46ca"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/style-v2.css",
+      "bytes": 44752,
+      "sha256": "d0c40b4610769476a1730b5f8e33d2f291efb847c03a581aa01c8f0d0d43098c"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/style-v3.css",
+      "bytes": 38942,
+      "sha256": "fb4fe20805eebad06653e6e88560811e86849f6b0239182f116ec4bbc6d3ddec"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/valentin.webp",
+      "bytes": 15174,
+      "sha256": "c759df963bff5358ceaa589ecd9346b3839d05bf1c758a17ed277ab3b17c7ad1"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/vasilyev.webp",
+      "bytes": 11282,
+      "sha256": "49f44eafce3c25c66d5249f2d338ec7b708e5c2f53008bc6ce276a20f3fb1f7b"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/wrf-logo.webp",
+      "bytes": 9108,
+      "sha256": "a77c9b631979910b67a3e6c792997e59071ae56f41a05520010fcbc394cd2615"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/assets/yulia.webp",
+      "bytes": 16212,
+      "sha256": "14583ce78a2193ec2a416266610b70fca0802c75fd35216e11909dd481d9a081"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/index.html",
+      "bytes": 81556,
+      "sha256": "d9d9f97f1a45a09a9294a9f12883e0d0369df9497e966d3802c6da7aedc39b39"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/program-v8.pdf",
+      "bytes": 249108,
+      "sha256": "5ab003ad26e9779625d13ac059146cb702bcf5e0392d7686377335d3e2145ee6"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/reviews.html",
+      "bytes": 27815,
+      "sha256": "08e14e44db9e3628496ba954eee1477ac0285ad5ec2383a5d6e10894247c3669"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v3/vercel.json",
+      "bytes": 73,
+      "sha256": "93f0dc9b66f6f6e645036b3b2b869375833d2d5c3efbd6255c30d1bd77ef5c18"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/alumni.html",
+      "bytes": 83092,
+      "sha256": "7ca735805351f03e7f64110127ba9544734b3a74b0c74acf87b5de3063f16ac5"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/alexander.webp",
+      "bytes": 16348,
+      "sha256": "65a82a012f6753a14f50fdbbaa6d129a1f71a705b5b32db03ec07d2196684824"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/andrey.webp",
+      "bytes": 13810,
+      "sha256": "7f131d2839a36c6008b6b626a69cf63db53ec5a79b40b7b916893ff17367e71c"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/app-v4.js",
+      "bytes": 5116,
+      "sha256": "0f6e8b1b58cf104db350ec47ee8fadb549de3c47905f2a38b889de5df5b1b327"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/askona-logo.svg",
+      "bytes": 5292,
+      "sha256": "21117b91e45796f448996f3ec52156a5ff3b9705502a9153f2b480855ad9e4d5"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/b2b-dobrograd.webp",
+      "bytes": 3212,
+      "sha256": "fc043aeb3664757a947d8cd7cb58d208d402ccd363a79a48d8c90184a731a2a0"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/b2b-everia.webp",
+      "bytes": 7680,
+      "sha256": "73dfe35f8d055f3271471ca2d4ff8067a144e3652a8830d24cd9ef8d57e127da"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/b2b-hart.webp",
+      "bytes": 5190,
+      "sha256": "bf4f8879a83ab6bb4c81924fbeb7eab56d29b08f94c788beeffa73756364e854"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/b2b-polair.webp",
+      "bytes": 7000,
+      "sha256": "e0a8648ec24920dbe2fac1c6b7b84d9d238e274378c3921c1a284a2f0a9c2010"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/b2b-samolet-plus.webp",
+      "bytes": 8132,
+      "sha256": "c332a1f2bc9a4e936253d3f535df4e9443216b55d2897a022ff8acc7d1d8e7ea"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/b2b-unicom.png",
+      "bytes": 4936,
+      "sha256": "aaef2cc0017dafeb5060a0b20a6630b60401c7070b815b79365f1ed82d832019"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/b2b-zdravservice.webp",
+      "bytes": 7048,
+      "sha256": "ac13a73447f1887c39c3bd040d8c9cd456343f8c7398dba8cbab8009f26fb656"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/corestone-logo.webp",
+      "bytes": 8496,
+      "sha256": "6267b85f998f136aa9f5a9f978091f2012ddee94cf28c5bd33cb5955b9809052"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/ddx-logo.svg",
+      "bytes": 3753,
+      "sha256": "3f697644cb8137e42d0c7170204b9ead0a841ed04ba1000497956ac573c1d5ef"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/denis.webp",
+      "bytes": 18540,
+      "sha256": "f0cf7185f3b22203f65f89d838aff49ddd4039b456165eef6b0c3b46073d5224"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/dmitry.webp",
+      "bytes": 24536,
+      "sha256": "035c72888dd448aba4c61a549a6a9e672f9ea7688a0586c03aff73229de26c10"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/favicon.svg",
+      "bytes": 177,
+      "sha256": "3fae6140df8c3e66771160b5e530863dc05140afa809aac4c6775c2a4d487e21"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/hero-v4-small.webp",
+      "bytes": 30180,
+      "sha256": "133ccda3264eae9bb29a766928b6e65bb6fff3a06d06bc604e495d9df16f4769"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/hero-v4.webp",
+      "bytes": 97722,
+      "sha256": "0f23d765df1bb4a4523096e7a50efd4fffaaf7376f4d202936fb6aa6f77b7787"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/machina.otf",
+      "bytes": 59148,
+      "sha256": "d4d248b788352d18165a0480830a1056ca286e397e11cf01be91e7c76163e513"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/mentor-v3.webp",
+      "bytes": 104662,
+      "sha256": "895ac472ed2b811ee81e03248a9c6f4df37290f63f2f215d1384213a07c35540"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/motion-v4.js",
+      "bytes": 6540,
+      "sha256": "8577e4fbe8e39491280b6b4427f69b45c8ab0a7dba512e6b3111bb297ac7f779"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/murom-logo.webp",
+      "bytes": 6526,
+      "sha256": "d635f36df29a2c22b0abd01f6b217b50c067750a69fb8eac3449fa8894556a80"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/nii-logo-light.webp",
+      "bytes": 9954,
+      "sha256": "35f58e31e3082ddf86dabb55501e66c5562153595efd63b3fe0ab0f1a2d7d31d"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/nii-logo-white.webp",
+      "bytes": 4482,
+      "sha256": "300d46e1068d8f2238702e229de4b0b41dbacd08f123c3a77e5cc57069532cdf"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/onest-semibold.ttf",
+      "bytes": 64444,
+      "sha256": "a688b7d4988c21529bcf6d68d216a47210e1fd73a43855e23bbb9ca777279209"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/onest.ttf",
+      "bytes": 64272,
+      "sha256": "e4f3c821cfb8e8e4b77680dca62a9799c5f73e2774e0adbe4d435ec3c1549fb9"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/reviews-v3.js",
+      "bytes": 487,
+      "sha256": "9ec24ded4f9ec7b2e9e0ecfc037f1ecb86c3e9539af8eb38dc5ec371ca7e5701"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/samolet-logo.svg",
+      "bytes": 10151,
+      "sha256": "4680a3a0d360b06c0c7f5851013615bffc7fdaf76e4def6c880093ef728de9f6"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/sergey.webp",
+      "bytes": 16144,
+      "sha256": "45f77cd528522e85d828e7ecf3bbcd01f83b1e239ee759b5991d1bf4065d46ca"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/style-v4.css",
+      "bytes": 114657,
+      "sha256": "8d079403ea1e279ba3ecc3798818ca331904b184751f16fdaca4522dc4667def"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/valentin.webp",
+      "bytes": 15174,
+      "sha256": "c759df963bff5358ceaa589ecd9346b3839d05bf1c758a17ed277ab3b17c7ad1"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/vasilyev.webp",
+      "bytes": 11282,
+      "sha256": "49f44eafce3c25c66d5249f2d338ec7b708e5c2f53008bc6ce276a20f3fb1f7b"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/wrf-logo.webp",
+      "bytes": 9108,
+      "sha256": "a77c9b631979910b67a3e6c792997e59071ae56f41a05520010fcbc394cd2615"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/assets/yulia.webp",
+      "bytes": 16212,
+      "sha256": "14583ce78a2193ec2a416266610b70fca0802c75fd35216e11909dd481d9a081"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/index.html",
+      "bytes": 83098,
+      "sha256": "a634ea26993d05f8046cbd14968b2044e09aa92d33fe1192ec25a40d63908306"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/program-v8.pdf",
+      "bytes": 249108,
+      "sha256": "5ab003ad26e9779625d13ac059146cb702bcf5e0392d7686377335d3e2145ee6"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/reviews.html",
+      "bytes": 27815,
+      "sha256": "e17133adb827d411bb5922d03fe21008256c32ed023ffb8b418424125515f0ca"
+    },
+    {
+      "path": "history/project/outputs/vercel-field-v4/vercel.json",
+      "bytes": 74,
+      "sha256": "b05de3abc93a4797318b5cfe73f8ee5e30164de860de246bf9dc59ff980a483d"
+    },
+    {
+      "path": "history/project/outputs/готовое/00 — Начать здесь.md",
+      "bytes": 2608,
+      "sha256": "801398d1fd22cf11f68217d3a2400c614ccb7fa26c14a92761df647708a4b81d"
+    },
+    {
+      "path": "history/project/outputs/готовое/01 — Стратегия лендинга и путь к продажам.md",
+      "bytes": 54138,
+      "sha256": "75e8827438d18d3a2ef897eb3048934171e251e6ec0882f74aef076c044d5c16"
+    },
+    {
+      "path": "history/project/outputs/готовое/02 — Правки текущего лендинга A.md",
+      "bytes": 8577,
+      "sha256": "9192a929817f75a918a57ef27993f8d923d8ca171a0af84257041be034d36eff"
+    },
+    {
+      "path": "history/project/outputs/готовое/03 — Перенос в Tilda и запуск.md",
+      "bytes": 14048,
+      "sha256": "8366515e001646fe448e941e59791a1402503c7bc697b58344b57fb1149de5c3"
+    },
+    {
+      "path": "history/project/outputs/готовое/04 — Тексты лендинга.md",
+      "bytes": 46460,
+      "sha256": "523a6b621b1f57eb0362805bc6cdf0f266dd5d71c9290909588a6eaba232426a"
+    },
+    {
+      "path": "history/project/outputs/готовое/05 — Проверка качества.md",
+      "bytes": 7033,
+      "sha256": "bf59ef5c8eeca6c33c3f323b6663306fe748dd1efa92f7610ce5952822c6887b"
+    },
+    {
+      "path": "history/project/outputs/готовое/07 — Визуальная редакция v2 и маркетинговый разбор.md",
+      "bytes": 15574,
+      "sha256": "eaf5f2a15e6366ee52a4e418b9aadd0909338490097e98d2819e67c6412d5588"
+    },
+    {
+      "path": "history/project/outputs/готовое/08 — Источники изображений v2.md",
+      "bytes": 7511,
+      "sha256": "444a83d219b70e0edebaca57c159d751e0fbdd52f3d311ec86ef0637010182b4"
+    },
+    {
+      "path": "history/project/outputs/готовое/09 — Проверка v2.md",
+      "bytes": 5478,
+      "sha256": "e3dc7c57b92dee7069ba9cae72a179097e90da2257a8e6e631ebbd43de3e640d"
+    },
+    {
+      "path": "history/project/outputs/готовое/10 — Лендинг v3 — разбор и решения.md",
+      "bytes": 19181,
+      "sha256": "bc69503a7d7f2b8376baaa50f9a80a2a18b45074d34d0f84c1fc9d2d8f87933a"
+    },
+    {
+      "path": "history/project/outputs/готовое/11 — Источники v3.md",
+      "bytes": 8789,
+      "sha256": "e83b123405e3434e781af5ebaf448b072b7417374968657d6faa20c51732ac7d"
+    },
+    {
+      "path": "history/project/outputs/готовое/12 — Проверка v3.md",
+      "bytes": 6675,
+      "sha256": "dcdd14376cb4f57286f72ed503e25777ea34e2aee7ab0187a93a0a051f207870"
+    },
+    {
+      "path": "history/project/outputs/готовое/alumni.html",
+      "bytes": 118388,
+      "sha256": "3a20dfb229e18d7774b6fef5d0147f742fe040c5d48084a132061270584fead3"
+    },
+    {
+      "path": "history/project/outputs/готовое/api/neuroniy.js",
+      "bytes": 8586,
+      "sha256": "51916b546ad55b280be114cd98dd5a766270af2d1b079e86c51754bef9915bbd"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/alexander.webp",
+      "bytes": 16348,
+      "sha256": "65a82a012f6753a14f50fdbbaa6d129a1f71a705b5b32db03ec07d2196684824"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/andrey.webp",
+      "bytes": 13810,
+      "sha256": "7f131d2839a36c6008b6b626a69cf63db53ec5a79b40b7b916893ff17367e71c"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v2.js",
+      "bytes": 6670,
+      "sha256": "064c6c71159555e74101f0dffff5c1dc404caf3fe2162bd5501777c3e9e02a84"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v3.js",
+      "bytes": 5123,
+      "sha256": "46c5164d55e007ab75b1662c2a2c7765f904e82fe1041c82e532c3efe997ffaa"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v4-2.js",
+      "bytes": 5118,
+      "sha256": "20033c5a2bcbeef878ec4cf7b5f8f68a0d14b7e848675736f240c2f053d713ba"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v4-3.js",
+      "bytes": 4458,
+      "sha256": "5a1066695aba9809f23e5cdc61583775e68d526249815b0e085289e9dcaa1991"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v4-4.js",
+      "bytes": 5600,
+      "sha256": "fbcbe716f162dd0c3afdf19393c4fa9d9f5063ebfe55d2186a2c1e68c9653e0b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v4-5.js",
+      "bytes": 7754,
+      "sha256": "d3fceaedb9b9e5c1b4858fcd562b459898e9a6c12a048d5c7337aa94c9358549"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v4-6.js",
+      "bytes": 9520,
+      "sha256": "fc93c21bf5d655227233287ccd68068551e887f5968f177994845e402076aa66"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app-v4.js",
+      "bytes": 5116,
+      "sha256": "0f6e8b1b58cf104db350ec47ee8fadb549de3c47905f2a38b889de5df5b1b327"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/app.js",
+      "bytes": 7105,
+      "sha256": "86ac61ca2cd1b15c8f5b32565b320f5ac35ab45e8daed46cee03068e61831996"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/askona-logo.svg",
+      "bytes": 5292,
+      "sha256": "21117b91e45796f448996f3ec52156a5ff3b9705502a9153f2b480855ad9e4d5"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-dobrograd.webp",
+      "bytes": 3212,
+      "sha256": "fc043aeb3664757a947d8cd7cb58d208d402ccd363a79a48d8c90184a731a2a0"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-everia.webp",
+      "bytes": 7680,
+      "sha256": "73dfe35f8d055f3271471ca2d4ff8067a144e3652a8830d24cd9ef8d57e127da"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-hart.png",
+      "bytes": 836053,
+      "sha256": "a6c7ce5d4382ba9efd7c428f393848e6c9893337eded24113246535c4133364a"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-hart.webp",
+      "bytes": 5190,
+      "sha256": "bf4f8879a83ab6bb4c81924fbeb7eab56d29b08f94c788beeffa73756364e854"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-polair.webp",
+      "bytes": 7000,
+      "sha256": "e0a8648ec24920dbe2fac1c6b7b84d9d238e274378c3921c1a284a2f0a9c2010"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-samolet-plus.webp",
+      "bytes": 8132,
+      "sha256": "c332a1f2bc9a4e936253d3f535df4e9443216b55d2897a022ff8acc7d1d8e7ea"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-unicom.png",
+      "bytes": 4936,
+      "sha256": "aaef2cc0017dafeb5060a0b20a6630b60401c7070b815b79365f1ed82d832019"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/b2b-zdravservice.webp",
+      "bytes": 7048,
+      "sha256": "ac13a73447f1887c39c3bd040d8c9cd456343f8c7398dba8cbab8009f26fb656"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/calendar-source.json",
+      "bytes": 5310,
+      "sha256": "854495d2a6c1e3d356cb17861d352085bb102428501d73c1c52c50cd99c13895"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/calendar-v2.json",
+      "bytes": 12572,
+      "sha256": "cfc9147091f090b0ecb76662246227a4affaed23437beef27dae61ea87868647"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/camp-v2.webp",
+      "bytes": 26046,
+      "sha256": "e8d1237bcedcdd0805e7125f995bd79f22b4bac4ae4004f909c0bb75a89719ee"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/corestone-logo.webp",
+      "bytes": 8496,
+      "sha256": "6267b85f998f136aa9f5a9f978091f2012ddee94cf28c5bd33cb5955b9809052"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/ddx-logo.svg",
+      "bytes": 3753,
+      "sha256": "3f697644cb8137e42d0c7170204b9ead0a841ed04ba1000497956ac573c1d5ef"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/denis.webp",
+      "bytes": 18540,
+      "sha256": "f0cf7185f3b22203f65f89d838aff49ddd4039b456165eef6b0c3b46073d5224"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/dmitry.webp",
+      "bytes": 24536,
+      "sha256": "035c72888dd448aba4c61a549a6a9e672f9ea7688a0586c03aff73229de26c10"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/favicon.svg",
+      "bytes": 177,
+      "sha256": "3fae6140df8c3e66771160b5e530863dc05140afa809aac4c6775c2a4d487e21"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/field-gl.js",
+      "bytes": 6191,
+      "sha256": "332facd01ead85039c73e9b7e9f0533fefe203681daafd603b3085f985d77f80"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/format-case-v4-2.webp",
+      "bytes": 17536,
+      "sha256": "32157fac80d47ad6f678a53b455bbc16a92e3051c9e5ccda868152a68aac49d2"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/format-masterclass-v4-2.webp",
+      "bytes": 20560,
+      "sha256": "340e28260790baa8ff5de387ad671b48231f21e496c35b806a1fa7d96bf9b8e8"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/format-memory-v4-2.webp",
+      "bytes": 21384,
+      "sha256": "d469633445689fd8759a91ed6f021583028403c8cb8a4bbaf80200b470a6064e"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/format-orders-v4-2.webp",
+      "bytes": 18810,
+      "sha256": "3967c8cea382f9c562e4177b9bf6e781ba016e9c1dd5998cd3dabcc7d78a762f"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/format-podcast-v4-2.webp",
+      "bytes": 25114,
+      "sha256": "a8dd567962bcc16eefc814b49a71fd09540b3e311089cf9570a79f993d758290"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/gulnara.webp",
+      "bytes": 13852,
+      "sha256": "6c505a77e630b77bcaa31ef894a2f2f08de464a17e25c3dcbddcaea75a56ed8d"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/hero-v2-small.webp",
+      "bytes": 42734,
+      "sha256": "3900be3a4270c96d783af38589d7928a52c9cb368e57b127626eab6625fbb60b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/hero-v2.webp",
+      "bytes": 109036,
+      "sha256": "71833f078a4e7b464b3e2428949cba777b35fc38ae6b0a3c18e308f30c81e1b3"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/hero-v3-small.webp",
+      "bytes": 65342,
+      "sha256": "a6bf0f03376189d59acbd1cf306d199cd00f931825da536d987f74c8788b6299"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/hero-v3.webp",
+      "bytes": 195862,
+      "sha256": "9866d809c1ee7dc2239f604d98df05cbf8facc4521d3c39055d360c1bd588478"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/hero-v4-small.webp",
+      "bytes": 30180,
+      "sha256": "133ccda3264eae9bb29a766928b6e65bb6fff3a06d06bc604e495d9df16f4769"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/hero-v4.webp",
+      "bytes": 97722,
+      "sha256": "0f23d765df1bb4a4523096e7a50efd4fffaaf7376f4d202936fb6aa6f77b7787"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/johanna-v4-5.webp",
+      "bytes": 129508,
+      "sha256": "9cb08945b033c470b2ea27ac7857c8bdff5a661c59e342081f249c7eb398c1f3"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/logo.png",
+      "bytes": 10384,
+      "sha256": "25fb92c1e6cd0356b149c72f4ae15c581b851d913688b3f8bd7f8b6cd9191b0f"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/machina.otf",
+      "bytes": 59148,
+      "sha256": "d4d248b788352d18165a0480830a1056ca286e397e11cf01be91e7c76163e513"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/mentor-v2.webp",
+      "bytes": 27966,
+      "sha256": "30c23eab08113842f37afd5164b1e9f3414d8548dcf2563b10f4691565667a04"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/mentor-v3.webp",
+      "bytes": 104662,
+      "sha256": "895ac472ed2b811ee81e03248a9c6f4df37290f63f2f215d1384213a07c35540"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/motion-v2.js",
+      "bytes": 5970,
+      "sha256": "d00dca229af0b1489d4181b446c26d14f569b7db40d6b1f7742cdb9035ba98c5"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/motion-v3.js",
+      "bytes": 6033,
+      "sha256": "c41cba22195cb2b6ca6e842c6bccfc277a9893f8a79656e19010d099341f28ef"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/motion-v4.js",
+      "bytes": 6540,
+      "sha256": "8577e4fbe8e39491280b6b4427f69b45c8ab0a7dba512e6b3111bb297ac7f779"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/murom-logo.webp",
+      "bytes": 6526,
+      "sha256": "d635f36df29a2c22b0abd01f6b217b50c067750a69fb8eac3449fa8894556a80"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-engine-v4-3.js",
+      "bytes": 16595,
+      "sha256": "2e194a0b6d8883cfed8330c2533042eb6cbb13ac983cc117ae9443f10a47e37b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-engine-v4-4.js",
+      "bytes": 16595,
+      "sha256": "2e194a0b6d8883cfed8330c2533042eb6cbb13ac983cc117ae9443f10a47e37b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-engine-v4-5.js",
+      "bytes": 16595,
+      "sha256": "2e194a0b6d8883cfed8330c2533042eb6cbb13ac983cc117ae9443f10a47e37b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-engine-v4-6.js",
+      "bytes": 16868,
+      "sha256": "867675ad1a835aff807162b12bd54b273b001cb1bf41cc40c861f706bd8fe2ca"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-engine.js",
+      "bytes": 5165,
+      "sha256": "2bd42930be9e8ce551fa7c648873930a81581ba7711c3d28d56dceb1770189c1"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-knowledge-v4-2.json",
+      "bytes": 93272,
+      "sha256": "03ffac33bcdb0edae3223ce964b06f450f9c6765141c1e46acc52f3cf5e203a3"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-knowledge-v4-3.json",
+      "bytes": 140299,
+      "sha256": "1b3ca187d84c39370e440a38e45deca0d21786aba5908dd9098dcd88aed1c6ac"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-knowledge-v4-4.json",
+      "bytes": 131956,
+      "sha256": "18d19d56ff1e7b29403d1078a99f31e421bf8dd8aea87162ba3e8919078fdb54"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-knowledge-v4-5.json",
+      "bytes": 142778,
+      "sha256": "264e8e158b81a45f8a1494f202905ef8c307fa566ac483e92fa6fa008616d3d0"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-knowledge-v4-6.json",
+      "bytes": 142705,
+      "sha256": "9172dcb0ef57ff7bcb424b64e6a8def7a7614a599ab7b410bdcba4cf33c7554f"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-pet-v4-2.webp",
+      "bytes": 9996,
+      "sha256": "edf87dffe23bf1c33ced1f01cfe9ef44da6fe972fc4a5495c5de53de74276d77"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-v4-2.css",
+      "bytes": 8087,
+      "sha256": "d32502eedf133accfae9431ae1cf6d166e39de0e2ccfe8b3c46b7bf585f9518b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-v4-2.js",
+      "bytes": 6498,
+      "sha256": "9eb3a62744a40276e25e15ee6d53d68c66446083fe71612e055bc2b9d46af8de"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-v4-3.js",
+      "bytes": 7047,
+      "sha256": "0c068fae9a4aa167cb2df68530635587869e200b0a00495aa7c41a828b584a7d"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-v4-4.js",
+      "bytes": 7047,
+      "sha256": "266e5e7b70f72da364f25cb12b35611751fc7f631b4dd7040700ad896db304e7"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-v4-5.js",
+      "bytes": 7047,
+      "sha256": "d112c83f79e76e4a1361290f144de730e12a04bb22f39dcf33ae536471e56e55"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/neuroniy-v4-6.js",
+      "bytes": 7167,
+      "sha256": "07d58ca117fd49cf61360ca1f88b87b2c0d726ab3b85dcecb08ab8bbc887f7d0"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/nii-logo-light.webp",
+      "bytes": 9954,
+      "sha256": "35f58e31e3082ddf86dabb55501e66c5562153595efd63b3fe0ab0f1a2d7d31d"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/nii-logo-white.webp",
+      "bytes": 4482,
+      "sha256": "300d46e1068d8f2238702e229de4b0b41dbacd08f123c3a77e5cc57069532cdf"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/onest-semibold.ttf",
+      "bytes": 64444,
+      "sha256": "a688b7d4988c21529bcf6d68d216a47210e1fd73a43855e23bbb9ca777279209"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/onest.ttf",
+      "bytes": 64272,
+      "sha256": "e4f3c821cfb8e8e4b77680dca62a9799c5f73e2774e0adbe4d435ec3c1549fb9"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/partner-londoncult-v4-4.svg",
+      "bytes": 17215,
+      "sha256": "bdd32912d95c454613531a64b21acac8401b011587f55fb610edd45b6c6f9521"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/partner-olim-v4-4.svg",
+      "bytes": 4017,
+      "sha256": "deb9c30432e7ad61e98aa20135ff5132c5d3b49fac7c2192f51de4dba89cfa71"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/partner-smartgen-v4-4.webp",
+      "bytes": 7214,
+      "sha256": "f2a79891c0a1df54511b28c2ca97536803b88082877ebabc331b4127cb36a83f"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/partner-tlvmed-v4-4.png",
+      "bytes": 2851,
+      "sha256": "56d620f10bf436a2e06756f679c3521f281375de3db039a497f153fe836db123"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/partner-wave-v4-4.png",
+      "bytes": 10548,
+      "sha256": "769769e9ebc6fec95c5107b94dfaa13a17a09ee6eb628d16c2ee7a647535ad44"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/partner-yaar-v4-4.png",
+      "bytes": 12006,
+      "sha256": "5717e6abd86aeb7f3f28ff4ce6bd09d792398166355164ad590223121b61de40"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/practice-v2.webp",
+      "bytes": 26412,
+      "sha256": "8c07cf4d226d7fe72a60808918c8b1e4965f71106d9ceba52075a06139062260"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/review.css",
+      "bytes": 3437,
+      "sha256": "285991158cbea6b6b08195d50fa3dcd8838fd0754c9cdfe51c467ae1df26c88f"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/reviews-v3.js",
+      "bytes": 487,
+      "sha256": "9ec24ded4f9ec7b2e9e0ecfc037f1ecb86c3e9539af8eb38dc5ec371ca7e5701"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/reviews-v4-6.js",
+      "bytes": 936,
+      "sha256": "f9eca43d41039684a82fb6f4de575fadc72e27b0595bac7cdcbd94584eb9fd05"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/route-camp-v4-1.webp",
+      "bytes": 40640,
+      "sha256": "997a4100b8b6e2279ee6ff13c4fba0e6abbfae8f50456a4353e45514337e47ac"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/route-practice-v4-1.webp",
+      "bytes": 31412,
+      "sha256": "a596e587a11e5ff65535253d348d8dedcf30bb02974610445fedfbadc1be1ba1"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/route-strategy-v4-1.webp",
+      "bytes": 28732,
+      "sha256": "cb905aaaec7376389058b9f3de2225d064d6b7b3b1d223943a11b963f16b6cd6"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/samolet-logo.svg",
+      "bytes": 10151,
+      "sha256": "4680a3a0d360b06c0c7f5851013615bffc7fdaf76e4def6c880093ef728de9f6"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/sergey.webp",
+      "bytes": 16144,
+      "sha256": "45f77cd528522e85d828e7ecf3bbcd01f83b1e239ee759b5991d1bf4065d46ca"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/stories-v3.json",
+      "bytes": 14418,
+      "sha256": "de143359e267a5f3d519d438ab911369349d47d5cd6b6d587b9d02b3d8be674c"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/strategy-v2.webp",
+      "bytes": 22944,
+      "sha256": "3236ef398d63dbe6c5a062485b9486b82248c224d128dd463817a5fffc83069b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v2.css",
+      "bytes": 44752,
+      "sha256": "d0c40b4610769476a1730b5f8e33d2f291efb847c03a581aa01c8f0d0d43098c"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v3.css",
+      "bytes": 38942,
+      "sha256": "fb4fe20805eebad06653e6e88560811e86849f6b0239182f116ec4bbc6d3ddec"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v4-1.css",
+      "bytes": 118801,
+      "sha256": "05c1738ef6cb23187cd236920a8a7000c397445ca1a1bfc6e6dd8ecf1c27ca91"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v4-2.css",
+      "bytes": 122882,
+      "sha256": "483243b9aebd2687304d80d3b4cd6f4d2c36dc25633bb9049317720ceef7bda4"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v4-3.css",
+      "bytes": 132821,
+      "sha256": "c3ba19fce5dd23cc36ef58c2351573aab55b213737bc65907efd13b913c7df5d"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v4-4.css",
+      "bytes": 139111,
+      "sha256": "3da0965edb630e36049b5357590be935a99c8640b5d7732943f7feab14a3b8ca"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v4-5.css",
+      "bytes": 143438,
+      "sha256": "e78edd9ee3b7595eb58273cf0bb4b2536e2ab9477eddfc0f558aa7ee8a1a4d16"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v4-6.css",
+      "bytes": 149243,
+      "sha256": "fc5300fd8f52fa6397b2dfc96ed041aea149b1e27a3421f00298d3cecfc05c91"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style-v4.css",
+      "bytes": 114657,
+      "sha256": "8d079403ea1e279ba3ecc3798818ca331904b184751f16fdaca4522dc4667def"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/style.css",
+      "bytes": 35989,
+      "sha256": "79edd723a21935af5159a908cb21c8737067174ce61044df9a6ddd314d733c0f"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/valentin.webp",
+      "bytes": 15174,
+      "sha256": "c759df963bff5358ceaa589ecd9346b3839d05bf1c758a17ed277ab3b17c7ad1"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/vasilyev.webp",
+      "bytes": 11282,
+      "sha256": "49f44eafce3c25c66d5249f2d338ec7b708e5c2f53008bc6ce276a20f3fb1f7b"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/wrf-logo.webp",
+      "bytes": 9108,
+      "sha256": "a77c9b631979910b67a3e6c792997e59071ae56f41a05520010fcbc394cd2615"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/yulia.webp",
+      "bytes": 16212,
+      "sha256": "14583ce78a2193ec2a416266610b70fca0802c75fd35216e11909dd481d9a081"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/yuri.webp",
+      "bytes": 25362,
+      "sha256": "bfdaefdc19404d91b4b79297e3cb395bc09a1832a466e4ac0860bcc5eaf675d4"
+    },
+    {
+      "path": "history/project/outputs/готовое/assets/zdravservice-logo.webp",
+      "bytes": 27388,
+      "sha256": "9179ac3f65309d305505070515c831129a52d538994c7c2186bfa64c7cc0b419"
+    },
+    {
+      "path": "history/project/outputs/готовое/index.html",
+      "bytes": 118662,
+      "sha256": "fc9f405d8a14217a3af974b191ebf180348b87c656ccd791a956a1fc950d9ccd"
+    },
+    {
+      "path": "history/project/outputs/готовое/product-marketing-field.md",
+      "bytes": 7516,
+      "sha256": "041b52f01f864ec813aa23b69a8c1df96098a75e69ae205d79886a0102b8702b"
+    },
+    {
+      "path": "history/project/outputs/готовое/program-v8.pdf",
+      "bytes": 249108,
+      "sha256": "5ab003ad26e9779625d13ac059146cb702bcf5e0392d7686377335d3e2145ee6"
+    },
+    {
+      "path": "history/project/outputs/готовое/reviews.html",
+      "bytes": 34424,
+      "sha256": "4badef727ea11b6e59b7c668a1306ea1e57f0455eb176df9f4b744ca1308322a"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v3-files.txt",
+      "bytes": 793,
+      "sha256": "a6b45ffd3dce5fdff2955c7e18859f1994d401e99af5f41816aae3ec4c34cfa2"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v4-1-files.txt",
+      "bytes": 894,
+      "sha256": "7c53e3a740e2663750640b32fcf5f530b83caceb22f3d214a3d9825b2899fd5c"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v4-2-files.txt",
+      "bytes": 1212,
+      "sha256": "fae7f21004038d1a8992bd5120984d4d415c973527913452ea3374c1c347a6a2"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v4-3-files.txt",
+      "bytes": 1202,
+      "sha256": "035d44de7c9c92eb3b16c7b5d9501409ee9d10d4e0a78b8843a73a1fda446f36"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v4-4-files.txt",
+      "bytes": 1389,
+      "sha256": "893cfe8bbe7151ea9f86daa1c50b387acdb92cb5d866de282e43fdb46cf58780"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v4-5-files.txt",
+      "bytes": 1431,
+      "sha256": "c13d99ca96813ba40447f623fffe27e6d0a0bb1ffc00cb750992d8c8a8131004"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v4-6-files.txt",
+      "bytes": 1433,
+      "sha256": "c5346e37504d678335bc000f13553383cf0131b54e3cba3c5ea99a3639b55720"
+    },
+    {
+      "path": "history/project/outputs/готовое/site-v4-files.txt",
+      "bytes": 800,
+      "sha256": "2671bb03d6eb1fe337438a290dcd2232f2fda7b46dbd13d50ad06997a3f5845a"
+    },
+    {
+      "path": "history/project/outputs/готовое/ВЕРСИЯ В ИНТЕРНЕТЕ.md",
+      "bytes": 829,
+      "sha256": "74e134c17987901d7d1513e0fb896a9f81d53d353824fa528987e5b0c7c82813"
+    },
+    {
+      "path": "history/project/outputs/готовое/Визуальная-v2.html",
+      "bytes": 17545,
+      "sha256": "33a9ae18cb29fdb174a3b5b7c05b59e431729d5e63a586568ccc2469c137f310"
+    },
+    {
+      "path": "history/project/outputs/готовое/Запуск.html",
+      "bytes": 16793,
+      "sha256": "05397a3d2459dcdb54e7591885cee43c4fd92c4ed12844e4b2da2cac36044f0d"
+    },
+    {
+      "path": "history/project/outputs/готовое/Изображения-v2.html",
+      "bytes": 9786,
+      "sha256": "27d9ddc6c90f5531155ce1c2dbc580c717728e493cd06be79add2d980fdd119a"
+    },
+    {
+      "path": "history/project/outputs/готовое/Исследование-v4.html",
+      "bytes": 43936,
+      "sha256": "bed0c912899e419b0f01e9a28a5225a18f4d8392a6ff7726c013f31ee074c266"
+    },
+    {
+      "path": "history/project/outputs/готовое/Исследование-v4.md",
+      "bytes": 33677,
+      "sha256": "5f39a912ebf44895ef4d682b399f13780dae093aae0d40419614372615839dcd"
+    },
+    {
+      "path": "history/project/outputs/готовое/Источники-v3.html",
+      "bytes": 10637,
+      "sha256": "ee6d07fe0dfedd39b03cce6da33149bc73b0baa2910c572a6a6c05296e527f1b"
+    },
+    {
+      "path": "history/project/outputs/готовое/Контекст.html",
+      "bytes": 9283,
+      "sha256": "a39f85b62bfc789221dbf0d52465553f23e03d00ecda016834c63e76a9e6ea50"
+    },
+    {
+      "path": "history/project/outputs/готовое/Обзор.html",
+      "bytes": 3281,
+      "sha256": "763ef56890dce8518b5af62ae5e1ef24fda952ca175beca0d96db8a214366cf1"
+    },
+    {
+      "path": "history/project/outputs/готовое/Правки-A.html",
+      "bytes": 10855,
+      "sha256": "8ea8da37bf06a339543e6928ca7745099ccefd836178b7b9066cccca66209aa8"
+    },
+    {
+      "path": "history/project/outputs/готовое/Проверка-v2.html",
+      "bytes": 7408,
+      "sha256": "5af9d8ca6e61e5d7ab0c71c700094830d2daad709c1c940a237c95e7e0c2ff5c"
+    },
+    {
+      "path": "history/project/outputs/готовое/Проверка-v3.html",
+      "bytes": 8657,
+      "sha256": "39efcdafcef91e8c95adab6f4bbfaf9205ffb504353806a35b1c5208929748bb"
+    },
+    {
+      "path": "history/project/outputs/готовое/Проверка.html",
+      "bytes": 9087,
+      "sha256": "384b290cdc25cbfa5e4f09932fc82d546206c67d6a1ebdedee23a6a1834b43a9"
+    },
+    {
+      "path": "history/project/outputs/готовое/Разбор-v3.html",
+      "bytes": 21732,
+      "sha256": "7e686a4a05658840614a18afdf2948bd97c09ab81a95c6850c8e704e17fa4d7a"
+    },
+    {
+      "path": "history/project/outputs/готовое/Стратегия.html",
+      "bytes": 60180,
+      "sha256": "9339599ae33c9225c759a4d3fa5bb9ef43e91fcdb4831cff2dbc279ad56a26f9"
+    },
+    {
+      "path": "history/project/outputs/готовое/Тексты.html",
+      "bytes": 53224,
+      "sha256": "b787042915aae1e8d82df053e28168141728892880908b1bdb29c640495b44e8"
+    },
+    {
+      "path": "history/project/outputs/готовое/исследование-v4/aardvark.jpg",
+      "bytes": 224154,
+      "sha256": "2713dde3949580beccb644a781c8a417e7e05cf792a8f07b8865a6fad5a647f3"
+    },
+    {
+      "path": "history/project/outputs/готовое/исследование-v4/knko.jpg",
+      "bytes": 434240,
+      "sha256": "f8824a454668228b98c7e1c9770a5d03e0298020cca7b232c17c10bc09966f51"
+    },
+    {
+      "path": "history/project/outputs/готовое/исследование-v4/kokoro.jpg",
+      "bytes": 213829,
+      "sha256": "9041468a4e0a1e1f96cf87f8e10d74c38300e8b398869d8052f41e4d8e6ceab6"
+    },
+    {
+      "path": "history/project/outputs/готовое/исследование-v4/mersi.jpg",
+      "bytes": 788924,
+      "sha256": "371a32a0ca0fe14fce9226d592dd3d65f02d526187a96d8f9e5dac88d755c7b6"
+    },
+    {
+      "path": "history/project/outputs/готовое/исследование-v4/trevor.jpg",
+      "bytes": 254701,
+      "sha256": "8a48924953e323e208e930946f4be429825df82543e8a58f8d2e159e4b31eeca"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/calendar-v2.jpg",
+      "bytes": 92626,
+      "sha256": "d444ddf290ffaf641f90ed4eb42b145de1aeb46c5ffdfb6b1c7d8d64196f79ac"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/calendar-v3.jpg",
+      "bytes": 132976,
+      "sha256": "43ba55c0f8cc36113ad939e277b270b7297de484ee59e2cff91e6a10a75a0b20"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/calendar-v4-2.jpg",
+      "bytes": 108951,
+      "sha256": "fba2366c4a6d1d8d79375261ce9615c3cf4f469236e0e9026814068e48d16d81"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/camp-v3.jpg",
+      "bytes": 143348,
+      "sha256": "0838ab685d0b4984df1a0ca026bf04790e9275c8507f7add1dee79f01ec478af"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/camp-v4-1.jpg",
+      "bytes": 44201,
+      "sha256": "c991a48c8a7a222db923f950b4296b1e8bd90617b249ccd2b7db20a5a1e995aa"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/camp-v4.jpg",
+      "bytes": 55089,
+      "sha256": "720a0802e5cba3c2fccbd8c35b017949bf1c40fd9542a68fde0aa54aa6658b86"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/desktop-v2.jpg",
+      "bytes": 116700,
+      "sha256": "afffc1bf5ab0ed37c177ae19bdfa8b2abc8a037749808863df8d8c6e2ef1c927"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/desktop-v3.jpg",
+      "bytes": 172505,
+      "sha256": "a34eab7e522cfbc07ade0c5259e3b0417bc733b6548d35817b8e80eb536f9bb4"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/desktop-v4-1.jpg",
+      "bytes": 146518,
+      "sha256": "2dfbde1f1752061f060cf2dfad1fa71cf2c071ce8c473320f46d0f1343e3d2e6"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/desktop-v4.jpg",
+      "bytes": 142393,
+      "sha256": "62b86611946b5017bb76cefa7f0c37c57f0534766995d3d262291768f54246b3"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/desktop.png",
+      "bytes": 97301,
+      "sha256": "14e94f661e942ee9016cd21b4c144e843a6ee5acdb1cebcdcca0a5e5d5c45153"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/live-v4-2.jpg",
+      "bytes": 275971,
+      "sha256": "f1aeb1871f7533f6c6ef0a638dfea342566f09c5cf06ec7200f5af19480bbf06"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/mobile-price-v4.jpg",
+      "bytes": 42538,
+      "sha256": "0b837e4c4b71db5c6c4b36958e46d4b3cad93572c7664ba689f0b722efc238b2"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/mobile-v2.jpg",
+      "bytes": 53547,
+      "sha256": "7f40ef809e3132d5dcedc39fed989877f29d95d7ac0410bfa1862c6993c1fe86"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/mobile-v3.jpg",
+      "bytes": 60980,
+      "sha256": "6d73173f0c17d1ca115cd984cffb77510cd4592ec15a191444a21e1d8f9409e4"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/mobile-v4-1.jpg",
+      "bytes": 48392,
+      "sha256": "ccf48613d6e167d52c8ad3987e6a3602ddaa3e5b38962a514d98cf4629925e25"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/mobile-v4.jpg",
+      "bytes": 53735,
+      "sha256": "c87022fb648fc45f448cd9e01b96594803876220ec190704e7d0c7a8e25e421a"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/mobile.png",
+      "bytes": 48442,
+      "sha256": "44461fcd40b3fc10d031fb6025bb48dfb32c681c5ac3ad85306bfdb1c34dace0"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/neuroniy-desktop-v4-2.jpg",
+      "bytes": 46980,
+      "sha256": "60265b4d93063968c5040f630119579958e88159825011de4ff81884adb51dee"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/neuroniy-mobile-v4-2.jpg",
+      "bytes": 61338,
+      "sha256": "6145cb0ec40d3023a9e4b08cfa3acde85d9f68bafb65be7e262f957619c354f2"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/neuroniy-tests-v4-2.json",
+      "bytes": 1545,
+      "sha256": "ed4cde04af0bf9eea9fda2befa821f8e1d2448a194230879027683125f6bf58d"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/pet-v4-2.jpg",
+      "bytes": 102395,
+      "sha256": "8a9fa3c168069885e01501c511f8d73e81617dbaa62ea7ce5a3ef4cd6b5d2558"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/price-desktop.png",
+      "bytes": 63994,
+      "sha256": "8cac5267adfebe92d40c323ba82b43af093ca1a7449d05b1a09b9c5358a2fae4"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/price-v2.jpg",
+      "bytes": 95746,
+      "sha256": "6d693bf73cdd5d9bf34ca5db2c7a8f7fe80f10442fc1678497f3e23054bdefe9"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/price-v3.jpg",
+      "bytes": 49800,
+      "sha256": "191f1192613b1ef2a9910ba354e3f5f6bb5463f2bb287b5c7463d2a05fcc68e7"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/price-v4.jpg",
+      "bytes": 98616,
+      "sha256": "9bf87c4a1228ef5948c601f9b833eefc6f7fe5ab62f5bb182397c7f347ce6498"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/qa-v2.json",
+      "bytes": 2523,
+      "sha256": "3a6b81d7099e5a7e01c202c1b664a6980d75c1a2cff7c00566f9de15175d3576"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/qa-v3.json",
+      "bytes": 6660,
+      "sha256": "f4d6500b79987aa72df2a758b2934c8e2bccefbc77cdb37f1054d37280a57970"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/qa-v4-1.json",
+      "bytes": 2999,
+      "sha256": "206d6339aa9c465ce4efa1f606ef3862da386431c9fc3553a04807c88f4ae4ac"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/qa-v4-2.json",
+      "bytes": 4821,
+      "sha256": "c7a548cfc5bc44127de6d769f842eb793ce031916809cf0b200430132b63188c"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/qa-v4.json",
+      "bytes": 1243,
+      "sha256": "45130aef11abde2a9b61f82603632e208a0803673394aa67b3dde384fef4c60c"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/responsive.json",
+      "bytes": 569,
+      "sha256": "2667444bbdaf45474dbe493377098c967c628efd0f854c731d83e60d1bd7d1f0"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/reviews-v3.jpg",
+      "bytes": 121430,
+      "sha256": "4dc8c29125b9790c510bb568bd33a2af1034fcc1eb1266ba8cb4dd78d33829e0"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/static-checks.json",
+      "bytes": 865,
+      "sha256": "46e8be15768b6a735f631c634999b1f40e740c7f48bb78b6fdd49d2292f9dbea"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/static-v2.json",
+      "bytes": 654,
+      "sha256": "f34efba00eb22786672da2abe204c938be68be3eb4763e5ef73a5eca13473065"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/static-v3.json",
+      "bytes": 726,
+      "sha256": "2efe5e3641a83e0dde2ed7ec8f6f6810b029ecf2a45e57bd43c4310cfcf7e2e7"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/static-v4-1.json",
+      "bytes": 1073,
+      "sha256": "923991fc8217bf06a19bc6f73bbcc01ac034eec3d37baf370165f5b185337d64"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/static-v4-2.json",
+      "bytes": 1232,
+      "sha256": "b28c34540e642fba64741adc6f42dd68ba6cac64c0925b2091b8f002e8214dff"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/static-v4.json",
+      "bytes": 1071,
+      "sha256": "38624c6690a5dc011df378da63ad1e0e7c4c989ab7b0a53b4b48ac4c074c7db2"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/tasks-v3.jpg",
+      "bytes": 112555,
+      "sha256": "38e3eb1e0d028a3f6d8b47ec88b92e999a6f282e910396c2d1a8afd97a82b1a6"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/team-v2.jpg",
+      "bytes": 127897,
+      "sha256": "074aefe25d4dba3c19c833accd028c4a795b8ae5439f8309f73f3cebf6ade23a"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/team-v3.jpg",
+      "bytes": 133310,
+      "sha256": "77b6a9bc4bf50084d65a33021762db8688ff41aff843d163f712a63e03895c3c"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/tracks-v2.jpg",
+      "bytes": 102758,
+      "sha256": "2b4d9d326b5c14a8043e1bc8f3407f391a35650b48d5a1a5b5d5336b96e6b1b6"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/tracks-v3.jpg",
+      "bytes": 137978,
+      "sha256": "e26ac0c0f7cdb5ca1398d4f773336c25a4e20d96724f006b14996a1fcf01be8f"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/tracks-v4-1.jpg",
+      "bytes": 114296,
+      "sha256": "be8111bf0d706aa03dc1ae9e1cac73cf2c690f2bd1de8f6ff0bd870dca4b680a"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/tracks-v4-2.jpg",
+      "bytes": 112467,
+      "sha256": "44557ea69ea507cb1ee6ee6940d75bd071e0d2bee3393390e10e55b7af3400cf"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/tracks-v4.jpg",
+      "bytes": 102819,
+      "sha256": "9f73f9ce0adb4103fb3ba0989425d500509b65678aea0bf6e6b65fd1120ab60f"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/after-archive-mobile.jpg",
+      "bytes": 57701,
+      "sha256": "22d8eb972c9a2ced12df043f7f6c0724c1b35d849bfa019410d47c785fc5364b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/after-checkout-desktop.jpg",
+      "bytes": 193421,
+      "sha256": "0eade69fdf8ca91bc0ce20a73dfb28829562724635e631634b8b83e825e7dd4e"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/after-neuroniy-mobile.jpg",
+      "bytes": 62963,
+      "sha256": "b1ed3c827c0037c4f829936bb57b0cd42a795ea5c92446766211cd8dd51c972b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/after-payment-mobile.jpg",
+      "bytes": 38604,
+      "sha256": "36d9a7a9b9a68ecb6f9f34b6d062e29ad5c747a474b2429c193d399be2c96587"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/after-workflows-320.jpg",
+      "bytes": 36605,
+      "sha256": "23631d7877e1f3f7a84f2591042a47d908dc0294db5c7a01ccbee68f4e9c7626"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/audit-01-isolated-review.jpg",
+      "bytes": 219748,
+      "sha256": "f7c2ad549ea97a7a7725f67768b7106cd8ee198c3c74279bc7a6bb6243a1f8f9"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/audit-02-checkout-detour.jpg",
+      "bytes": 152450,
+      "sha256": "7d02f605768e8c8dcb585430d98f7ba126af5915dd5553fb2746af4485c63510"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/audit-03-team.jpg",
+      "bytes": 206692,
+      "sha256": "f74fcd5b29684c72dfe398b604232e690ac623eee0be57ae200569f115177ad4"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/neuroniy-tests.json",
+      "bytes": 42346,
+      "sha256": "ac8f81d10c0f7c3af19fd9eb653d3ae25a73ccff17ac8bba2070e261f86ed31f"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/public-v4-3-workflows.jpg",
+      "bytes": 210418,
+      "sha256": "9c456dbd61a9cfd61c3b232ee658201d2a8c24cc807d610ac3fedfcca863755b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/static-checks.json",
+      "bytes": 306,
+      "sha256": "41903a27cc0b695fb7a8b2aedcaafb96694f2070094537096e60f6496522c5b6"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-3/upstream-cart-repeat.jpg",
+      "bytes": 158547,
+      "sha256": "d69e1cff11e427ff74a788ea113772928b535be7d4a0e674cb1e8898fa578a35"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/camp-number-mobile.jpg",
+      "bytes": 37590,
+      "sha256": "6756affe1ef8ee35c759ae193baf90d4081105d0c93e722758b551e0f4869f20"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/neuroniy-tests.json",
+      "bytes": 42346,
+      "sha256": "ac8f81d10c0f7c3af19fd9eb653d3ae25a73ccff17ac8bba2070e261f86ed31f"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/partners-desktop.jpg",
+      "bytes": 259455,
+      "sha256": "c53de507c0fd907e016252f213dd7876a1cf87b23f80a18cc05a35ef58a8e5b7"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/partners-mobile.jpg",
+      "bytes": 45685,
+      "sha256": "498ee6f3ee37fb76e53c29b13bb151ccb9aca1e00aac0feb6d66d3dc76dac0cf"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/public-partners-v4-4.jpg",
+      "bytes": 259489,
+      "sha256": "b758224865c203512de651afcc5f464d1d1c403ddab36a3e06ab0e17f5f33fad"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/series-desktop.jpg",
+      "bytes": 242562,
+      "sha256": "94c59bbf54ee61ca200a74de0ce39a86a8708c8b5f7947bca436766f74429b78"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/series-mobile-320.jpg",
+      "bytes": 36072,
+      "sha256": "444d03f48a1b307abe4c102cc596415821d1ff64d1bd72d151896e75bd561cd3"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-4/static-checks.json",
+      "bytes": 306,
+      "sha256": "3bad58814e9682d2bc10f9d1f85c250c667820864e81e6b16f39558324a06030"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-5/browser-checks.json",
+      "bytes": 502,
+      "sha256": "4e3243648d0299a65d1b6f1141e51f9f519a11fbe2837cb61315ea684205f2c8"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-5/expert-desktop.jpg",
+      "bytes": 200260,
+      "sha256": "0c4189f8063e0cf274abc3d2d5848ec1614db8c5b36a466181abd760a78f3a11"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-5/expert-mobile-390.jpg",
+      "bytes": 48287,
+      "sha256": "5e469c69303561d4cb2316af338b5f9036ab14c02d7be2addce7fb8112587d69"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-5/expert-mobile.jpg",
+      "bytes": 53722,
+      "sha256": "ae6f0f7db58eeab1bcd317534a32c8c255bf39512e96dd585a80aa819c3f3c9e"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-5/neuroniy-tests.json",
+      "bytes": 42885,
+      "sha256": "edccd59d544b8d90ba499939932e71b0d64b01159a230e057adf8944a2eca34d"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-5/public-expert-v4-5.jpg",
+      "bytes": 200371,
+      "sha256": "b7cbaf911960a27dba9ca973f5bb18d5e1575c12e7af8a2dc077dc6c12c55b2b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-5/static-checks.json",
+      "bytes": 306,
+      "sha256": "1a5ea6245425493abc64c508f348724f2d17d2db16055abc69615d16fb797a26"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/01-after-hero-desktop-final.jpg",
+      "bytes": 103120,
+      "sha256": "d54620da5530e7658044bc1ab65f6486c5d2ec9d4662066eeeb9aeb0104166bb"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/01-after-hero-desktop.jpg",
+      "bytes": 124195,
+      "sha256": "135e29910e2a609e2766c07c1b8170cda6dc85f14614e28315503dd4149b23bc"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/01-after-hero-mobile-final.jpg",
+      "bytes": 135020,
+      "sha256": "2421738ad49a1ccfdcf3ca1d830ad6980de01ea0797f6be004dae3810e63a330"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/01-after-hero-mobile.jpg",
+      "bytes": 50317,
+      "sha256": "97d7e8c0b710e56cbc1aa882f0ee2cdf16a22179fe8f43ce224af5ffa973c94e"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/01-before-hero.jpg",
+      "bytes": 233362,
+      "sha256": "183c625bbeb9b91ec3603efa98104d6a8c86539018951bfbc2303c3aca07176b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/02-before-offer-stable.jpg",
+      "bytes": 160971,
+      "sha256": "b35d3fb71dbfa2411f70c24761291706d9f9db35e74260a2fe5715226dc49df7"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/02-before-offer.jpg",
+      "bytes": 253064,
+      "sha256": "4e5a9952ac1e6cece09b6790cced22336225fda2566affd6d5e0200fc24033f8"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/03-before-calendar-final.jpg",
+      "bytes": 144217,
+      "sha256": "5b7ac9a7f9da2b6acaa15b937feb5e221d67cbe5608735623bd96fd0d14b8361"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/03-before-calendar-stable.jpg",
+      "bytes": 141720,
+      "sha256": "b991dff95b7616dd6acd2fb9fa9a693ba72446d032e4e58aeb89f2d6a24802b4"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/03-before-calendar.jpg",
+      "bytes": 255666,
+      "sha256": "3fc92ff48b5b94715b975c43cab0dbc2e8fa7faf3dc98cbaee2b8abb6b1dbbd0"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/04-after-yuri-mobile.jpg",
+      "bytes": 38515,
+      "sha256": "0be1a89da5beb4656fe2027e67da983fbbf650beaa52b95605b7ea0061e056ef"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/04-before-team.jpg",
+      "bytes": 167637,
+      "sha256": "5751e7334a3d5c7548043bceea0a03b35ef6f8e72f8b8c34910aa815487b1a98"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/05-after-stories-final.jpg",
+      "bytes": 116747,
+      "sha256": "51e874f26c160d4d5616c9e696a6baee81ead78fbaa880b5567736aaab5a742b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/05-after-stories.jpg",
+      "bytes": 53259,
+      "sha256": "ae39a2aa72c0e5568ca748539a88023ca2549c7b6264aaf1cf9274afe90e89d8"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/05-before-price.jpg",
+      "bytes": 201962,
+      "sha256": "0da275d69f7c1cbb84ef8793ed5d3e4a9b2adfe1627251bbda6a9488494e9b4d"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/06-after-assistant-ceo.jpg",
+      "bytes": 125768,
+      "sha256": "61dc8e081a8890bd228fabde8f1eea6267b002e95deb8ef9a63ca3f87e9d0361"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/06-before-assistant.jpg",
+      "bytes": 196558,
+      "sha256": "3d17146c9477e97546f430827c14b3d51066d24e6cc18459e484bcaa254f34d4"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/07-before-mobile-price.jpg",
+      "bytes": 32137,
+      "sha256": "ac91528e8f8c3cf573f52386ae490807a97eafdb52180992227472c9558ee6a4"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/08-after-review-deeplink.jpg",
+      "bytes": 119497,
+      "sha256": "d6565878b58581b0a1f160d037b3415b3e7a64dcd52ae8ada9bede8270e70eaf"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/08-before-reviews.jpg",
+      "bytes": 39398,
+      "sha256": "8f804775e04556b1543c5853dbc6d35f5f336fb1fdfa117dec525f0d172852ab"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/09-euro-checkout.jpg",
+      "bytes": 141266,
+      "sha256": "31ceb00610a259dcedbba079ba4b4b102a6a43c09cdda11d61a618398f6be23f"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/10-live-yuri-final.jpg",
+      "bytes": 48596,
+      "sha256": "8fba74e6c52e1e03d64432dfe0f00777f972c8e15930a03ccb13a8e4506694f1"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/10-live-yuri-v4-6.jpg",
+      "bytes": 29885,
+      "sha256": "7ea90847499e6446abe02655081a0913f52045c1185666cdc1cf9edfd204c79b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/11-live-hero-v4-6.jpg",
+      "bytes": 57111,
+      "sha256": "39dadfb5cdcc9e7d1a8687d73abcfae653f8374fd4094dfb33b91fe60cc5de4c"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/12-live-desktop-v4-6.jpg",
+      "bytes": 275588,
+      "sha256": "841ed377eae76b9c401a7655300ece553248fc364b58053ccdd834efddfb4b1e"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/link-audit.json",
+      "bytes": 437,
+      "sha256": "bc93684ecfd3327608895c7858566ce9288219edf1bed2edc6340a38e2dda26c"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/neuroniy-tests.json",
+      "bytes": 47220,
+      "sha256": "bfa579253d84a724f74d8681e43ae1a2ddb0d5adf939913af070badea45d4558"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/v4-6/static-checks.json",
+      "bytes": 306,
+      "sha256": "c83fd08565122c3ada193e918d99b34074a61a244d70ef1ca95425b24e5b069b"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/week-v3.jpg",
+      "bytes": 113416,
+      "sha256": "1be439df613bf535990481892a6b7f42898c26cd68300bf35ffc8847925a5c85"
+    },
+    {
+      "path": "history/project/outputs/готовое/проверка/week-v4-1.jpg",
+      "bytes": 102225,
+      "sha256": "f5c43aeebe595552890231702ed80d3f0236fe3c7c7409c37aea113ceed79df8"
+    },
+    {
+      "path": "history/project/outputs/рабочее/audit-v4-3.md",
+      "bytes": 2549,
+      "sha256": "12115fd8c550a95637e3660e47d3e6b59f5d40df2d6c13253d9676e1358bd219"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_landing.py",
+      "bytes": 40492,
+      "sha256": "a5f20e5f387c2b50910625a8df37585526ec9dcd1ce7aba05f704dd7213e2ef9"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_neuroniy_knowledge_v4_2.py",
+      "bytes": 8607,
+      "sha256": "ce810fe9d7856100aeb60503420fbf029ff782f6cdc220e48fa8324a13531034"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_neuroniy_knowledge_v4_3.py",
+      "bytes": 19268,
+      "sha256": "9a9e2e071e6afb31c6609ca7d7d290edb6fb5a55a8a9d3db4b285f7f244bf304"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_payments_v4_3.py",
+      "bytes": 7249,
+      "sha256": "eca14f1fc54fc059af0be343a160c96dc59cb6257b337b6b7ce6927082bbae80"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v2.py",
+      "bytes": 17137,
+      "sha256": "ba75fa31669627b1b679d12dd59523787e1caf8e801b62f278b43e33939d39d8"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v3.py",
+      "bytes": 38693,
+      "sha256": "4bcca6354cb6a06698d73589a23c09b8ce11d4d52cd2138299404a265d688aaa"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v4.py",
+      "bytes": 11728,
+      "sha256": "81915bd576b75282b7e3352983e9da52443e5096a0047ee646449157ce02d418"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v4_1.py",
+      "bytes": 4478,
+      "sha256": "d246b5efb27231df7a93bb740b85b205e238326e8f504a772db770602dd605c9"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v4_2.py",
+      "bytes": 5012,
+      "sha256": "3ca4c116a300517b1d832766cdddd6c236317513e18fd7f8faf9df6508f4e041"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v4_3.py",
+      "bytes": 29402,
+      "sha256": "59049fef049b8541869142f87832f79a0702ad6c256f71942a5dbd88de039b8d"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v4_4.py",
+      "bytes": 5279,
+      "sha256": "fa199d5b6133e3f2d49dd141ec8ea4fa19325be7b926a42887ea7a0d9a00d63b"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v4_5.py",
+      "bytes": 6172,
+      "sha256": "db862449fc38321924c8c905fceda79b4e60fd4b4ba1078b2e1622431a718a7f"
+    },
+    {
+      "path": "history/project/outputs/рабочее/build_v4_6.py",
+      "bytes": 8397,
+      "sha256": "3bb3ed81620a7f1f120d6fff335edee5245f07d1abdd34c00d5ca86fd976d497"
+    },
+    {
+      "path": "history/project/outputs/рабочее/capture_preview.py",
+      "bytes": 1289,
+      "sha256": "b23e794041171782d34eac307780848e78b032930241d0b9243bb2f8008f0598"
+    },
+    {
+      "path": "history/project/outputs/рабочее/capture_research_v4.py",
+      "bytes": 1411,
+      "sha256": "2fb7821293aac30cc97ace9e3773e44e703f5e81cdbc905399c22464601e4ba2"
+    },
+    {
+      "path": "history/project/outputs/рабочее/capture_v3.py",
+      "bytes": 1349,
+      "sha256": "eb1fe0e83cc3ca704c64f19cbcee109ca1a937d121813512f87cce6ac636ab4d"
+    },
+    {
+      "path": "history/project/outputs/рабочее/capture_v4.py",
+      "bytes": 1401,
+      "sha256": "a741fad9c1792a553f39f5a2388d640f11d99bf3547508514910afb2fe960790"
+    },
+    {
+      "path": "history/project/outputs/рабочее/capture_v4_1.py",
+      "bytes": 1429,
+      "sha256": "6aa65bd6bc9594eaff8491aacd85cb0e37d1bf1a98b1e7af07d578a9269ec208"
+    },
+    {
+      "path": "history/project/outputs/рабочее/capture_v4_2.py",
+      "bytes": 1499,
+      "sha256": "0295c923ac891d3cc7dc6868a2e6baf603950d2cd7a487d45c38fd2fc9d34fbd"
+    },
+    {
+      "path": "history/project/outputs/рабочее/case-v4-2-original.png",
+      "bytes": 1574229,
+      "sha256": "8e92277da83b12d7e556d6e3e56cad99cab59d8520328be3f9a9bf057c020b8c"
+    },
+    {
+      "path": "history/project/outputs/рабочее/download_partners_v4_4.py",
+      "bytes": 2479,
+      "sha256": "80f4c96786ba5f6b9204808a6f0ac9100d500d16f1781604a41f0434c82903c7"
+    },
+    {
+      "path": "history/project/outputs/рабочее/experts-content-v4-5.json",
+      "bytes": 9037,
+      "sha256": "3c2d58549488aeec2119b4d939557f83774d2be159dd16824908873d0c6860e7"
+    },
+    {
+      "path": "history/project/outputs/рабочее/experts-source-v4-5.md",
+      "bytes": 6313,
+      "sha256": "7dc3deff5c38ebe61eb4924585777c3fee33f44c860ac9e2350c181f9c1dd725"
+    },
+    {
+      "path": "history/project/outputs/рабочее/experts-v4-5.js",
+      "bytes": 2153,
+      "sha256": "c4216accfe95beffe6d213ce91cd718f741ac2f31834a153f814f20da4d9a9dc"
+    },
+    {
+      "path": "history/project/outputs/рабочее/gateway-models-20261008.json",
+      "bytes": 499197,
+      "sha256": "075f72a61b98d8679997389e5a41d493b8c273de036cfb6d19148bcab27549c2"
+    },
+    {
+      "path": "history/project/outputs/рабочее/hero-v4-original.png",
+      "bytes": 2048118,
+      "sha256": "cee9661330fc3af4bd40bec53061c1fb5ca23f93f0a7b6e628d01d521877c58d"
+    },
+    {
+      "path": "history/project/outputs/рабочее/imagegen-v4-1-prompts.json",
+      "bytes": 4490,
+      "sha256": "a9970f97e913b4c7724638d13afd2153a1001535a5584982a3c63207faa55382"
+    },
+    {
+      "path": "history/project/outputs/рабочее/imagegen-v4-2-prompts.json",
+      "bytes": 6087,
+      "sha256": "2483a21daf71f78352f2e20382e5d1527e41204049d1f0c67e0799252e70a31c"
+    },
+    {
+      "path": "history/project/outputs/рабочее/imagegen-v4-prompt.md",
+      "bytes": 2628,
+      "sha256": "7e16ead01329b0499c042943b6dd02d301216a0579a9434f6094168a9645775e"
+    },
+    {
+      "path": "history/project/outputs/рабочее/masterclass-v4-2-original.png",
+      "bytes": 1349522,
+      "sha256": "d57d30023cf7d0ac4ccd3ee5fe38dc5526c9f5ee819c35a6be5c29cd74ffd3dc"
+    },
+    {
+      "path": "history/project/outputs/рабочее/memory-v4-2-original.png",
+      "bytes": 1569568,
+      "sha256": "6ece1759d3337efd98aa715dde60f5d40b2e35b0ab825fcbd8e06e317f169af7"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-api-v4-3.js",
+      "bytes": 8586,
+      "sha256": "072c76ec2fdcb3bcc51d7f49729f4b2f268b30246d6627ce6fed718649d6b08b"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-engine-v4-3.js",
+      "bytes": 16595,
+      "sha256": "2e194a0b6d8883cfed8330c2533042eb6cbb13ac983cc117ae9443f10a47e37b"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-engine.js",
+      "bytes": 5165,
+      "sha256": "2bd42930be9e8ce551fa7c648873930a81581ba7711c3d28d56dceb1770189c1"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-v4-2-original.png",
+      "bytes": 1019476,
+      "sha256": "4c60a7ab1ee0ff4815f530696c97ba24db611c39d8ce228641f381a57bc08449"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-v4-2.css",
+      "bytes": 8087,
+      "sha256": "d32502eedf133accfae9431ae1cf6d166e39de0e2ccfe8b3c46b7bf585f9518b"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-v4-2.js",
+      "bytes": 6498,
+      "sha256": "9eb3a62744a40276e25e15ee6d53d68c66446083fe71612e055bc2b9d46af8de"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-v4-3.js",
+      "bytes": 7047,
+      "sha256": "0c068fae9a4aa167cb2df68530635587869e200b0a00495aa7c41a828b584a7d"
+    },
+    {
+      "path": "history/project/outputs/рабочее/neuroniy-widget.html",
+      "bytes": 3278,
+      "sha256": "63df4c80cb7933999478c54b3c09975cc612147e56a3147b886d09ab78545a08"
+    },
+    {
+      "path": "history/project/outputs/рабочее/orders-v4-2-original.png",
+      "bytes": 1540647,
+      "sha256": "9dc88bb2f25f85c6a07b99033a90799eb11f528fedec7e08728c85da44e38006"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_review.py",
+      "bytes": 25722,
+      "sha256": "76a346b18d28901b5cb339556f2fd94c7f36f9accb6e39181d515a353cdd07c9"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v2.py",
+      "bytes": 25933,
+      "sha256": "33384c75d1b7c1416d795f69328667b62455ca5e85615a9a8874dee7c7e20474"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v3.py",
+      "bytes": 54043,
+      "sha256": "ca1357f4a3ef5d480cca0d32edadfde072eb8f62c5c0c8a8894cc4f6c392d9d8"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v4_1.py",
+      "bytes": 1845,
+      "sha256": "dcc2b222f5eab9b5c11afa992570d480661aa07d4ffa586fdb8aedae29db6acf"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v4_2.py",
+      "bytes": 1896,
+      "sha256": "dfa1e906453c59d72389b51c9cd4864dff7dec8fcee4f4de617e3a59c0ec89ef"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v4_3.py",
+      "bytes": 4167,
+      "sha256": "7fab0e08cccd8c676297a40953e4cecada9f3d5fd872743d35678712536d55b7"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v4_4.py",
+      "bytes": 4543,
+      "sha256": "91481c074f44394f1a4a8dea27196834690aeb6993d1673dd8684e14cde8aa05"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v4_5.py",
+      "bytes": 4892,
+      "sha256": "50456a22f04fbafd793742268c26b7b8f2407b16cc787de82d651374a9905c16"
+    },
+    {
+      "path": "history/project/outputs/рабочее/package_v4_6.py",
+      "bytes": 4936,
+      "sha256": "2494b60533d5dd77ff16f955aac62c1489a12b925105d10bcd7e84d43a7639b2"
+    },
+    {
+      "path": "history/project/outputs/рабочее/partner-sources-v4-4.json",
+      "bytes": 1825,
+      "sha256": "401e9264236ee8ad4b35b55bdbe9282477639a7eaabfe9c726f6813c7c0f9dc3"
+    },
+    {
+      "path": "history/project/outputs/рабочее/partners-v4-4.js",
+      "bytes": 1141,
+      "sha256": "3b8b7a51d5857407fc34c087094d6296f921be55c6c3d05e7a0aa3635d450330"
+    },
+    {
+      "path": "history/project/outputs/рабочее/payment-sources-v4-3.json",
+      "bytes": 1980,
+      "sha256": "1b3824d2072c478c781f21c3f512d173d20ba82dd2a63cc1a0976de0314d8272"
+    },
+    {
+      "path": "history/project/outputs/рабочее/podcast-v4-2-original.png",
+      "bytes": 1493183,
+      "sha256": "191ce58fb899f368e84b1222dbf6c80a834907709b0a8f3eafa3cfcab2a0ce38"
+    },
+    {
+      "path": "history/project/outputs/рабочее/prepare_neuroniy_v4_1.py",
+      "bytes": 7518,
+      "sha256": "6a0935db4406e54251dd4843545afcbe20920f85679cb31eefe9ef27eb93ec44"
+    },
+    {
+      "path": "history/project/outputs/рабочее/prepare_v2_assets.py",
+      "bytes": 2262,
+      "sha256": "b68ef761b052b5972584e864ff6c64fb71129bcb0b1425194baecfc046f2ce3f"
+    },
+    {
+      "path": "history/project/outputs/рабочее/reviews-v4-6.js",
+      "bytes": 936,
+      "sha256": "f9eca43d41039684a82fb6f4de575fadc72e27b0595bac7cdcbd94584eb9fd05"
+    },
+    {
+      "path": "history/project/outputs/рабочее/route-camp-v4-1-original.png",
+      "bytes": 1686633,
+      "sha256": "c63b6acce54dd3cb5d0553b677987a9c85c04136390b2d38607d72b69ce0a81f"
+    },
+    {
+      "path": "history/project/outputs/рабочее/route-practice-v4-1-original.png",
+      "bytes": 1229560,
+      "sha256": "00b08dff34e524159819c5eff03915680cc6fbae5d6ebf87e228f7d5417e1382"
+    },
+    {
+      "path": "history/project/outputs/рабочее/route-strategy-v4-1-original.png",
+      "bytes": 1327337,
+      "sha256": "4a1eb98b22262b5ca385d30de92db516c62b153ce4f522283a4c45fc69274b21"
+    },
+    {
+      "path": "history/project/outputs/рабочее/serve_v4_2.cjs",
+      "bytes": 1875,
+      "sha256": "96a1d54d48c1e4714da107ef90aae5d43108543c5c8c03b484e26f6930b3e54b"
+    },
+    {
+      "path": "history/project/outputs/рабочее/serve_v4_3.cjs",
+      "bytes": 2623,
+      "sha256": "a398ab89b428f198564e3c076185564c997efcc8b2542dc15d087352e9b39a61"
+    },
+    {
+      "path": "history/project/outputs/рабочее/serve_v4_4.cjs",
+      "bytes": 2623,
+      "sha256": "30163b6200747c7b6b598f19b7511508aa479f89e403433699a827a03a5b5363"
+    },
+    {
+      "path": "history/project/outputs/рабочее/serve_v4_5.cjs",
+      "bytes": 2623,
+      "sha256": "74b606cecf32664c47a2d4feed581b825d48a9a3be1bc282a1328f1ccfd5db39"
+    },
+    {
+      "path": "history/project/outputs/рабочее/serve_v4_6.cjs",
+      "bytes": 2623,
+      "sha256": "7fec5cb6610aab1c244996b1bd37f39a8a00585d847f3950517ad4dae79fa762"
+    },
+    {
+      "path": "history/project/outputs/рабочее/test_neuroniy_v4_2.cjs",
+      "bytes": 5733,
+      "sha256": "2b07cc2a1f5422b58bffd53ac36a2c2506bcaf4d626665a2fbbae12a5a885361"
+    },
+    {
+      "path": "history/project/outputs/рабочее/test_neuroniy_v4_3.cjs",
+      "bytes": 5886,
+      "sha256": "37bc606141bdcd7145968e4c558c9975fa92c5fec7c4fdb4f0fa35991a8b509f"
+    },
+    {
+      "path": "history/project/outputs/рабочее/test_neuroniy_v4_4.cjs",
+      "bytes": 5904,
+      "sha256": "c4195724bb487660d6023581edf8643206f72d18a9d3df10f014c8681624c59f"
+    },
+    {
+      "path": "history/project/outputs/рабочее/test_neuroniy_v4_5.cjs",
+      "bytes": 5904,
+      "sha256": "21f2c327f2bb3b7f3c177948a9918be0f880371646adeadfb9156b8bf2bba386"
+    },
+    {
+      "path": "history/project/outputs/рабочее/test_neuroniy_v4_6.cjs",
+      "bytes": 6202,
+      "sha256": "a5cbdb8c0bf4c06ff5ac016e892efa229235bc3f5eaa2acdabeef3c151b6d3c7"
+    },
+    {
+      "path": "history/project/outputs/рабочее/ux-v4-6.js",
+      "bytes": 1621,
+      "sha256": "a68b17e6200f172fd6fdaf9dd4e2db770e690c631b77db99c637b1826c3ad1ca"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v1-alumni.html",
+      "bytes": 45358,
+      "sha256": "f4e79a4559b8eddeeea6af8fcd3fad4abbea9d0e6c346fc4a48ff1d1ad4b1534"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v1-index.html",
+      "bytes": 45346,
+      "sha256": "97144a1c5a752a7a09a2aed149a9a33b55f2105102c7b87571c205f40550bfcf"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-alumni.html",
+      "bytes": 63931,
+      "sha256": "418714058d6733ecf500b8501e9b31daa4bd5bf9fbba239d7a4acc8d0237f2c9"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-change-log.md",
+      "bytes": 1181,
+      "sha256": "f6803a640583850c088fd479db20b37077c458f17c47858474f2d7fb9ff10f1d"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-index.html",
+      "bytes": 63967,
+      "sha256": "8bd50b68efe383e886a554a5c4f807ffc13a47b40160edf9cba22c78a802ebe8"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-research/alexander.png",
+      "bytes": 78584,
+      "sha256": "117d4cb2985a5370c325d90a6fa41e0944492dc37b58084763a5ef17347ee600"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-research/andrey.png",
+      "bytes": 43898,
+      "sha256": "9736266766e14bfcf1b826fb18029532f03d006b8be87a438c3f45c2488a42cf"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-research/gulnara.png",
+      "bytes": 62181,
+      "sha256": "2db8876ec5d2fb7339c0972d1ed6f305a1ed256bcd2e2378eb60d0c2b1adbeda"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-research/image-prompts.json",
+      "bytes": 5239,
+      "sha256": "04f3806b914283b8963559a1807166dfc5175cd5dba512ecbcba0a606d0d0d46"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-research/valentin.png",
+      "bytes": 75906,
+      "sha256": "def69a5f6945d0d89643821319afae9949a37b5ff0818ad72bad8b9334ff3832"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-research/yulia.png",
+      "bytes": 76645,
+      "sha256": "811d1a01e899fb56ddf2eb3ebe069747dd767b25f2999f8e1682fc039010ddb3"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v2-research/yuri.png",
+      "bytes": 76392,
+      "sha256": "600acd8bb4155772aabaa0943f3d2159082b4312b7e18c6beeecc3d0e70fc8d7"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v3-alumni.html",
+      "bytes": 81516,
+      "sha256": "5ae411b4eedf66bc8612ea8d7144f55d9ae6a08d5b7f72fefbb08f0f7dffd33b"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v3-index.html",
+      "bytes": 81556,
+      "sha256": "d9d9f97f1a45a09a9294a9f12883e0d0369df9497e966d3802c6da7aedc39b39"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v3-research/approved-cases.json",
+      "bytes": 41276,
+      "sha256": "46fa754cd52feb50f37c59933b5ab22dc41f76b29485644380252cad67f817b5"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v3-research/image-prompts.json",
+      "bytes": 2702,
+      "sha256": "821cd2da0ed6fe95748192eeffdce161c2696f45e75a4206ed63e9eb6d3009aa"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v3-research/logo-sources.json",
+      "bytes": 1232,
+      "sha256": "4fe916b0f707a6011e239940028c91de483ed1f81271b7276e149eaf41f543aa"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v3-research/review-sources.json",
+      "bytes": 21079,
+      "sha256": "62c132eb8815a7328993eb83a2826ea66d7ce9bfc73f7bcfdd8ac6c87bbe06a4"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v3-reviews.html",
+      "bytes": 27815,
+      "sha256": "08e14e44db9e3628496ba954eee1477ac0285ad5ec2383a5d6e10894247c3669"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-1-overrides.css",
+      "bytes": 4143,
+      "sha256": "c97b3c16315787030748bd4c578b17c91dbc7486c38e55e2726206c95a5c249e"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-2-overrides.css",
+      "bytes": 4080,
+      "sha256": "88505e7a8f8abca41f4b8df2a4f7b57f7b21a78186d25f252f28232d14d2e8d0"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-3-overrides.css",
+      "bytes": 9938,
+      "sha256": "9aa1c5507040565734bc99ac8e9fe0d02d323f251fb1f1a7051a58a9c5db5c49"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-4-overrides.css",
+      "bytes": 6289,
+      "sha256": "b67b2bb3b7bc22dd6617c71d5f90eec6f00e07551209540192d1e3f57f89036e"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-5-overrides.css",
+      "bytes": 4326,
+      "sha256": "4b4bc2d16d5f63dde796e08998bf9af0587966e22546b67ba0f80309436d43f5"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-6-overrides.css",
+      "bytes": 5804,
+      "sha256": "53f910b797e3619744ffaf870acc8d43ee8ca42790bf2839fb0d8d08d431d0c6"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-alumni.html",
+      "bytes": 83092,
+      "sha256": "7ca735805351f03e7f64110127ba9544734b3a74b0c74acf87b5de3063f16ac5"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-index.html",
+      "bytes": 83098,
+      "sha256": "a634ea26993d05f8046cbd14968b2044e09aa92d33fe1192ec25a40d63908306"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-overrides.css",
+      "bytes": 30989,
+      "sha256": "a3909471198e62e0694fad5e016e9735354d6f0f76a50151568b3f23ca10f52e"
+    },
+    {
+      "path": "history/project/outputs/рабочее/v4-reviews.html",
+      "bytes": 27815,
+      "sha256": "e17133adb827d411bb5922d03fe21008256c32ed023ffb8b418424125515f0ca"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v3-deployment.json",
+      "bytes": 630,
+      "sha256": "794c66a4df65344d7c007fefb7f37888978106e37afe46e479751e5dd83569b5"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v3-upload-audit.json",
+      "bytes": 6592,
+      "sha256": "6bc788eb1a4d7191951eab1f849800b7cf857071285a1ead1273a06afc34d1e5"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-1-deployment.json",
+      "bytes": 800,
+      "sha256": "1f07d4a04aaf16c397fa1a6deb8e41d5eddb79144e9e7550b5935597ac629782"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-1-upload-audit.json",
+      "bytes": 6657,
+      "sha256": "77b41efcf0ec7a6beb35efa931648b8d41acfd6a1e91382443b77a1b84cad79f"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-2-public-audit.json",
+      "bytes": 620,
+      "sha256": "30e1a354fc0fd8c3b6a30411414aa270ab299e70c3dfbc728e2d57495af0770b"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-2-upload-audit.json",
+      "bytes": 8455,
+      "sha256": "d799c1222a5af9fb7fc71e04d2b9718fc390128b09382419cacf1f5c5ab05e53"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-3-upload-audit.json",
+      "bytes": 8671,
+      "sha256": "59648790b308d7a44d84b9cbba4c21a31d5966b4428204c155244479f7b89ee6"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-4-upload-audit.json",
+      "bytes": 9667,
+      "sha256": "7281d9b4863ed026adaa6913fccc50c21307787c7d6c85181e01354f10e97502"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-5-upload-audit.json",
+      "bytes": 9980,
+      "sha256": "7a25b81be6836a34333627a7e0b983868d34235d79a1008fda4386bcf5a2f4ff"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-6-upload-audit.json",
+      "bytes": 9982,
+      "sha256": "805d581fade4b98d897267dd0fb37a3e299cbb86611ba8f1b8b218505f859cdf"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-deployment.json",
+      "bytes": 756,
+      "sha256": "a118d21303049c24de758c7bbb1a89773ddd24f7c701c7acb6e6c57c5c846ac2"
+    },
+    {
+      "path": "history/project/outputs/рабочее/vercel-v4-upload-audit.json",
+      "bytes": 6115,
+      "sha256": "93a6787e1b6af40b8c0d12e125f2ae07558d09116c1d88434852f6ecdf074a98"
+    },
+    {
+      "path": "history/project/outputs/рабочее/verify_v4.py",
+      "bytes": 3022,
+      "sha256": "91ae57145ae4becc95539b620b340ce49fde574f0d73631251856d41ddfe868a"
+    },
+    {
+      "path": "history/project/outputs/рабочее/verify_v4_1.py",
+      "bytes": 3032,
+      "sha256": "9659bf82ba477ccaef2173f180512f09709c7619d2b72b389afa413a782d8195"
+    },
+    {
+      "path": "history/project/outputs/рабочее/verify_v4_2.py",
+      "bytes": 3523,
+      "sha256": "c49026ec7cb666a432e0d8d5acb3ffd2fa3a0e2049931c4a0ad52c0d9e7be664"
+    },
+    {
+      "path": "history/project/raw/FIELD — Зима в FIELD — программа ноябрь 2026 — январь 2027 — v8 — 2026-10-07.pdf",
+      "bytes": 249108,
+      "sha256": "5ab003ad26e9779625d13ac059146cb702bcf5e0392d7686377335d3e2145ee6"
+    },
+    {
+      "path": "history/project/raw/PDF v8 — извлечённый текст.txt",
+      "bytes": 58726,
+      "sha256": "401c26b0de26bc6618d234b1946b7d22a1d979428bc042df8c1e911bcc083ece"
+    },
+    {
+      "path": "history/project/raw/schedule_v8.py",
+      "bytes": 29558,
+      "sha256": "28ac3ffbd6f656e7ae7845fb05d54afa7bfab443b2c41c87c55386ca739bd134"
+    },
+    {
+      "path": "history/project/raw/лендинг aicamp6 — links.txt",
+      "bytes": 1589,
+      "sha256": "fd3a3d3a0b8c9d8605ee5ed8c273ac04d5b2c2b76df143d86579433856b608c7"
+    },
+    {
+      "path": "history/project/raw/лендинг aicamp6 — page.html",
+      "bytes": 1696101,
+      "sha256": "076bdd14a86108023aecaf8a33fe3d5ce5a2829449631aed9c3791fac80e3ce7"
+    },
+    {
+      "path": "history/project/raw/лендинг aicamp6 — text.txt",
+      "bytes": 31857,
+      "sha256": "bce965ff2c7d6712469dc47769383a7ef05989b7165d44b6ccb2de7e1d6982af"
+    },
+    {
+      "path": "history/project/screens/desktop 01 hero и кейсы.jpg",
+      "bytes": 195297,
+      "sha256": "8ad80c94310dbc2a5d3a00c9c97de675a6ffe587a7481859e11e91fb15c88696"
+    },
+    {
+      "path": "history/project/screens/desktop 02 до-после, результат, кому подойдёт, ритм.jpg",
+      "bytes": 178541,
+      "sha256": "59e8d33be45ff7225bb5229a5c1d8098c7f76b05c9140a629da7af0c84d4129b"
+    },
+    {
+      "path": "history/project/screens/desktop 03 программа недели 1-4.jpg",
+      "bytes": 166006,
+      "sha256": "065e928470358f98d4e3680cd108b9d5e1a2cde0c23552a9b86d9076aec1730c"
+    },
+    {
+      "path": "history/project/screens/desktop 04 программа 5-финал, памятка, преподаватели.jpg",
+      "bytes": 160767,
+      "sha256": "82e23b08ebdd1db2534036c67d757b2200733e3ca9eefd8e7a1aeb9fb4f2b970"
+    },
+    {
+      "path": "history/project/screens/desktop 05 как устроено, +Field, календарь событий.jpg",
+      "bytes": 178340,
+      "sha256": "25dc279f778d411f563fdb251245d79aaaa843b6ee77bb5c5e1fb6fa0d9704c1"
+    },
+    {
+      "path": "history/project/screens/desktop 06 письмо основателя, отзывы (видео не прогрузились).jpg",
+      "bytes": 109502,
+      "sha256": "35927fdf49e8d8532f588cb079bf92ba28b158efe105d70406a37d0985d6f0ea"
+    },
+    {
+      "path": "history/project/screens/desktop 07 отзывы, 30 процентов, вопрос-ответ.jpg",
+      "bytes": 107980,
+      "sha256": "f27ba1dea0cd7da1e3946587c00b536d26831ba37758df9777bea642d3a2532b"
+    },
+    {
+      "path": "history/project/screens/desktop 08 вопрос-ответ, цифры.jpg",
+      "bytes": 116901,
+      "sha256": "d2f72e7cf5c0858db6d87c82464990a1d3558700a66c81edf25964588f8ce488"
+    },
+    {
+      "path": "history/project/screens/desktop 09 тарифы, для компаний, телеграм, подвал.jpg",
+      "bytes": 91980,
+      "sha256": "368c60414ec879af38f06341b110db3872f67420be0f8382cf437cb8cd4dd150"
+    },
+    {
+      "path": "history/project/screens/desktop отзывы с видео (вид в браузере).jpg",
+      "bytes": 151298,
+      "sha256": "d33fb32a78da11860020ab0a05b51fad8b4b0a5bd233b09eafc6eb147e447d1c"
+    },
+    {
+      "path": "history/project/screens/mobile 01 — 0-2400px.jpg",
+      "bytes": 211398,
+      "sha256": "dfedbc306937bc90a7c89c6423fd92770b219e01c12ef15bc4c8801a9bf0a903"
+    },
+    {
+      "path": "history/project/screens/mobile 02 — 2400-4800px.jpg",
+      "bytes": 227731,
+      "sha256": "45a518be5a3b1905b9f75fbbdb434dc3a57178b588db768f70c91f18dfb3c64f"
+    },
+    {
+      "path": "history/project/screens/mobile 03 — 4800-7200px.jpg",
+      "bytes": 241380,
+      "sha256": "79a1f0e21f6f964d91972bff9f2651415ca87d52889c142f32bdea036746c19e"
+    },
+    {
+      "path": "history/project/screens/mobile 04 — 7200-9600px.jpg",
+      "bytes": 198051,
+      "sha256": "3733530587445d6b418d76b88630c66bd6c1caa9d257d934e81562afa37f3c50"
+    },
+    {
+      "path": "history/project/screens/mobile 05 — 9600-12000px.jpg",
+      "bytes": 196302,
+      "sha256": "f6c605349b19c149dd9e8ab46b0c69161b141679c502ee79b86af9d54fa889ad"
+    },
+    {
+      "path": "history/project/screens/mobile 06 — 12000-14400px.jpg",
+      "bytes": 182215,
+      "sha256": "7eb4665224eb09b8a8a083ac9915fc92bc1ac36d8e8589bc8019f0328131eca7"
+    },
+    {
+      "path": "history/project/screens/mobile 07 — 14400-16800px.jpg",
+      "bytes": 202623,
+      "sha256": "9277404912704df746f04e41df7e28997fcb63ea3ba8c1972d9bd54a66923b38"
+    },
+    {
+      "path": "history/project/screens/mobile 08 — 16800-19200px.jpg",
+      "bytes": 215380,
+      "sha256": "abe6d1a72be803d6f8bb679ae865ab7e4fdd237872689e0d3381650864928199"
+    },
+    {
+      "path": "history/project/screens/mobile 09 — 19200-21600px.jpg",
+      "bytes": 118333,
+      "sha256": "3837060979f1e150fc070dc63cd0977bb5e13ba368d064c3915c9a824721b170"
+    },
+    {
+      "path": "history/project/screens/mobile 10 — 21600-24000px.jpg",
+      "bytes": 72601,
+      "sha256": "f966121491c9434aefca63739f2ab1f858e24e524cabd52522d994be425006c4"
+    },
+    {
+      "path": "history/project/screens/mobile 11 — 24000-26400px.jpg",
+      "bytes": 157306,
+      "sha256": "dda9e58370bce173f6e562c4cd29ca0861adf7554876f612e982f41bf2da000d"
+    },
+    {
+      "path": "history/project/screens/mobile 12 — 26400-28800px.jpg",
+      "bytes": 159734,
+      "sha256": "38cba29147c6cca3b3fb92bc636d1925a939d29718ba741f264de41b9da1803c"
+    },
+    {
+      "path": "history/project/screens/mobile 13 — 28800-31017px.jpg",
+      "bytes": 134578,
+      "sha256": "79155d81d45704f86b071a0ef6b84e9610cd82d208dc07483b6c8eeb96195217"
+    },
+    {
+      "path": "history/project/screens/mobile hero (плавающая Войти в ЛК перекрывает +Field).jpg",
+      "bytes": 220142,
+      "sha256": "74b0f9dc781b8a2526ffa328efa61481c2dfb56c99cc30ed19239594b2386c03"
+    },
+    {
+      "path": "history/project/screens/mobile тарифы (липкая панель перекрывает кнопки VIP).jpg",
+      "bytes": 163097,
+      "sha256": "5e2276a9c0a4782ae039f80146c07d96ee0044e289a47b4c9374ca1c056fdeef"
+    },
+    {
+      "path": "history/project/screens/path 1 — кнопка Забронировать место ведёт в блок Для компаний.jpg",
+      "bytes": 107930,
+      "sha256": "11b1ca3ec417397877f4e4db840c74ba7a2699cf88e01db58260675a60eed23b"
+    },
+    {
+      "path": "history/project/screens/path 2 — корзина евро Tilda на лендинге.jpg",
+      "bytes": 68738,
+      "sha256": "a842cffbec01f24cdd8df8aa352b8e43b9eae57cc7621a1dfe0ec5eb702fec1e"
+    },
+    {
+      "path": "history/project/screens/path 3 — корзина рубли pay.ne-institute.com.jpg",
+      "bytes": 76405,
+      "sha256": "6869cec30f14a12acadb2b1d0015f41d61ea61c95c2e94e1e6d5d21c44593038"
+    },
+    {
+      "path": "history/project/screens/path 4 — форма B2B Запросить КП.jpg",
+      "bytes": 82126,
+      "sha256": "69af03051d1a4d4cf11c801d48b683ab1a38cb8dfed9798a127d2dfca6e0a749"
+    },
+    {
+      "path": "site/alumni.html",
+      "bytes": 118388,
+      "sha256": "3a20dfb229e18d7774b6fef5d0147f742fe040c5d48084a132061270584fead3"
+    },
+    {
+      "path": "site/api/neuroniy.js",
+      "bytes": 8586,
+      "sha256": "51916b546ad55b280be114cd98dd5a766270af2d1b079e86c51754bef9915bbd"
+    },
+    {
+      "path": "site/assets/alexander.webp",
+      "bytes": 16348,
+      "sha256": "65a82a012f6753a14f50fdbbaa6d129a1f71a705b5b32db03ec07d2196684824"
+    },
+    {
+      "path": "site/assets/andrey.webp",
+      "bytes": 13810,
+      "sha256": "7f131d2839a36c6008b6b626a69cf63db53ec5a79b40b7b916893ff17367e71c"
+    },
+    {
+      "path": "site/assets/app-v4-6.js",
+      "bytes": 9520,
+      "sha256": "fc93c21bf5d655227233287ccd68068551e887f5968f177994845e402076aa66"
+    },
+    {
+      "path": "site/assets/askona-logo.svg",
+      "bytes": 5292,
+      "sha256": "21117b91e45796f448996f3ec52156a5ff3b9705502a9153f2b480855ad9e4d5"
+    },
+    {
+      "path": "site/assets/b2b-dobrograd.webp",
+      "bytes": 3212,
+      "sha256": "fc043aeb3664757a947d8cd7cb58d208d402ccd363a79a48d8c90184a731a2a0"
+    },
+    {
+      "path": "site/assets/b2b-everia.webp",
+      "bytes": 7680,
+      "sha256": "73dfe35f8d055f3271471ca2d4ff8067a144e3652a8830d24cd9ef8d57e127da"
+    },
+    {
+      "path": "site/assets/b2b-hart.webp",
+      "bytes": 5190,
+      "sha256": "bf4f8879a83ab6bb4c81924fbeb7eab56d29b08f94c788beeffa73756364e854"
+    },
+    {
+      "path": "site/assets/b2b-polair.webp",
+      "bytes": 7000,
+      "sha256": "e0a8648ec24920dbe2fac1c6b7b84d9d238e274378c3921c1a284a2f0a9c2010"
+    },
+    {
+      "path": "site/assets/b2b-samolet-plus.webp",
+      "bytes": 8132,
+      "sha256": "c332a1f2bc9a4e936253d3f535df4e9443216b55d2897a022ff8acc7d1d8e7ea"
+    },
+    {
+      "path": "site/assets/b2b-unicom.png",
+      "bytes": 4936,
+      "sha256": "aaef2cc0017dafeb5060a0b20a6630b60401c7070b815b79365f1ed82d832019"
+    },
+    {
+      "path": "site/assets/b2b-zdravservice.webp",
+      "bytes": 7048,
+      "sha256": "ac13a73447f1887c39c3bd040d8c9cd456343f8c7398dba8cbab8009f26fb656"
+    },
+    {
+      "path": "site/assets/corestone-logo.webp",
+      "bytes": 8496,
+      "sha256": "6267b85f998f136aa9f5a9f978091f2012ddee94cf28c5bd33cb5955b9809052"
+    },
+    {
+      "path": "site/assets/ddx-logo.svg",
+      "bytes": 3753,
+      "sha256": "3f697644cb8137e42d0c7170204b9ead0a841ed04ba1000497956ac573c1d5ef"
+    },
+    {
+      "path": "site/assets/denis.webp",
+      "bytes": 18540,
+      "sha256": "f0cf7185f3b22203f65f89d838aff49ddd4039b456165eef6b0c3b46073d5224"
+    },
+    {
+      "path": "site/assets/dmitry.webp",
+      "bytes": 24536,
+      "sha256": "035c72888dd448aba4c61a549a6a9e672f9ea7688a0586c03aff73229de26c10"
+    },
+    {
+      "path": "site/assets/favicon.svg",
+      "bytes": 177,
+      "sha256": "3fae6140df8c3e66771160b5e530863dc05140afa809aac4c6775c2a4d487e21"
+    },
+    {
+      "path": "site/assets/format-case-v4-2.webp",
+      "bytes": 17536,
+      "sha256": "32157fac80d47ad6f678a53b455bbc16a92e3051c9e5ccda868152a68aac49d2"
+    },
+    {
+      "path": "site/assets/format-masterclass-v4-2.webp",
+      "bytes": 20560,
+      "sha256": "340e28260790baa8ff5de387ad671b48231f21e496c35b806a1fa7d96bf9b8e8"
+    },
+    {
+      "path": "site/assets/format-memory-v4-2.webp",
+      "bytes": 21384,
+      "sha256": "d469633445689fd8759a91ed6f021583028403c8cb8a4bbaf80200b470a6064e"
+    },
+    {
+      "path": "site/assets/format-orders-v4-2.webp",
+      "bytes": 18810,
+      "sha256": "3967c8cea382f9c562e4177b9bf6e781ba016e9c1dd5998cd3dabcc7d78a762f"
+    },
+    {
+      "path": "site/assets/format-podcast-v4-2.webp",
+      "bytes": 25114,
+      "sha256": "a8dd567962bcc16eefc814b49a71fd09540b3e311089cf9570a79f993d758290"
+    },
+    {
+      "path": "site/assets/hero-v4-small.webp",
+      "bytes": 30180,
+      "sha256": "133ccda3264eae9bb29a766928b6e65bb6fff3a06d06bc604e495d9df16f4769"
+    },
+    {
+      "path": "site/assets/hero-v4.webp",
+      "bytes": 97722,
+      "sha256": "0f23d765df1bb4a4523096e7a50efd4fffaaf7376f4d202936fb6aa6f77b7787"
+    },
+    {
+      "path": "site/assets/johanna-v4-5.webp",
+      "bytes": 129508,
+      "sha256": "9cb08945b033c470b2ea27ac7857c8bdff5a661c59e342081f249c7eb398c1f3"
+    },
+    {
+      "path": "site/assets/machina.otf",
+      "bytes": 59148,
+      "sha256": "d4d248b788352d18165a0480830a1056ca286e397e11cf01be91e7c76163e513"
+    },
+    {
+      "path": "site/assets/mentor-v3.webp",
+      "bytes": 104662,
+      "sha256": "895ac472ed2b811ee81e03248a9c6f4df37290f63f2f215d1384213a07c35540"
+    },
+    {
+      "path": "site/assets/motion-v4.js",
+      "bytes": 6540,
+      "sha256": "8577e4fbe8e39491280b6b4427f69b45c8ab0a7dba512e6b3111bb297ac7f779"
+    },
+    {
+      "path": "site/assets/murom-logo.webp",
+      "bytes": 6526,
+      "sha256": "d635f36df29a2c22b0abd01f6b217b50c067750a69fb8eac3449fa8894556a80"
+    },
+    {
+      "path": "site/assets/neuroniy-engine-v4-6.js",
+      "bytes": 16868,
+      "sha256": "867675ad1a835aff807162b12bd54b273b001cb1bf41cc40c861f706bd8fe2ca"
+    },
+    {
+      "path": "site/assets/neuroniy-knowledge-v4-6.json",
+      "bytes": 142705,
+      "sha256": "9172dcb0ef57ff7bcb424b64e6a8def7a7614a599ab7b410bdcba4cf33c7554f"
+    },
+    {
+      "path": "site/assets/neuroniy-pet-v4-2.webp",
+      "bytes": 9996,
+      "sha256": "edf87dffe23bf1c33ced1f01cfe9ef44da6fe972fc4a5495c5de53de74276d77"
+    },
+    {
+      "path": "site/assets/neuroniy-v4-2.css",
+      "bytes": 8087,
+      "sha256": "d32502eedf133accfae9431ae1cf6d166e39de0e2ccfe8b3c46b7bf585f9518b"
+    },
+    {
+      "path": "site/assets/neuroniy-v4-6.js",
+      "bytes": 7167,
+      "sha256": "07d58ca117fd49cf61360ca1f88b87b2c0d726ab3b85dcecb08ab8bbc887f7d0"
+    },
+    {
+      "path": "site/assets/nii-logo-light.webp",
+      "bytes": 9954,
+      "sha256": "35f58e31e3082ddf86dabb55501e66c5562153595efd63b3fe0ab0f1a2d7d31d"
+    },
+    {
+      "path": "site/assets/nii-logo-white.webp",
+      "bytes": 4482,
+      "sha256": "300d46e1068d8f2238702e229de4b0b41dbacd08f123c3a77e5cc57069532cdf"
+    },
+    {
+      "path": "site/assets/onest-semibold.ttf",
+      "bytes": 64444,
+      "sha256": "a688b7d4988c21529bcf6d68d216a47210e1fd73a43855e23bbb9ca777279209"
+    },
+    {
+      "path": "site/assets/onest.ttf",
+      "bytes": 64272,
+      "sha256": "e4f3c821cfb8e8e4b77680dca62a9799c5f73e2774e0adbe4d435ec3c1549fb9"
+    },
+    {
+      "path": "site/assets/partner-londoncult-v4-4.svg",
+      "bytes": 17215,
+      "sha256": "bdd32912d95c454613531a64b21acac8401b011587f55fb610edd45b6c6f9521"
+    },
+    {
+      "path": "site/assets/partner-olim-v4-4.svg",
+      "bytes": 4017,
+      "sha256": "deb9c30432e7ad61e98aa20135ff5132c5d3b49fac7c2192f51de4dba89cfa71"
+    },
+    {
+      "path": "site/assets/partner-smartgen-v4-4.webp",
+      "bytes": 7214,
+      "sha256": "f2a79891c0a1df54511b28c2ca97536803b88082877ebabc331b4127cb36a83f"
+    },
+    {
+      "path": "site/assets/partner-tlvmed-v4-4.png",
+      "bytes": 2851,
+      "sha256": "56d620f10bf436a2e06756f679c3521f281375de3db039a497f153fe836db123"
+    },
+    {
+      "path": "site/assets/partner-wave-v4-4.png",
+      "bytes": 10548,
+      "sha256": "769769e9ebc6fec95c5107b94dfaa13a17a09ee6eb628d16c2ee7a647535ad44"
+    },
+    {
+      "path": "site/assets/partner-yaar-v4-4.png",
+      "bytes": 12006,
+      "sha256": "5717e6abd86aeb7f3f28ff4ce6bd09d792398166355164ad590223121b61de40"
+    },
+    {
+      "path": "site/assets/reviews-v4-6.js",
+      "bytes": 936,
+      "sha256": "f9eca43d41039684a82fb6f4de575fadc72e27b0595bac7cdcbd94584eb9fd05"
+    },
+    {
+      "path": "site/assets/route-camp-v4-1.webp",
+      "bytes": 40640,
+      "sha256": "997a4100b8b6e2279ee6ff13c4fba0e6abbfae8f50456a4353e45514337e47ac"
+    },
+    {
+      "path": "site/assets/route-practice-v4-1.webp",
+      "bytes": 31412,
+      "sha256": "a596e587a11e5ff65535253d348d8dedcf30bb02974610445fedfbadc1be1ba1"
+    },
+    {
+      "path": "site/assets/route-strategy-v4-1.webp",
+      "bytes": 28732,
+      "sha256": "cb905aaaec7376389058b9f3de2225d064d6b7b3b1d223943a11b963f16b6cd6"
+    },
+    {
+      "path": "site/assets/samolet-logo.svg",
+      "bytes": 10151,
+      "sha256": "4680a3a0d360b06c0c7f5851013615bffc7fdaf76e4def6c880093ef728de9f6"
+    },
+    {
+      "path": "site/assets/sergey.webp",
+      "bytes": 16144,
+      "sha256": "45f77cd528522e85d828e7ecf3bbcd01f83b1e239ee759b5991d1bf4065d46ca"
+    },
+    {
+      "path": "site/assets/style-v4-6.css",
+      "bytes": 149243,
+      "sha256": "fc5300fd8f52fa6397b2dfc96ed041aea149b1e27a3421f00298d3cecfc05c91"
+    },
+    {
+      "path": "site/assets/valentin.webp",
+      "bytes": 15174,
+      "sha256": "c759df963bff5358ceaa589ecd9346b3839d05bf1c758a17ed277ab3b17c7ad1"
+    },
+    {
+      "path": "site/assets/vasilyev.webp",
+      "bytes": 11282,
+      "sha256": "49f44eafce3c25c66d5249f2d338ec7b708e5c2f53008bc6ce276a20f3fb1f7b"
+    },
+    {
+      "path": "site/assets/wrf-logo.webp",
+      "bytes": 9108,
+      "sha256": "a77c9b631979910b67a3e6c792997e59071ae56f41a05520010fcbc394cd2615"
+    },
+    {
+      "path": "site/assets/yulia.webp",
+      "bytes": 16212,
+      "sha256": "14583ce78a2193ec2a416266610b70fca0802c75fd35216e11909dd481d9a081"
+    },
+    {
+      "path": "site/assets/yuri.webp",
+      "bytes": 25362,
+      "sha256": "bfdaefdc19404d91b4b79297e3cb395bc09a1832a466e4ac0860bcc5eaf675d4"
+    },
+    {
+      "path": "site/index.html",
+      "bytes": 118662,
+      "sha256": "fc9f405d8a14217a3af974b191ebf180348b87c656ccd791a956a1fc950d9ccd"
+    },
+    {
+      "path": "site/reviews.html",
+      "bytes": 34424,
+      "sha256": "4badef727ea11b6e59b7c668a1306ea1e57f0455eb176df9f4b744ca1308322a"
+    },
+    {
+      "path": "tests/neuroniy.cjs",
+      "bytes": 6198,
+      "sha256": "a84eab41c8790484518b72e75570d9423925e2af573ecc4ce2c24aeebfff64f7"
+    }
+  ],
+  "excluded_categories": [
+    "Python caches",
+    "local deploy bindings",
+    "Git metadata",
+    "environment and credentials files"
+  ],
+  "missing_original_attachments": []
+}

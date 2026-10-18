@@ -1,0 +1,10 @@
+{
+  "isolated_copy": true,
+  "run_from_unrelated_directory": true,
+  "checks": [
+    "scripts/build.mjs",
+    "scripts/export-tilda.mjs"
+  ],
+  "api_wrapper": "OK",
+  "result": "passed"
+}

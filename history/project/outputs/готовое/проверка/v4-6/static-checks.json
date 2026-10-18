@@ -1,0 +1,17 @@
+{
+  "index.html": {
+    "ids": 86,
+    "public_asset_references_valid": true,
+    "documents": 4
+  },
+  "alumni.html": {
+    "ids": 86,
+    "public_asset_references_valid": true,
+    "documents": 4
+  },
+  "reviews.html": {
+    "ids": 35,
+    "public_asset_references_valid": true,
+    "documents": 4
+  }
+}

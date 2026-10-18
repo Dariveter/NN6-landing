@@ -1,0 +1,107 @@
+{
+  "responsive": [
+    {
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    {
+      "scrollWidth": 1024,
+      "width": 1024
+    },
+    {
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "scrollWidth": 320,
+      "width": 320
+    }
+  ],
+  "interactions": [
+    {
+      "test": "January strategy filter",
+      "visible": 2
+    },
+    {
+      "control": "true",
+      "heroAnimation": "paused",
+      "paused": true,
+      "test": "Pause motion"
+    },
+    {
+      "disclosure": "Оплата в прототипе не подключена.\n\nЗдесь будет переход к подтверждённой платёжной форме. Сейчас можно обсудить участие с Юрием.",
+      "open": true,
+      "price": "350 евро\nили\n35 тысяч рублей",
+      "test": "Checkout preview"
+    },
+    {
+      "animation": "none",
+      "canvas": "none",
+      "test": "Reduced motion",
+      "textVisible": true
+    },
+    {
+      "allEvents": 19,
+      "hero": "Меньше рутины.\nБольше дела.\nС помощью ИИ.",
+      "jsClass": false,
+      "price": "350 евро\nили\n35 тысяч рублей\n\nза все три месяца",
+      "test": "JavaScript disabled"
+    },
+    {
+      "prices": [
+        {
+          "font": "28px",
+          "text": "175 евро",
+          "weight": "600"
+        },
+        {
+          "font": "28px",
+          "text": "17,5 тысячи рублей",
+          "weight": "600"
+        }
+      ],
+      "scrollWidth": 320,
+      "test": "Alumni at 320",
+      "width": 320
+    },
+    {
+      "canvasHidden": true,
+      "heading": "Меньше рутины.\nБольше дела.\nС помощью ИИ.",
+      "renderer": "context-lost",
+      "test": "WebGL context lost"
+    },
+    {
+      "test": "Calendar December disclosure",
+      "result": "Seven events; first event expanded and agenda visible"
+    },
+    {
+      "test": "Mobile menu",
+      "result": "Opens; choosing program closes menu"
+    },
+    {
+      "test": "Portraits",
+      "result": "All ten portraits loaded"
+    },
+    {
+      "test": "Mentor and team details",
+      "result": "Both disclosures opened"
+    },
+    {
+      "test": "Browser error log after checks",
+      "errors": []
+    }
+  ],
+  "date": "2026-10-08"
+}

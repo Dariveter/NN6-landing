@@ -1,0 +1,30 @@
+{
+  "checks": [
+    {
+      "page": "index.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "weeks": 7,
+      "expandable_events": 19,
+      "people": 11,
+      "company_logos": 7
+    },
+    {
+      "page": "alumni.html",
+      "broken_local_links": [],
+      "duplicate_ids": [],
+      "weeks": 7,
+      "expandable_events": 19,
+      "people": 11,
+      "company_logos": 7
+    }
+  ],
+  "sizes": {
+    "desktop_core_uncompressed_bytes": 428390,
+    "mobile_core_uncompressed_bytes": 362088,
+    "javascript_uncompressed_bytes": 12640,
+    "hero_desktop_bytes": 109036,
+    "hero_mobile_bytes": 42734,
+    "pdf_bytes": 249108
+  }
+}

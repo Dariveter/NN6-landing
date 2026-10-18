@@ -1,0 +1,31 @@
+персональных данных -> /privacy
+Войти в ЛК -> http://ne-institute.com/members/login
+Отзывы -> #3
+Программа -> #4
+Чему учим -> #5
+Чему учим -> #5
+Программа -> #4
+Отзывы -> #3
+Войти в ЛК -> http://ne-institute.com/members/login
+Запросить условия для бизнес-групп -> #2
+Купить -> #1
+Смотреть программу -> #4
+Забронировать место -> #2
+публичную оферту -> /termsandconditions
+на обработку персональных данных -> /privacyeng
+Скачать памятку -> https://drive.google.com/file/d/1gbFKUk_p-RqQInNuOeeWi-_2h5CxGQJQ/view?usp=sharing
+350 € -> #order:Кэмп НН6=350
+35000 ₽ -> https://pay.ne-institute.com/aicamp6#order:Кэмп НН6=35000
+1000 € -> #order:Кэмп НН6=1000
+100000 ₽ -> https://pay.ne-institute.com/aicamp6#order:Кэмп НН6=100000
+Запросить расчёт -> #b2b
+публичную оферту -> /termsandconditions
+на обработку персональных данных -> /privacyeng
+В телеграм → -> https://t.me/+Ks2rJDid4so2OWYy
+публичную оферту -> /termsandconditions
+на обработку персональных данных -> /privacyeng
+Договор публичной оферты -> /oferta
+Политика конфиденциальности -> /privacy
+Privacy Policy -> /privacyeng
+Terms and Conditions -> /termsandconditions
+9.Срок действия настоящей Оферты -> null

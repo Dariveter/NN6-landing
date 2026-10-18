@@ -1,0 +1,17 @@
+{
+  "url": "https://nii-field-winter-v3-n2vadqif1-dmitriis-projects-8673976b.vercel.app",
+  "deployment_id": "dpl_DiRbGThUFgwY4CTZDqc13V6VQoTm",
+  "state": "READY",
+  "target": "preview",
+  "project_id": "prj_Rfh6OIPqZBvgXh0dMUP37K8QhXUI",
+  "project_name": "nii-field-winter-v3",
+  "team_id": "team_IHwZNgbL9aCooZyjSyvhzYxV",
+  "date": "2026-10-08",
+  "payment_live": false,
+  "source_manifest": "site-v4-files.txt",
+  "authentication": "Vercel Authentication",
+  "share_link_created": false,
+  "verification": "Local UI and static checks passed; CLI READY; remote browser requires Vercel login",
+  "prior_failed_deployment": "dpl_ECEmA4KJHwxx2jKR9BZHYVN4kvCw",
+  "access_decision": "User explicitly chose to keep Vercel Authentication; no share link."
+}

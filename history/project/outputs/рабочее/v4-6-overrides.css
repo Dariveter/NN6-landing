@@ -1,0 +1,89 @@
+/* v4.6 — clearer first screen and shorter paths to the relevant content. */
+@media screen {
+ .hero-winter{padding-top:38px}
+ .hero-grid{min-height:560px;align-items:center}
+ .hero-winter h1{font-size:clamp(56px,5.45vw,82px);line-height:1.015}
+ .hero-org{margin-top:12px}
+ .hero-winter .hero-intro{margin-top:20px;font-size:20px;line-height:1.42}
+ .hero-audience{color:#bed0d2;line-height:1.55;margin-top:13px;max-width:480px}
+ .hero-audience strong{margin-top:7px}
+ .hero-start{display:inline-block;margin-left:12px;color:#ccebe1;font:500 11px/1.5 var(--body);letter-spacing:0;text-transform:none}
+ .hero-price{margin-top:18px}
+ .hero-price small{font-size:11px;color:#bdd5d1}
+ .hero-price .price-pair{font-size:22px;margin-top:3px;gap:7px}
+ .hero-actions{margin-top:18px}
+ .hero-actions .button{padding:16px 21px}
+ .alumni-link{display:inline-flex;align-items:center;min-height:32px;margin-top:10px}
+ .desktop-nav{gap:18px;font-size:12px}
+ .desktop-nav a{display:inline-flex;align-items:center;min-height:36px;white-space:nowrap}
+ .program-disclaimer{color:#bfd8cf!important;line-height:1.6}
+ .price-grid{grid-template-columns:minmax(0,1fr) minmax(0,1.04fr);grid-template-rows:auto 1fr;gap:28px 56px}
+ .price-intro{grid-column:1;grid-row:1}
+ .price-benefits{grid-column:1;grid-row:2;align-self:start}
+ .price-benefits .included{margin-top:0}
+ .price-card{grid-column:2;grid-row:1 / 3}
+ #participation{scroll-margin-top:100px}
+ .person-name-button{min-height:44px}
+ .expert-dialog-closebar button{min-width:44px;min-height:44px}
+ .review-card:target{outline:3px solid #2f8776;outline-offset:5px}
+ .mobile-nav{max-height:calc(100dvh - 78px);overflow-y:auto;overscroll-behavior:contain}
+ .mobile-nav a{min-height:44px;display:flex;align-items:center}
+ .mobile-nav a:focus-visible{outline:2px solid #94dccc;outline-offset:3px}
+ .js .review-rail-controls{display:flex;align-items:center;justify-content:flex-end;gap:12px;margin:0 0 16px}
+ .review-rail-controls button{width:44px;height:44px;border:1px solid #819c91;border-radius:50%;background:#fffefa;color:#163b33;font:500 23px/1 var(--body);cursor:pointer}
+ .review-rail-controls button:disabled{opacity:.32;cursor:default}
+ .review-rail-status{font:500 12px/1.4 var(--body);color:#45645a;min-width:92px;text-align:center}
+ .js #stories .review-grid{display:flex;gap:20px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:thin;scrollbar-color:#91b1a3 #edf2e9;padding:6px 3px 18px;columns:auto}
+ .js #stories .review-card{flex:0 0 calc((100% - 40px)/3);scroll-snap-align:start;min-width:0;margin:0;box-sizing:border-box}
+ .js #stories .review-card h3{font-size:25px;line-height:1.15}
+ .js #stories .review-card p{line-height:1.6}
+ .neuroniy-label small{max-width:150px}
+}
+@media screen and (max-width:1100px){.desktop-nav{gap:10px;font-size:11px}.header-inner{gap:12px}.js #stories .review-card{flex-basis:calc((100% - 20px)/2)}}
+@media screen and (max-width:860px){
+ .hero-winter{padding-top:32px}.hero-grid{min-height:0}.hero-winter h1{font-size:60px}
+ .desktop-nav{display:none}.header-inner{gap:14px}
+ .price-grid{grid-template-columns:1fr;grid-template-rows:auto;gap:24px}
+ .price-intro,.price-card,.price-benefits{grid-column:1;grid-row:auto}
+ .price-intro{order:0}.price-card{order:1}.price-benefits{order:2}.recording-note{order:3}
+ .price-intro>.section-answer{font-size:24px;margin-top:16px}
+ .price-intro>p:not(.section-answer){font-size:14px;line-height:1.6;margin-top:12px}
+ #participation{scroll-margin-top:88px}
+}
+@media screen and (max-width:620px){
+ .hero-winter{padding-top:27px}
+ .hero-winter h1{font-size:clamp(43px,11.8vw,64px);line-height:1.025}
+ .hero-start{display:block;flex:0 0 100%;margin:0;padding-left:17px;font-size:12px}
+ .season-date{font-size:10px;line-height:1.5;margin-bottom:17px;flex-wrap:wrap;row-gap:4px}
+ .hero-org{font-size:25px;margin-top:11px}
+ .hero-winter .hero-intro{font-size:18px!important;line-height:1.4;margin-top:18px}
+ .hero-audience{font-size:13px;line-height:1.55;margin-top:12px}
+ .hero-price{margin-top:16px}
+ .hero-price .price-pair{font-size:18px;line-height:1.4;gap:4px 6px}
+ .hero-actions{margin-top:15px;gap:16px}
+ .hero-actions .button{font-size:13px;padding:14px 17px;min-height:48px}
+ .hero-actions .text-link{font-size:12px;min-height:44px;display:inline-flex;align-items:center}
+ .alumni-link{font-size:11px;margin-top:7px;min-height:36px}
+ .hero-art{min-height:265px}
+ .section{padding-block:48px}
+ .question-head{margin-bottom:28px}
+ .price-intro h2{font-size:38px;line-height:1.1}
+ .ticket-top{padding:20px 24px 0}
+ .ticket-title{padding:18px 24px 16px}
+ .ticket-title h3{font-size:30px}
+ .ticket-duration{width:62px;min-width:62px;height:72px}
+ .ticket-tracks{padding:0 24px 19px}
+ .ticket-body{padding:21px 24px 26px}
+ .js .review-rail-controls{justify-content:space-between;margin-bottom:12px}
+ .js #stories .review-grid{gap:14px;scroll-padding-inline:3px}
+ .js #stories .review-card{flex-basis:calc(100% - 30px)}
+ .js #stories .review-card h3{font-size:27px}
+ #neuroniy-pet .neuroniy-character{width:66px;height:66px}
+ #neuroniy-pet .neuroniy-label{padding:8px 10px;max-width:126px}
+ #neuroniy-pet .neuroniy-label strong{font-size:13px}
+ #neuroniy-pet .neuroniy-label>span{font-size:9px}
+ #neuroniy-pet .neuroniy-label small{display:none}
+ .expert-dialog-closebar button{margin-top:7px}
+}
+@media screen and (max-width:360px){.hero-winter h1{font-size:40px}.hero-org{font-size:23px}.hero-price .price-pair{font-size:16px}.hero-audience{font-size:12px}.hero-actions .button{padding-inline:13px}.hero-actions{gap:12px}.hero-actions .text-link{font-size:11px}.hero-art{min-height:235px}.price-intro h2{font-size:34px}.ticket-title h3{font-size:27px}.ticket-body{padding-inline:20px}}
+@media(prefers-reduced-motion:reduce){.js #stories .review-grid{scroll-behavior:auto}}

@@ -1,0 +1,56 @@
+[
+  {
+    "key": "smartgen",
+    "name": "SMARTGEN",
+    "site": "https://www.smartgenisrael.com/",
+    "asset": "https://static.wixstatic.com/media/fc9931_1e8c79a5852b472ebebf13dc67fdb47f~mv2.png/v1/fill/w_136,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-2.png",
+    "file": "assets/partner-smartgen-v4-4.webp",
+    "bytes": 7214,
+    "mime": "image/webp"
+  },
+  {
+    "key": "tlvmed",
+    "name": "Tel Aviv Medical Center",
+    "site": "https://tlvmed.co.il/",
+    "asset": "https://tlvmed.co.il/wp-content/uploads/2018/10/logo.png",
+    "file": "assets/partner-tlvmed-v4-4.png",
+    "bytes": 2851,
+    "mime": "image/png"
+  },
+  {
+    "key": "olim",
+    "name": "Всеизраильская Федерация репатриантов",
+    "site": "https://olimisrael.org.il/",
+    "asset": "https://olimisrael.org.il/wp-content/uploads/2024/08/Fed_Light.svg",
+    "file": "assets/partner-olim-v4-4.svg",
+    "bytes": 4017,
+    "mime": "image/svg+xml"
+  },
+  {
+    "key": "wave",
+    "name": "WAVE",
+    "site": "https://wave-network.com/",
+    "asset": "https://wave-network.com/web/image/website/1/logo/Wave-Network?unique=29dd1b1",
+    "file": "assets/partner-wave-v4-4.png",
+    "bytes": 10548,
+    "mime": "image/png"
+  },
+  {
+    "key": "yaar",
+    "name": "YAAR",
+    "site": "https://yaarbar.com/",
+    "asset": "https://yaarbar.com/wp-content/uploads/2026/01/YAAR_Simple_Logo-removebg-preview-transparent.png",
+    "file": "assets/partner-yaar-v4-4.png",
+    "bytes": 12006,
+    "mime": "image/png"
+  },
+  {
+    "key": "londoncult",
+    "name": "London Cult",
+    "site": "https://londoncult.co.uk/",
+    "asset": "https://londoncult.co.uk/wp-content/uploads/2022/11/london_cult-logo.svg",
+    "file": "assets/partner-londoncult-v4-4.svg",
+    "bytes": 17215,
+    "mime": "image/svg+xml"
+  }
+]

@@ -1,0 +1,316 @@
+{
+  "version": "v3",
+  "date": "2026-10-08",
+  "viewportChecks": [
+    {
+      "answer": "26px",
+      "overflow": [],
+      "page": 1440,
+      "price": [
+        {
+          "font": "35px",
+          "text": "350 евро"
+        },
+        {
+          "font": "15px",
+          "text": "или"
+        },
+        {
+          "font": "35px",
+          "text": "35 тысяч рублей"
+        }
+      ],
+      "question": "59px",
+      "width": 1440
+    },
+    {
+      "answer": "26px",
+      "overflow": [],
+      "page": 1280,
+      "price": [
+        {
+          "font": "35px",
+          "text": "350 евро"
+        },
+        {
+          "font": "15px",
+          "text": "или"
+        },
+        {
+          "font": "35px",
+          "text": "35 тысяч рублей"
+        }
+      ],
+      "question": "52.48px",
+      "width": 1280
+    },
+    {
+      "answer": "26px",
+      "overflow": [],
+      "page": 1024,
+      "price": [
+        {
+          "font": "35px",
+          "text": "350 евро"
+        },
+        {
+          "font": "15px",
+          "text": "или"
+        },
+        {
+          "font": "35px",
+          "text": "35 тысяч рублей"
+        }
+      ],
+      "question": "41.984px",
+      "width": 1024
+    },
+    {
+      "answer": "23px",
+      "overflow": [],
+      "page": 768,
+      "price": [
+        {
+          "font": "32px",
+          "text": "350 евро"
+        },
+        {
+          "font": "15px",
+          "text": "или"
+        },
+        {
+          "font": "32px",
+          "text": "35 тысяч рублей"
+        }
+      ],
+      "question": "43px",
+      "width": 768
+    },
+    {
+      "answer": "21px",
+      "overflow": [],
+      "page": 430,
+      "price": [
+        {
+          "font": "30px",
+          "text": "350 евро"
+        },
+        {
+          "font": "13px",
+          "text": "или"
+        },
+        {
+          "font": "30px",
+          "text": "35 тысяч рублей"
+        }
+      ],
+      "question": "36px",
+      "width": 430
+    },
+    {
+      "answer": "21px",
+      "overflow": [],
+      "page": 390,
+      "price": [
+        {
+          "font": "30px",
+          "text": "350 евро"
+        },
+        {
+          "font": "13px",
+          "text": "или"
+        },
+        {
+          "font": "30px",
+          "text": "35 тысяч рублей"
+        }
+      ],
+      "question": "36px",
+      "width": 390
+    },
+    {
+      "answer": "19px",
+      "overflow": [],
+      "page": 320,
+      "price": [
+        {
+          "font": "27px",
+          "text": "350 евро"
+        },
+        {
+          "font": "13px",
+          "text": "или"
+        },
+        {
+          "font": "27px",
+          "text": "35 тысяч рублей"
+        }
+      ],
+      "question": "32px",
+      "width": 320
+    }
+  ],
+  "interactionChecks": [
+    {
+      "test": "Task visual switch",
+      "title": "Подготовить серию материалов в своём стиле",
+      "visible": [
+        "demo-content"
+      ]
+    },
+    {
+      "plus": "+",
+      "secondWeekOpen": true,
+      "test": "Camp disclosure"
+    },
+    {
+      "count": 7,
+      "month": "Декабрь",
+      "test": "Calendar month"
+    },
+    {
+      "count": 7,
+      "month": "Январь",
+      "test": "Calendar month"
+    },
+    {
+      "count": 5,
+      "month": "Ноябрь",
+      "test": "Calendar month"
+    },
+    {
+      "count": 1,
+      "test": "Calendar strategy filter",
+      "title": "Мир без работы"
+    },
+    {
+      "count": 12,
+      "name": "Истории и проекты",
+      "status": "Материалов: 12",
+      "test": "Review filter"
+    },
+    {
+      "count": 3,
+      "name": "Отзывы",
+      "status": "Материалов: 3",
+      "test": "Review filter"
+    },
+    {
+      "count": 14,
+      "name": "Видео",
+      "status": "Материалов: 14",
+      "test": "Review filter"
+    },
+    {
+      "count": 29,
+      "name": "Вся подборка",
+      "status": "Материалов: 29",
+      "test": "Review filter"
+    },
+    {
+      "hidden": false,
+      "open": "true",
+      "test": "Mobile menu opens"
+    },
+    {
+      "closed": true,
+      "focus": true,
+      "test": "Checkout closes with Escape and restores focus"
+    },
+    {
+      "count": 9,
+      "firstDetailsOpen": true,
+      "images": [
+        {
+          "loaded": true,
+          "name": "Дмитрий Эйгенсон"
+        },
+        {
+          "loaded": true,
+          "name": "Денис Домрачев"
+        },
+        {
+          "loaded": true,
+          "name": "Сергей Долгов"
+        },
+        {
+          "loaded": true,
+          "name": "Александр Ярыгин"
+        },
+        {
+          "loaded": true,
+          "name": "Юлия Кветна"
+        },
+        {
+          "loaded": true,
+          "name": "Андрей Смирнов"
+        },
+        {
+          "loaded": true,
+          "name": "Валентин Васин"
+        },
+        {
+          "loaded": true,
+          "name": "Сергей Васильев"
+        }
+      ],
+      "test": "People"
+    },
+    {
+      "heroAnimation": "paused",
+      "paused": true,
+      "renderer": "webgl",
+      "test": "Animation pause"
+    },
+    {
+      "animation": "none",
+      "canvasHidden": true,
+      "matches": true,
+      "test": "Reduced motion"
+    },
+    {
+      "test": "WebGL context loss",
+      "hidden": true,
+      "renderer": "context-lost"
+    },
+    {
+      "test": "No JavaScript",
+      "js": false,
+      "events": 19,
+      "panels": 3,
+      "nativeDisclosure": true,
+      "controls": true
+    },
+    {
+      "currencies": [
+        {
+          "size": "27px",
+          "text": "175 евро",
+          "weight": "600"
+        },
+        {
+          "size": "27px",
+          "text": "17,5 тысячи рублей",
+          "weight": "600"
+        }
+      ],
+      "page": 320,
+      "price": "175 евро\nили\n17,5 тысячи рублей\n\nза все три месяца",
+      "test": "Alumni at 320",
+      "width": 320
+    }
+  ],
+  "limitations": [
+    "Browser emulation only; not a physical mobile device",
+    "Local preview; not a conversion test",
+    "Payment is a demo, not a live transaction"
+  ],
+  "errors": [],
+  "fixes": [
+    "JS-only containers inherited inline display: corrected",
+    "Tablet hero image exceeded viewport: corrected",
+    "Calendar filter spacing improved",
+    "Distinct output diagrams for report, content plan and digest",
+    "No-WebGL mode skips draw loop"
+  ]
+}

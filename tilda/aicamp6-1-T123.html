@@ -1,0 +1,33 @@
+<!-- Код блока T123 на странице ne-institute.com/aicamp6-1 (Тильда, проект «НИИ Нейросетей», папка НН6).
+     Ниже на странице стоит блок корзины ST100 (евро, Allpay). Скрипт принимает товар из лендинга и кладёт его в корзину. -->
+<style>
+#t-header,#t-footer{display:none!important}
+.nn6-frame{display:block;width:100%;height:100vh;height:100dvh;border:0;margin:0}
+body{margin:0}
+</style>
+<iframe class="nn6-frame" id="nn6-frame" src="https://dariveter.github.io/NN6-landing/index.html" title="Зимний интенсив по ИИ в сообществе FIELD" loading="eager" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<script>
+(function(){
+  /* Товар из лендинга (GitHub Pages, Dariveter/NN6-landing) → корзина Тильды на этой странице (евро, Allpay). */
+  var ALLOWED='https://dariveter.github.io';
+  function order(hash){
+    if(!/^#order:[^=]+=\d+(?:\.\d+)?$/.test(hash))return;
+    var frame=document.getElementById('nn6-frame');
+    var rec=frame&&frame.closest('.r');
+    if(!rec)return;
+    var a=document.createElement('a');a.href=hash;a.style.display='none';
+    rec.appendChild(a);a.click();setTimeout(function(){a.remove();},1500);
+  }
+  window.addEventListener('message',function(e){
+    if(e.origin!==ALLOWED||!e.data||e.data.type!=='nn6-order')return;
+    order(decodeURIComponent(String(e.data.hash||'')));
+  });
+  function fromUrl(){
+    var h=decodeURIComponent(location.hash||'');
+    if(h.indexOf('#order:')!==0)return;
+    history.replaceState(null,'',location.pathname+location.search);
+    setTimeout(function(){order(h);},1200);
+  }
+  if(document.readyState==='complete')fromUrl();else window.addEventListener('load',fromUrl);
+})();
+</script>
